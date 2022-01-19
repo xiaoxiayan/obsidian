@@ -1,15 +1,15 @@
 {
   "main": {
-    "id": "6149ffa4cdedd056",
+    "id": "12b0a440e611eadd",
     "type": "split",
     "children": [
       {
-        "id": "994ea3dcd11dd678",
+        "id": "2b3640bf8b4a2117",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "leetCode/回溯算法/子集.md",
+            "file": "study_every/2022-01-19.md",
             "mode": "source",
             "backlinks": false,
             "source": false
@@ -20,15 +20,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "bd119ebf78bec435",
+    "id": "748fd42f54e9ec14",
     "type": "split",
     "children": [
       {
-        "id": "b89b68185b90a278",
+        "id": "35c565c91c65d6ef",
         "type": "tabs",
         "children": [
           {
-            "id": "575252749a0a43a9",
+            "id": "5b86ea041546ef7f",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -36,7 +36,7 @@
             }
           },
           {
-            "id": "8a05304ff6fa6e5c",
+            "id": "a25d3b9dafeb1dfc",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -51,40 +51,26 @@
             }
           }
         ]
-      },
-      {
-        "id": "c23213ee4b371e48",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "4a3ffc7288b61d4b",
-            "type": "leaf",
-            "state": {
-              "type": "calendar",
-              "state": {}
-            }
-          }
-        ]
       }
     ],
     "direction": "horizontal",
     "width": 300
   },
   "right": {
-    "id": "23f66cad4ac9bb07",
+    "id": "b374c9bec69d477a",
     "type": "split",
     "children": [
       {
-        "id": "56d3786d6296a751",
+        "id": "6c54a576f4aa751e",
         "type": "tabs",
         "children": [
           {
-            "id": "2f8ebf9900e053a9",
+            "id": "83d5de7cc80092b0",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "leetCode/回溯算法/子集.md",
+                "file": "study_every/2022-01-19.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -96,7 +82,38 @@
             }
           },
           {
-            "id": "cb17e68527812996",
+            "id": "fde3fb9e61e300a2",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "study_every/2022-01-19.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "51ad59c847b947dd",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "c457bc5c94e6273e",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          },
+          {
+            "id": "ace96c0bb94a91ee",
             "type": "leaf",
             "state": {
               "type": "todo",
@@ -107,19 +124,20 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
-  "active": "994ea3dcd11dd678",
+  "active": "2b3640bf8b4a2117",
   "lastOpenFiles": [
-    "leetCode/回溯算法/子集.md",
-    "leetCode/回溯算法/subset.md",
-    "study_every/2022-01-13.md",
-    "leetCode/回溯算法.md",
     "study_every/2022-01-19.md",
-    "study_every/2022-01-17.md",
-    "study_every/2022-01-18.md",
+    "study_every/2022-01-20.md",
+    "leetCode/回溯算法/组合题目/17.电话号码的字母组合.md",
+    "leetCode/回溯算法/组合题目/17.回溯算法图.png",
+    "Pasted image 20220119230323.png",
+    "leetCode/回溯算法/子集.md",
+    "study_every/2022-01-13.md",
     "template/daily-plan.md",
-    "study_every/2022-01-14.md",
-    "2022-01-13.md"
+    "study_every/2022-01-18.md",
+    "study_every/2022-01-17.md"
   ]
 }
