@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "study_every/2022-01-19.md",
+            "file": "study_every/2022-01-22.md",
             "mode": "source",
             "backlinks": false,
             "source": false
@@ -51,6 +51,20 @@
             }
           }
         ]
+      },
+      {
+        "id": "231ce5acdcab4a40",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c457bc5c94e6273e",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          }
+        ]
       }
     ],
     "direction": "horizontal",
@@ -70,7 +84,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "study_every/2022-01-19.md",
+                "file": "study_every/2022-01-22.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -87,7 +101,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "study_every/2022-01-19.md",
+                "file": "study_every/2022-01-22.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -105,14 +119,6 @@
             }
           },
           {
-            "id": "c457bc5c94e6273e",
-            "type": "leaf",
-            "state": {
-              "type": "calendar",
-              "state": {}
-            }
-          },
-          {
             "id": "ace96c0bb94a91ee",
             "type": "leaf",
             "state": {
@@ -120,7 +126,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -129,15 +136,15 @@
   },
   "active": "2b3640bf8b4a2117",
   "lastOpenFiles": [
-    "study_every/2022-01-19.md",
+    "study_every/2022-01-22.md",
     "study_every/2022-01-20.md",
+    "study_every/2022-01-19.md",
     "leetCode/回溯算法/组合题目/17.电话号码的字母组合.md",
     "leetCode/回溯算法/组合题目/17.回溯算法图.png",
     "Pasted image 20220119230323.png",
     "leetCode/回溯算法/子集.md",
     "study_every/2022-01-13.md",
     "template/daily-plan.md",
-    "study_every/2022-01-18.md",
-    "study_every/2022-01-17.md"
+    "study_every/2022-01-18.md"
   ]
 }
