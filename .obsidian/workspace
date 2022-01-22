@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "study_every/2022-01-22.md",
+            "file": "leetCode/二叉树/二叉树的属性/257/二叉树的所有路径.md",
             "mode": "source",
             "backlinks": false,
             "source": false
@@ -84,7 +84,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "study_every/2022-01-22.md",
+                "file": "leetCode/二叉树/二叉树的属性/257/二叉树的所有路径.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -101,7 +101,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "study_every/2022-01-22.md",
+                "file": "leetCode/二叉树/二叉树的属性/257/二叉树的所有路径.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -136,15 +136,15 @@
   },
   "active": "2b3640bf8b4a2117",
   "lastOpenFiles": [
+    "leetCode/二叉树/二叉树的属性/257/二叉树的所有路径.md",
+    "template/leetCode-template.md",
+    "leetCode/二叉树/二叉树的属性/257/二叉树递归图.png",
+    "leetCode/二叉树/二叉树的属性/257/例子.png",
+    "leetCode/二叉树/二叉树的属性/257/Pasted image 20220122141203.png",
+    "leetCode/回溯算法/组合题目/17.电话号码的字母组合.md",
     "study_every/2022-01-22.md",
     "study_every/2022-01-21.md",
     "study_every/2022-01-20.md",
-    "study_every/2022-01-19.md",
-    "leetCode/回溯算法/组合题目/17.电话号码的字母组合.md",
-    "leetCode/回溯算法/组合题目/17.回溯算法图.png",
-    "Pasted image 20220119230323.png",
-    "leetCode/回溯算法/子集.md",
-    "study_every/2022-01-13.md",
-    "template/daily-plan.md"
+    "study_every/2022-01-19.md"
   ]
 }
