@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "study_every/2022-01-25.md",
+            "file": "study_every/2022-01-26.md",
             "mode": "source",
             "backlinks": false,
             "source": false
@@ -53,11 +53,11 @@
         ]
       },
       {
-        "id": "c23213ee4b371e48",
+        "id": "9cc0a37d0a96a873",
         "type": "tabs",
         "children": [
           {
-            "id": "4a3ffc7288b61d4b",
+            "id": "f1e6447e394ca56a",
             "type": "leaf",
             "state": {
               "type": "calendar",
@@ -84,7 +84,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "study_every/2022-01-25.md",
+                "file": "study_every/2022-01-26.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -109,7 +109,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "study_every/2022-01-25.md",
+                "file": "study_every/2022-01-26.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -134,6 +135,7 @@
   },
   "active": "994ea3dcd11dd678",
   "lastOpenFiles": [
+    "study_every/2022-01-26.md",
     "study_every/2022-01-25.md",
     "study_every/2022-01-24.md",
     "study_every/2022-01-23.md",
@@ -142,7 +144,6 @@
     "study_every/2022-01-20.md",
     "study_every/2022-01-19.md",
     "leetCode/回溯算法/子集.md",
-    "leetCode/回溯算法/subset.md",
-    "study_every/2022-01-13.md"
+    "leetCode/回溯算法/subset.md"
   ]
 }
