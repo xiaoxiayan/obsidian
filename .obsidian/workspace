@@ -4,16 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "2b3640bf8b4a2117",
+        "id": "f96745af7363f5f8",
         "type": "leaf",
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "study_every/2022-01-22.md",
-            "mode": "source",
-            "backlinks": false,
-            "source": false
-          }
+          "type": "empty",
+          "state": {}
         }
       }
     ],
@@ -84,7 +79,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "study_every/2022-01-22.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -101,7 +95,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "study_every/2022-01-22.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +127,7 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "2b3640bf8b4a2117",
+  "active": "f96745af7363f5f8",
   "lastOpenFiles": [
     "study_every/2022-01-22.md",
     "leetCode/二叉树/二叉树的属性/257/二叉树的所有路径.md",
