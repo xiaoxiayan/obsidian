@@ -1,29 +1,42 @@
 {
   "main": {
-    "id": "12b0a440e611eadd",
+    "id": "6149ffa4cdedd056",
     "type": "split",
     "children": [
       {
+<<<<<<< HEAD
         "id": "f96745af7363f5f8",
         "type": "leaf",
         "state": {
           "type": "empty",
           "state": {}
+=======
+        "id": "994ea3dcd11dd678",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "study_every/2022-02-11.md",
+            "mode": "source",
+            "backlinks": false,
+            "source": false
+          }
+>>>>>>> ca0ebd19e64f144b8610b7cdafd4f8472aa6a1b0
         }
       }
     ],
     "direction": "vertical"
   },
   "left": {
-    "id": "748fd42f54e9ec14",
+    "id": "bd119ebf78bec435",
     "type": "split",
     "children": [
       {
-        "id": "35c565c91c65d6ef",
+        "id": "b89b68185b90a278",
         "type": "tabs",
         "children": [
           {
-            "id": "5b86ea041546ef7f",
+            "id": "575252749a0a43a9",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -31,7 +44,7 @@
             }
           },
           {
-            "id": "a25d3b9dafeb1dfc",
+            "id": "8a05304ff6fa6e5c",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -48,11 +61,11 @@
         ]
       },
       {
-        "id": "231ce5acdcab4a40",
+        "id": "9cc0a37d0a96a873",
         "type": "tabs",
         "children": [
           {
-            "id": "c457bc5c94e6273e",
+            "id": "f1e6447e394ca56a",
             "type": "leaf",
             "state": {
               "type": "calendar",
@@ -66,19 +79,23 @@
     "width": 300
   },
   "right": {
-    "id": "b374c9bec69d477a",
+    "id": "23f66cad4ac9bb07",
     "type": "split",
     "children": [
       {
-        "id": "6c54a576f4aa751e",
+        "id": "56d3786d6296a751",
         "type": "tabs",
         "children": [
           {
-            "id": "83d5de7cc80092b0",
+            "id": "2f8ebf9900e053a9",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
+<<<<<<< HEAD
+=======
+                "file": "study_every/2022-02-11.md",
+>>>>>>> ca0ebd19e64f144b8610b7cdafd4f8472aa6a1b0
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -90,18 +107,30 @@
             }
           },
           {
-            "id": "fde3fb9e61e300a2",
+            "id": "cb17e68527812996",
+            "type": "leaf",
+            "state": {
+              "type": "todo",
+              "state": {}
+            }
+          },
+          {
+            "id": "3544fb7743628e3f",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
+<<<<<<< HEAD
+=======
+                "file": "study_every/2022-02-11.md",
+>>>>>>> ca0ebd19e64f144b8610b7cdafd4f8472aa6a1b0
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
             }
           },
           {
-            "id": "51ad59c847b947dd",
+            "id": "b2b23738d17ab43f",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -110,34 +139,29 @@
                 "useHierarchy": true
               }
             }
-          },
-          {
-            "id": "ace96c0bb94a91ee",
-            "type": "leaf",
-            "state": {
-              "type": "todo",
-              "state": {}
-            }
           }
         ],
         "currentTab": 3
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
+<<<<<<< HEAD
   "active": "f96745af7363f5f8",
+=======
+  "active": "994ea3dcd11dd678",
+>>>>>>> ca0ebd19e64f144b8610b7cdafd4f8472aa6a1b0
   "lastOpenFiles": [
-    "study_every/2022-01-22.md",
-    "leetCode/二叉树/二叉树的属性/257/二叉树的所有路径.md",
-    "template/leetCode-template.md",
-    "leetCode/二叉树/二叉树的属性/257/二叉树递归图.png",
-    "leetCode/二叉树/二叉树的属性/257/例子.png",
-    "leetCode/二叉树/二叉树的属性/257/Pasted image 20220122141203.png",
-    "leetCode/回溯算法/组合题目/17.电话号码的字母组合.md",
-    "study_every/2022-01-21.md",
-    "study_every/2022-01-20.md",
-    "study_every/2022-01-19.md"
+    "study_every/2022-02-11.md",
+    "study_every/2022-02-10.md",
+    "study_every/2022-02-08.md",
+    "study_every/2022-02-06.md",
+    "study_every/2022-02-05.md",
+    "study_every/2022-02-04.md",
+    "study_every/2022-02-02.md",
+    "study_every/2022-02-01.md",
+    "study_every/2022-01-31.md",
+    "study_every/2022-01-30.md"
   ]
 }
