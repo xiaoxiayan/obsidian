@@ -18,7 +18,21 @@ canvas  --> new Element() , el.x = 10,   container.addChild()
 把他变成封装的稳定的接口， 直接调用。根据type , 去走对应的API
 创建元素：createElement()
 设置属性：patchProp(el, key, val )
-插入父级： insert(el, contianer)
+插入父级： insert(el, container)
+
+
+createRenderer（ {
+	createElement, 
+	patchProp,
+	insert
+}）
+
+传入 options 
+
+步骤：
+创建 render-dom --> index ， 实现函数
+createElement，patchProp， insert
+
 
 
 

@@ -1,10 +1,10 @@
 {
   "main": {
-    "id": "3135cef7c987fd7e",
+    "id": "6149ffa4cdedd056",
     "type": "split",
     "children": [
       {
-        "id": "339898955de4e2a7",
+        "id": "46234b21d0e5e720",
         "type": "leaf",
         "state": {
           "type": "markdown",
@@ -20,16 +20,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "7028c4344735ff18",
+    "id": "bd119ebf78bec435",
     "type": "split",
     "children": [
       {
-        "id": "cd308b79fd1a0996",
+        "id": "b89b68185b90a278",
         "type": "tabs",
-        "dimension": 70.57522123893806,
         "children": [
           {
-            "id": "da241304e24c8e72",
+            "id": "575252749a0a43a9",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -37,7 +36,7 @@
             }
           },
           {
-            "id": "68a5950aae98322c",
+            "id": "8a05304ff6fa6e5c",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -54,12 +53,11 @@
         ]
       },
       {
-        "id": "741250078d67a2d6",
+        "id": "c23213ee4b371e48",
         "type": "tabs",
-        "dimension": 29.424778761061948,
         "children": [
           {
-            "id": "e3dacd564b37a9c6",
+            "id": "4a3ffc7288b61d4b",
             "type": "leaf",
             "state": {
               "type": "calendar",
@@ -73,15 +71,15 @@
     "width": 300
   },
   "right": {
-    "id": "81538c531081f5ba",
+    "id": "23f66cad4ac9bb07",
     "type": "split",
     "children": [
       {
-        "id": "adcdea78a3503aa6",
+        "id": "56d3786d6296a751",
         "type": "tabs",
         "children": [
           {
-            "id": "05e24928ca622c25",
+            "id": "2f8ebf9900e053a9",
             "type": "leaf",
             "state": {
               "type": "backlink",
@@ -98,19 +96,27 @@
             }
           },
           {
-            "id": "29d3ab5b5f39eae1",
+            "id": "cb17e68527812996",
+            "type": "leaf",
+            "state": {
+              "type": "todo",
+              "state": {}
+            }
+          },
+          {
+            "id": "3544fb7743628e3f",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
                 "file": "mini-vue/32-实现自定义渲染器 custom renderer.md",
                 "linksCollapsed": false,
-                "unlinkedCollapsed": true
+                "unlinkedCollapsed": false
               }
             }
           },
           {
-            "id": "5ab437de28b46ebd",
+            "id": "b2b23738d17ab43f",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -119,26 +125,25 @@
                 "useHierarchy": true
               }
             }
-          },
-          {
-            "id": "821eb63742852f7c",
-            "type": "leaf",
-            "state": {
-              "type": "todo",
-              "state": {}
-            }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
-  "active": "339898955de4e2a7",
+  "active": "46234b21d0e5e720",
   "lastOpenFiles": [
     "mini-vue/32-实现自定义渲染器 custom renderer.md",
+    "study_every/2022-02-15.md",
     "study_every/2022-02-14.md",
-    "study_every/2022-01-29.md",
-    "study_every/2022-02-13.md"
+    "leetCode/算法.md",
+    "leetCode/二叉树/二叉树的属性/257/二叉树的所有路径.md",
+    "leetCode/回溯算法/组合题目/17.电话号码的字母组合.md",
+    "study_every/2022-01-25.md",
+    "study_every/2022-01-24.md",
+    "study_every/2022-01-23.md",
+    "study_every/2022-01-22.md"
   ]
 }
