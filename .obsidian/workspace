@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "study_every/2022-02-16.md",
+            "file": "study_every/2022-02-17.md",
             "mode": "source",
             "backlinks": false,
             "source": false
@@ -84,7 +84,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "study_every/2022-02-16.md",
+                "file": "study_every/2022-02-17.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -109,7 +109,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "study_every/2022-02-16.md",
+                "file": "study_every/2022-02-17.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -135,6 +135,7 @@
   },
   "active": "46234b21d0e5e720",
   "lastOpenFiles": [
+    "study_every/2022-02-17.md",
     "study_every/2022-02-16.md",
     "study_every/2022-02-15.md",
     "mini-vue/32-实现自定义渲染器 custom renderer.md",
@@ -143,7 +144,6 @@
     "leetCode/二叉树/二叉树的属性/257/二叉树的所有路径.md",
     "leetCode/回溯算法/组合题目/17.电话号码的字母组合.md",
     "study_every/2022-01-25.md",
-    "study_every/2022-01-24.md",
-    "study_every/2022-01-23.md"
+    "study_every/2022-01-24.md"
   ]
 }
