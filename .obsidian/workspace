@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "mini-vue/VUE 流程随感笔记.md",
+            "file": "study_every/2022-02-24.md",
             "mode": "source",
             "backlinks": false,
             "source": false
@@ -84,7 +84,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "mini-vue/VUE 流程随感笔记.md",
+                "file": "study_every/2022-02-24.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -109,7 +109,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "mini-vue/VUE 流程随感笔记.md",
+                "file": "study_every/2022-02-24.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -135,15 +135,15 @@
   },
   "active": "46234b21d0e5e720",
   "lastOpenFiles": [
+    "study_every/2022-02-24.md",
+    "study_every/2022-02-25.md",
     "mini-vue/VUE 流程随感笔记.md",
     "mini-vue/36. 更新 element 的 children 双端对比 diff.md",
     "template/leetCode-template.md",
     "study_every/更新 element 的 children 双端对比 diff.md",
-    "study_every/2022-02-24.md",
     "study_every/2022-02-22.md",
     "mini-vue/34.更新 props.md",
     "study_every/2022-02-21.md",
-    "mini-vue/33-更新element流程搭建.md",
-    "study_every/2022-02-18.md"
+    "mini-vue/33-更新element流程搭建.md"
   ]
 }
