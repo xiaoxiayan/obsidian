@@ -1,9 +1,15 @@
+# happy  path 渲染流程
 create(app).mount('#root')
 create(app) 会 返回一个 APP dom. mount挂在到 根节点上，
 APP -> 会经过处理，收集 effect 。 分为初始化 和 更新
 流程：初始化 -> 渲染 render -> 调用 patch 解析
-1. 核心
- patch (vnode ， rootContainer)  ：基于 vnode 的类型进行不同类型的组件处理 。 
+create(app) -> 创建vnode节点， createVNode(type,  props?, children?) -> render  -> patch
+
+ 核心函数
+ * createVNode(type, props?, children？): 根据传入 children 类型去创建 vnode 的节点， 用 运算符的方式标记 这个vnode 的具体类型。  shapeFlag  
+ * patch (vnode ， rootContainer)  ：基于 vnode 的类型进行不同类型的处理 。
+ * render() ： 渲染逻辑函数
+ 
 
 根据 vnode的 类型 分为2种，
 #### 1 、element 型， 就是当前 vnode 中的 div 等标签
@@ -19,11 +25,17 @@ APP -> 会经过处理，收集 effect 。 分为初始化 和 更新
 	  2. 对比children ， 遍历 patch 渲染。 有几种情况。textTotext , textToArray, arrayToText , ArrayToArray( 比较特殊， 需要使用 diff 算法去 对比，性能优化)
 
 	
-#### 2、component 型， component 组件
+#### 2、component 型(App 就是一个）， component 组件
  * 组件初始化：
 	1. 创建 component instance 对象 ， 实例对象，
-	2. 
-	
+	2. 设置有状态的 setupStatefulComponet(instance)。
+		* 初始化 props,
+		* 初始化 slot ,
+		* 初始化一个有状态的 component -> 使用 proxy 进行 实例代理，
+		* 调用 handleSetupResult, 获取值
+		* finishComponentSetup 设置 render ，（赋值，并未调用）
+	3. 收集依赖  setupRenderEffect 
+		* 使用  effect 包裹 subTree函数，在 dom改变的时候，处理更新。调用  patch 渲染 真实dom
 
 
 
