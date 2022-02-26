@@ -1,18 +1,27 @@
-# happy  path 渲染流程
+# happy  path 流程
+> mini-vue3 流程梳理笔记。mini-vue3 学习了一段时间，边看边敲，梳理一下渲染的过程，做一下流程思路总结，温顾而知新。
+
+## 流程
+
 create(app).mount('#root')
 create(app) 会 返回一个 APP dom. mount挂在到 根节点上，
-APP -> 会经过处理，收集 effect 。 分为初始化 和 更新
-流程：初始化 -> 渲染 render -> 调用 patch 解析
-create(app) -> 创建vnode节点， createVNode(type,  props?, children?) -> render  -> patch
+APP -> 会经过处理， effect 收集依赖 。 分为初始化 和 更新
+流程：
+初始化 -> 渲染 render -> 调用 patch 解析
+create(app) -> 创建vnode节点， createVNode(type,  props?, children?) -> render  -> patch 判断类型走对应fn
+
+更新 -> trigger触发，执行 render  ->  patch -> processElement ->
+patchElement
 
  核心函数
  * createVNode(type, props?, children？): 根据传入 children 类型去创建 vnode 的节点， 用 运算符的方式标记 这个vnode 的具体类型。  shapeFlag  
- * patch (vnode ， rootContainer)  ：基于 vnode 的类型进行不同类型的处理 。
+ * patch (vnode ， rootContainer)  ：基于 vnode 的类型进行不同类型的处理 。processFragment，processText，processElement， processComponent
  * render() ： 渲染逻辑函数
+ * effect() : 依赖收集函数，使用 proxy 去监听，get,set  操作
  
 
 根据 vnode的 类型 分为2种，
-#### 1 、element 型， 就是当前 vnode 中的 div 等标签
+#### 1 、element 型， 就是当前 vnode.children 中的 div 等标签
   * 初始化步骤：
 	  1. 创建 真实元素， document.createElement(type);
 	  2. 判断要渲染的内容类型， text（文本） 直接渲染SetElementText , 如果是 array， 循环调用 patch
@@ -26,7 +35,7 @@ create(app) -> 创建vnode节点， createVNode(type,  props?, children?) -> ren
 
 	
 #### 2、component 型(App 就是一个）， component 组件
- * 组件初始化：
+ * 组件初始化  mountComponent：
 	1. 创建 component instance 对象 ， 实例对象，
 	2. 设置有状态的 setupStatefulComponet(instance)。
 		* 初始化 props,
@@ -35,7 +44,7 @@ create(app) -> 创建vnode节点， createVNode(type,  props?, children?) -> ren
 		* 调用 handleSetupResult, 获取值
 		* finishComponentSetup 设置 render ，（赋值，并未调用）
 	3. 收集依赖  setupRenderEffect 
-		* 使用  effect 包裹 subTree函数，在 dom改变的时候，处理更新。调用  patch 渲染 真实dom
+		* 使用  effect 包裹，收集依赖。在 dom改变的时候，可以监听到。做出响应。调用patch。
 
 
-
+最终 component 在收集依赖，创建实例，往下走都是 Element的类型 ，然后渲染
