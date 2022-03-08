@@ -45,6 +45,6 @@ patchElement
 		* finishComponentSetup 设置 render ，（赋值，并未调用）
 	3. 收集依赖  setupRenderEffect 
 		* 使用  effect 包裹，收集依赖。在 dom改变的时候，可以监听到。做出响应。调用patch。
-
+* 更新 componenet
 
 最终 component 在收集依赖，创建实例，往下走都是 Element的类型 ，然后渲染
