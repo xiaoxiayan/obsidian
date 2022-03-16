@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "template/leetCode-template.md",
+            "file": "study_every/2022-03-16.md",
             "mode": "source",
             "backlinks": false,
             "source": false
@@ -84,7 +84,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "template/leetCode-template.md",
+                "file": "study_every/2022-03-16.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -109,7 +109,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "template/leetCode-template.md",
+                "file": "study_every/2022-03-16.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -135,6 +135,8 @@
   },
   "active": "46234b21d0e5e720",
   "lastOpenFiles": [
+    "study_every/2022-03-16.md",
+    "study_every/2022-03-15.md",
     "template/leetCode-template.md",
     "study_every/2022-03-14.md",
     "template/daily-plan.md",
@@ -142,8 +144,6 @@
     "study_every/2022-03-12.md",
     "mini-vue/43.解析 element 标签.md",
     "mini-vue/42. 解析插值逻辑.md",
-    "study_every/2022-03-11.md",
-    "study_every/2022-03-10.md",
-    "study_every/2022-03-09.md"
+    "study_every/2022-03-11.md"
   ]
 }
