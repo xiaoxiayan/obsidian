@@ -47,4 +47,15 @@ patchElement
 		* 使用  effect 包裹，收集依赖。在 dom改变的时候，可以监听到。做出响应。调用patch。
 * 更新 componenet
 
-最终 component 在收集依赖，创建实例，往下走都是 Element的类型 ，然后渲染
+最终 component 在收集依赖，创建实例，往下走都是 Element的类型 ，然后渲染.
+
+
+Q ： 在响应式对象， reactive , ref 改变的时候，如何去触发 视图的改变和更新？？
+mvvm ，数据操作视图， 当数据发生改变，视图应该也要发生改变。
+我们再 render函数的时候， 已经把响应式对象，放入 render函数中。所以 当响应式对象发生改变的时候，回去调用  effect 中的 fn。
+当响应式值发生改变的时候，触发 get、set  ，触发 track ,触发 trigger -> 触发 triggerEffects ， 然后触发 effect , 
+effect.scheduler  || effect.run  去更新dom。 
+Q : 依赖收集的时候的 挂载情况。
+初始化 -> 调用 render , patch ，就已经收集了 依赖，然后在 set 响应式对象的时候，已经把 更新的 fn 挂载到响应式对象中，所以响应式对象改变的时候就可以直接触发 effect 中的 更新 fn , 更新视图。
+
+
