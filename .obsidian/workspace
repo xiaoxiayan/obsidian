@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "study_every/2022-04-05.md",
+            "file": "mini-vue/最长递增子序列.md",
             "mode": "source",
             "backlinks": false,
             "source": false
@@ -84,7 +84,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "study_every/2022-04-05.md",
+                "file": "mini-vue/最长递增子序列.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -109,7 +109,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "study_every/2022-04-05.md",
+                "file": "mini-vue/最长递增子序列.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -135,15 +135,15 @@
   },
   "active": "61e442738b8bb1d2",
   "lastOpenFiles": [
+    "mini-vue/最长递增子序列.md",
+    "mini-vue/36. 更新 element 的 children 双端对比 diff.md",
+    "mini-vue/37.diff ， 中间对比 移动， 新增， 删除逻辑.md",
+    "study_every/2022-04-06.md",
     "study_every/2022-04-05.md",
     "study_every/2022-04-04.md",
     "study_every/2022-04-03.md",
     "study_every/2022-04-02.md",
     "mini-vue/19. 实现computed 计算属性.md",
-    "mini-vue/35. 更新Element 的children.md",
-    "mini-vue/36. 更新 element 的 children 双端对比 diff.md",
-    "mini-vue/37.diff ， 中间对比 移动， 新增， 删除逻辑.md",
-    "mini-vue/40. 组件更新.md",
-    "mini-vue/41.nextTick.md"
+    "mini-vue/35. 更新Element 的children.md"
   ]
 }
