@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "study_every/2022-04-10.md",
+            "file": "study_every/2022-04-11.md",
             "mode": "source",
             "backlinks": false,
             "source": false
@@ -84,7 +84,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "study_every/2022-04-10.md",
+                "file": "study_every/2022-04-11.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -109,7 +109,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "study_every/2022-04-10.md",
+                "file": "study_every/2022-04-11.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -135,6 +135,7 @@
   },
   "active": "61e442738b8bb1d2",
   "lastOpenFiles": [
+    "study_every/2022-04-11.md",
     "study_every/2022-04-10.md",
     "mini-vue/47.实现代码生成string类型.md",
     "mini-vue/46.实现 transform.md",
@@ -143,7 +144,6 @@
     "study_every/2022-04-08.md",
     "mini-vue/37.diff ， 中间对比 移动， 新增， 删除逻辑.md",
     "mini-vue/35. 更新Element 的children.md",
-    "study_every/2022-04-07.md",
-    "study_every/2022-04-06.md"
+    "study_every/2022-04-07.md"
   ]
 }
