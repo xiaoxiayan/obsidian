@@ -10,7 +10,7 @@ APP -> 会经过处理， effect 收集依赖 。 分为初始化 和 更新
 初始化 -> 渲染 render -> 调用 patch 解析
 create(app) -> 创建vnode节点， createVNode(type,  props?, children?) -> render  -> patch 判断类型走对应fn
 
-更新 -> trigger触发，执行 render  ->  patch -> processElement ->
+响应式对象更新 -> trigger触发，执行 render  ->  patch -> processElement ->
 patchElement
 
  核心函数
@@ -65,5 +65,9 @@ ref 是一个  RefImpl 的对象，通过 set 一个 dep直接设定。适用于
 
 reactive 是一个 proxy 对象，通过 map 和  set去设定，适用于复杂的对象类型。 用于给 Object 类型转换成 响应式对象
 
+Q：Compiler-core 是如何 载入到 runtime-code 
+在初始化的时候，导入 定义好的 compileToFunction，渲染函数，导入到 component中， 然后 在解析compone
+
+Q: 新旧节点是如何 获取的呢。
 
 

@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "study_every/2022-04-17.md",
+            "file": "mini-vue/1. reactive  && effect && 依赖收集 && 触发依赖.md",
             "mode": "source",
             "backlinks": false,
             "source": false
@@ -84,7 +84,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "study_every/2022-04-17.md",
+                "file": "mini-vue/1. reactive  && effect && 依赖收集 && 触发依赖.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -109,7 +109,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "study_every/2022-04-17.md",
+                "file": "mini-vue/1. reactive  && effect && 依赖收集 && 触发依赖.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -135,15 +135,15 @@
   },
   "active": "5dbde88741f89817",
   "lastOpenFiles": [
-    "study_every/2022-04-17.md",
-    "mini-vue/50. 解析 template 导出到 运行时，runtime-core.md",
-    "study_every/2022-04-16.md",
-    "mini-vue/vue-router原理.md",
-    "mini-vue/49.element类型和 联合.md",
-    "study_every/2022-04-13.md",
-    "study_every/2022-04-15.md",
-    "study_every/2022-04-12.md",
+    "mini-vue/1. reactive  && effect && 依赖收集 && 触发依赖.md",
+    "mini-vue/VUE3  流程梳理笔记.md",
+    "leetCode/算法.md",
+    "mini-vue/reactivity 依赖收集.png",
+    "mini-vue/37.diff ， 中间对比 移动， 新增， 删除逻辑.md",
+    "mini-vue/43.解析 element 标签.md",
+    "mini-vue/45.联合类型解析.md",
     "mini-vue/48. 实现代码生成 插值.md",
-    "leetCode/算法.md"
+    "mini-vue/49.element类型和 联合.md",
+    "mini-vue/50. 解析 template 导出到 运行时，runtime-core.md"
   ]
 }
