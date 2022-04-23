@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "study_every/2022-04-22.md",
+            "file": "study_every/2022-04-23.md",
             "mode": "source",
             "backlinks": false,
             "source": false
@@ -84,7 +84,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "study_every/2022-04-22.md",
+                "file": "study_every/2022-04-23.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -109,7 +109,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "study_every/2022-04-22.md",
+                "file": "study_every/2022-04-23.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -135,6 +135,8 @@
   },
   "active": "7ca5df96ce2047fd",
   "lastOpenFiles": [
+    "study_every/2022-04-23.md",
+    "aboutGit/ssh 配置.md",
     "study_every/2022-04-22.md",
     "study_every/2022-04-21.md",
     "study_every/2022-04-19.md",
@@ -142,8 +144,6 @@
     "mini-vue/1. reactive  && effect && 依赖收集 && 触发依赖.md",
     "mini-vue/VUE3  流程梳理笔记.md",
     "leetCode/算法.md",
-    "mini-vue/reactivity 依赖收集.png",
-    "mini-vue/37.diff ， 中间对比 移动， 新增， 删除逻辑.md",
-    "mini-vue/43.解析 element 标签.md"
+    "mini-vue/reactivity 依赖收集.png"
   ]
 }
