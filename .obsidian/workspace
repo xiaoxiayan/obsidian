@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "mini-vue/49.element类型和 联合.md",
+            "file": "mini-vue/1. reactive  && effect && 依赖收集 && 触发依赖.md",
             "mode": "source",
             "backlinks": false,
             "source": false
@@ -84,7 +84,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "mini-vue/49.element类型和 联合.md",
+                "file": "mini-vue/1. reactive  && effect && 依赖收集 && 触发依赖.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -109,7 +109,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "mini-vue/49.element类型和 联合.md",
+                "file": "mini-vue/1. reactive  && effect && 依赖收集 && 触发依赖.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -135,6 +135,7 @@
   },
   "active": "61e442738b8bb1d2",
   "lastOpenFiles": [
+    "mini-vue/1. reactive  && effect && 依赖收集 && 触发依赖.md",
     "mini-vue/49.element类型和 联合.md",
     "study_every/2022-04-13.md",
     "study_every/2022-04-12.md",
@@ -143,7 +144,6 @@
     "study_every/2022-04-10.md",
     "mini-vue/47.实现代码生成string类型.md",
     "mini-vue/46.实现 transform.md",
-    "mini-vue/45.联合类型解析.md",
-    "study_every/2022-04-09.md"
+    "mini-vue/45.联合类型解析.md"
   ]
 }
