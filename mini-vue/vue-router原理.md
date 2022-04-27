@@ -1,0 +1,27 @@
+hash 模式 。
+1. 点击跳转，前进， 后退
+   通过 window.onhashChange 监听 hash值的变化，然后获取 hash值 ，去router.js中去匹配 对应的path 替换到 router-view
+2. 刷新， 通过window. load 直接拿 hash
+
+histroy
+会通过  history.pushState () 变更网页的地址， 但是没有实际的作用，页面不会发生改变，只是改变 地址栏  （a标签的功能）
+history.pushState () 只能在服务器上运行
+也是 $router.push 的原理
+1.  阻止默认事件
+2. 改变地址栏地址
+	history.pushState () 
+	window.onpopstate 去监听回退，前进	
+	
+3. 根据路由规则，切换到 router-view
+	
+	
+	
+总结，在history 模式下， 我们点击页面跳转， 调用 history.pushState去改变地址栏，如果使用前进后退，就调用 window.onpopstate 去监控，如果是直接刷新，需要后台配合返回
+最后再 根据路由
+
+	
+	
+
+
+ 
+
