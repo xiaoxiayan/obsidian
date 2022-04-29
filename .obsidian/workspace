@@ -136,14 +136,14 @@
   "active": "7ca5df96ce2047fd",
   "lastOpenFiles": [
     "面筋/基础.md",
+    "aboutGit/ssh 配置.md",
+    "mini-vue/36. 更新 element 的 children 双端对比 diff.md",
+    "mini-vue/43.解析 element 标签.md",
+    "mini-vue/47.实现代码生成string类型.md",
+    "mini-vue/50. 解析 template 导出到 运行时，runtime-core.md",
+    "mini-vue/49.element类型和 联合.md",
     "面筋/less的继承.md",
     "面筋/new.md",
-    "面筋/运算符....md",
-    "面筋/跨域的cookie.md",
-    "study_every/2022-04-23.md",
-    "面筋/webpack 对比 vite.md",
-    "mini-vue/VUE3  流程梳理笔记.md",
-    "mini-vue/Pasted image 20220417170510.png",
-    "mini-vue/reactivity 依赖收集.png"
+    "面筋/运算符....md"
   ]
 }
