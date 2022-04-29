@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "面筋/基础.md",
+            "file": "study_every/2022-04-29.md",
             "mode": "source",
             "backlinks": false,
             "source": false
@@ -84,7 +84,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "面筋/基础.md",
+                "file": "study_every/2022-04-29.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -109,7 +109,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "面筋/基础.md",
+                "file": "study_every/2022-04-29.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -135,6 +135,7 @@
   },
   "active": "7ca5df96ce2047fd",
   "lastOpenFiles": [
+    "study_every/2022-04-29.md",
     "面筋/基础.md",
     "aboutGit/ssh 配置.md",
     "mini-vue/36. 更新 element 的 children 双端对比 diff.md",
@@ -143,7 +144,6 @@
     "mini-vue/50. 解析 template 导出到 运行时，runtime-core.md",
     "mini-vue/49.element类型和 联合.md",
     "面筋/less的继承.md",
-    "面筋/new.md",
-    "面筋/运算符....md"
+    "面筋/new.md"
   ]
 }
