@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "study_every/2022-05-03.md",
+            "file": "study_every/2022-05-04.md",
             "mode": "source",
             "backlinks": false,
             "source": false
@@ -84,7 +84,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "study_every/2022-05-03.md",
+                "file": "study_every/2022-05-04.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -109,7 +109,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "study_every/2022-05-03.md",
+                "file": "study_every/2022-05-04.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -135,6 +135,7 @@
   },
   "active": "7ca5df96ce2047fd",
   "lastOpenFiles": [
+    "study_every/2022-05-04.md",
     "study_every/2022-05-03.md",
     "study_every/2022-05-02.md",
     "study_every/2022-05-01.md",
@@ -143,7 +144,6 @@
     "leetCode/二叉树/二叉树的属性/1305. 两棵二叉搜索树中的所有元素.md",
     "leetCode/二叉树/二叉树的属性/257/二叉树的所有路径.md",
     "template/leetCode-template.md",
-    "template/daily-plan.md",
-    "leetCode/二叉树/二叉树的属性/257/例子.png"
+    "template/daily-plan.md"
   ]
 }
