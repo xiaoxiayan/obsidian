@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "study_every/2022-05-05.md",
+            "file": "面筋/vue2 -- vue3.md",
             "mode": "source",
             "backlinks": false,
             "source": false
@@ -84,7 +84,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "study_every/2022-05-05.md",
+                "file": "面筋/vue2 -- vue3.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -109,7 +109,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "study_every/2022-05-05.md",
+                "file": "面筋/vue2 -- vue3.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -135,6 +135,7 @@
   },
   "active": "7ca5df96ce2047fd",
   "lastOpenFiles": [
+    "面筋/vue2 -- vue3.md",
     "study_every/2022-05-05.md",
     "面筋/基础.md",
     "面筋/webpack 对比 vite.md",
@@ -143,7 +144,6 @@
     "study_every/2022-05-02.md",
     "study_every/2022-05-01.md",
     "leetCode/二叉树/二叉树的属性/1305/两棵二叉搜索树中的所有元素.md",
-    "leetCode/二叉树/二叉树的属性/1305/例子.png",
-    "leetCode/二叉树/二叉树的属性/1305. 两棵二叉搜索树中的所有元素.md"
+    "leetCode/二叉树/二叉树的属性/1305/例子.png"
   ]
 }

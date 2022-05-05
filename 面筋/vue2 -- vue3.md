@@ -11,5 +11,30 @@ v3: @update: modelvalue @change
 props 接受，然后 emit('update: msg', event)
 
 
+# toRefs 的妙用
+[Vue3 学习笔记 —— toRefs_tanleiDD的博客-CSDN博客_...torefs](https://blog.csdn.net/TL18382950497/article/details/116427498)
+
+
+# Vue2 如何把响应式转成非响应式，
+
+# vue3 Hooks
+相当于一个 mixin 
+
+# vue3 hook 监听生命周期
+
+## v2 
+```
+<template>
+  <child-component @hook:updated="onUpdated">
+</template>
+```
+
+## v3
+```
+<template>
+  <child-component @vnode-updated="onUpdated">
+</template>
+```
+
 
 
