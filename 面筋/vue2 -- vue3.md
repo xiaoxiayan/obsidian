@@ -36,5 +36,6 @@ props 接受，然后 emit('update: msg', event)
 </template>
 ```
 
-
+# 异步组件，
+v3 中新增了  `defineAsyncComponent`
 
