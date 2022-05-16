@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "study_every/2022-05-14.md",
+            "file": "study_every/2022-05-16.md",
             "mode": "source",
             "backlinks": false,
             "source": false
@@ -84,7 +84,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "study_every/2022-05-14.md",
+                "file": "study_every/2022-05-16.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -109,7 +109,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "study_every/2022-05-14.md",
+                "file": "study_every/2022-05-16.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -135,6 +135,8 @@
   },
   "active": "61e442738b8bb1d2",
   "lastOpenFiles": [
+    "study_every/2022-05-16.md",
+    "study_every/2022-05-15.md",
     "study_every/2022-05-14.md",
     "study_every/2022-05-13.md",
     "study_every/2022-05-12.md",
@@ -142,8 +144,6 @@
     "study_every/2022-05-10.md",
     "study_every/2022-05-09.md",
     "aboutGit/ssh 配置.md",
-    "study_every/2022-04-13.md",
-    "study_every/2022-04-15.md",
-    "study_every/2022-04-12.md"
+    "study_every/2022-04-13.md"
   ]
 }
