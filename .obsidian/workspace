@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "面筋/基础.md",
+            "file": "study_every/2022-05-19.md",
             "mode": "source",
             "backlinks": false,
             "source": false
@@ -84,7 +84,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "面筋/基础.md",
+                "file": "study_every/2022-05-19.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -109,7 +109,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "面筋/基础.md",
+                "file": "study_every/2022-05-19.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -135,6 +135,7 @@
   },
   "active": "61e442738b8bb1d2",
   "lastOpenFiles": [
+    "study_every/2022-05-19.md",
     "面筋/基础.md",
     "面筋/跨域的cookie.md",
     "面筋/vue2 -- vue3.md",
@@ -143,7 +144,6 @@
     "面筋/less的继承.md",
     "study_every/2022-05-10.md",
     "study_every/2022-05-09.md",
-    "aboutGit/ssh 配置.md",
-    "study_every/2022-04-13.md"
+    "aboutGit/ssh 配置.md"
   ]
 }
