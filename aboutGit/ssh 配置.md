@@ -1,6 +1,6 @@
 # git报错ssh: connect to host github.com port 22: Connection timed out
 生成 ssh
-ssh-keygen -t rsa -C "your_email@example.com"
+ssh-keygen -t rsa -C "a690150618@qq.com"
 
 
 使用 git bash 
@@ -10,7 +10,7 @@ ssh-keygen -t rsa -C "your_email@example.com"
 4. 开始输入
 
 Host github.com
-User “你的邮箱”
+User "a690150618@qq.com"
 Hostname ssh.github.com
 PreferredAuthentications publickey
 IdentityFile ~/.ssh/id_rsa
@@ -22,4 +22,7 @@ Port 443
 Hi xiaoxiayan! You've successfully authenticated, but GitHub does not provide shell access.
 就可以 提交了
 
+
+ssh: connect to host github.com port 443: Connection refused
+如何解决，不动，
 
