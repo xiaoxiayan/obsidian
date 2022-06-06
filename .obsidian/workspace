@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "study_every/2022-06-02.md",
+            "file": "study_every/2022-06-13.md",
             "mode": "source",
             "backlinks": false,
             "source": false
@@ -84,7 +84,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "study_every/2022-06-02.md",
+                "file": "study_every/2022-06-13.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -101,7 +101,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "study_every/2022-06-02.md",
+                "file": "study_every/2022-06-13.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -135,6 +135,8 @@
   },
   "active": "307e0b4630962a7a",
   "lastOpenFiles": [
+    "study_every/2022-06-13.md",
+    "study_every/2022-06-05.md",
     "study_every/2022-06-02.md",
     "study_every/2022-06-01.md",
     "study_every/2022-05-31.md",
@@ -142,8 +144,6 @@
     "study_every/2022-05-29.md",
     "readRefactoring/重构的条件.md",
     "readRefactoring/提炼函数（106）.md",
-    "study_every/2022-05-28.md",
-    "study_every/2022-05-27.md",
-    "study_every/2022-01-13.md"
+    "study_every/2022-05-28.md"
   ]
 }
