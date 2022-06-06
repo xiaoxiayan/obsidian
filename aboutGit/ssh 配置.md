@@ -34,3 +34,6 @@ Hi xiaoxiayan! You've successfully authenticated, but GitHub does not provide sh
 重新写入 hosts 
 关于 系统文件修改方面，
 [无法枚举容器内对象 访问被拒绝？ - 知乎 (zhihu.com)](https://www.zhihu.com/question/31001796)
+
+
+1.  刷新本地 dns 缓存：cmd执行命令行`ipconfig /flushdns`
