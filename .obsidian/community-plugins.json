@@ -3,5 +3,6 @@
   "cm-editor-syntax-highlight-obsidian",
   "obsidian-checklist-plugin",
   "obsidian-plugin-deploy-content-to-anywhere",
-  "calendar"
+  "calendar",
+  "obsidian-git"
 ]
