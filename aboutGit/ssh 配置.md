@@ -1,6 +1,6 @@
 # git报错ssh: connect to host github.com port 22: Connection timed out
 生成 ssh
-ssh-keygen -t rsa -C "your_email@example.com"
+ssh-keygen -t rsa -C "a690150618@qq.com"
 
 
 使用 git bash 
@@ -10,7 +10,7 @@ ssh-keygen -t rsa -C "your_email@example.com"
 4. 开始输入
 
 Host github.com
-User “你的邮箱”
+User "a690150618@qq.com"
 Hostname ssh.github.com
 PreferredAuthentications publickey
 IdentityFile ~/.ssh/id_rsa
@@ -23,3 +23,17 @@ Hi xiaoxiayan! You've successfully authenticated, but GitHub does not provide sh
 就可以 提交了
 
 
+# ssh: connect to host github.com port 443: Connection refused
+如何解决，不动，
+
+
+[Ssh: Connect to Host ssh.github.com Port 443: Connection Refused - 丘海东 (qiuhaidong.github.io)](https://qiuhaidong.github.io/blog/2022/05/26/ssh-connect-to-host-ssh-dot-github-dot-com-port-443-connection-refused/)
+
+可以设置代理。
+也有可能是 hosts 文件 出现了清空。
+重新写入 hosts 
+关于 系统文件修改方面，
+[无法枚举容器内对象 访问被拒绝？ - 知乎 (zhihu.com)](https://www.zhihu.com/question/31001796)
+
+
+1.  刷新本地 dns 缓存：cmd执行命令行`ipconfig /flushdns`
