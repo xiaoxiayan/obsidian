@@ -23,6 +23,9 @@ Hi xiaoxiayan! You've successfully authenticated, but GitHub does not provide sh
 就可以 提交了
 
 
+# gitToken
+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
+
 # ssh: connect to host github.com port 443: Connection refused
 如何解决，不动，
 
