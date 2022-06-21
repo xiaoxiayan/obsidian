@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "study_every/2022-06-21.md",
+            "file": "mini-vue/41.nextTick.md",
             "mode": "source",
             "backlinks": false,
             "source": false
@@ -84,7 +84,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "study_every/2022-06-21.md",
+                "file": "mini-vue/41.nextTick.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -101,7 +101,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "study_every/2022-06-21.md",
+                "file": "mini-vue/41.nextTick.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -135,15 +135,15 @@
   },
   "active": "307e0b4630962a7a",
   "lastOpenFiles": [
+    "mini-vue/41.nextTick.md",
+    "mini-vue/37.diff ， 中间对比 移动， 新增， 删除逻辑.md",
+    "mini-vue/19. 实现computed 计算属性.md",
+    "mini-vue/1. reactive  && effect && 依赖收集 && 触发依赖.md",
     "study_every/2022-06-21.md",
     "study_every/2022-06-20.md",
     "study_every/2022-06-19.md",
     "study_every/2022-06-18.md",
     "study_every/2022-06-17.md",
-    "study_every/2022-06-14.md",
-    "study_every/2022-06-11.md",
-    "study_every/2022-06-12.md",
-    "study_every/2022-06-13.md",
-    "study_every/2022-06-10.md"
+    "study_every/2022-06-14.md"
   ]
 }
