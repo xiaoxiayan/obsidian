@@ -1,15 +1,15 @@
 {
   "main": {
-    "id": "6149ffa4cdedd056",
+    "id": "6e38fcc4172e4e7d",
     "type": "split",
     "children": [
       {
-        "id": "61e442738b8bb1d2",
+        "id": "307e0b4630962a7a",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "aboutGit/ssh 配置.md",
+            "file": "study_every/2022-06-30.md",
             "mode": "source",
             "backlinks": false,
             "source": false
@@ -20,15 +20,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "bd119ebf78bec435",
+    "id": "91319d1f422da33b",
     "type": "split",
     "children": [
       {
-        "id": "b89b68185b90a278",
+        "id": "fb2553117a4307d5",
         "type": "tabs",
         "children": [
           {
-            "id": "575252749a0a43a9",
+            "id": "3bab2fd01dcb7404",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -36,7 +36,7 @@
             }
           },
           {
-            "id": "8a05304ff6fa6e5c",
+            "id": "d462ef911ecbc681",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -53,11 +53,11 @@
         ]
       },
       {
-        "id": "c23213ee4b371e48",
+        "id": "fcdd7ff5aca6503a",
         "type": "tabs",
         "children": [
           {
-            "id": "4a3ffc7288b61d4b",
+            "id": "1f3a2dbafe48187f",
             "type": "leaf",
             "state": {
               "type": "calendar",
@@ -71,20 +71,20 @@
     "width": 300
   },
   "right": {
-    "id": "23f66cad4ac9bb07",
+    "id": "e20b32f680086d17",
     "type": "split",
     "children": [
       {
-        "id": "56d3786d6296a751",
+        "id": "7348956c42936e95",
         "type": "tabs",
         "children": [
           {
-            "id": "2f8ebf9900e053a9",
+            "id": "4fbf1320ebd98879",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "aboutGit/ssh 配置.md",
+                "file": "study_every/2022-06-30.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -96,27 +96,19 @@
             }
           },
           {
-            "id": "cb17e68527812996",
-            "type": "leaf",
-            "state": {
-              "type": "todo",
-              "state": {}
-            }
-          },
-          {
-            "id": "3544fb7743628e3f",
+            "id": "8ca3ae631aae559a",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "aboutGit/ssh 配置.md",
+                "file": "study_every/2022-06-30.md",
                 "linksCollapsed": false,
-                "unlinkedCollapsed": false
+                "unlinkedCollapsed": true
               }
             }
           },
           {
-            "id": "b2b23738d17ab43f",
+            "id": "98321fa3ece54a02",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -124,6 +116,14 @@
                 "sortOrder": "frequency",
                 "useHierarchy": true
               }
+            }
+          },
+          {
+            "id": "b0dc4d93b4a6689c",
+            "type": "leaf",
+            "state": {
+              "type": "todo",
+              "state": {}
             }
           }
         ]
@@ -133,17 +133,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "61e442738b8bb1d2",
+  "active": "307e0b4630962a7a",
   "lastOpenFiles": [
-    "aboutGit/ssh 配置.md",
-    "study_every/2022-06-20.md",
-    "study_every/2022-05-24.md",
-    "study_every/2022-05-23.md",
-    "study_every/2022-05-22.md",
-    "面筋/跨域的cookie.md",
-    "study_every/2022-05-21.md",
-    "study_every/2022-05-20.md",
-    "study_every/2022-05-19.md",
-    "面筋/基础.md"
+    "study_every/2022-06-30.md",
+    "study_every/2022-06-29.md",
+    "study_every/2022-06-28.md",
+    "study_every/2022-06-24.md",
+    "study_every/2022-06-23.md",
+    "study_every/2022-06-22.md",
+    "study_every/2022-06-21.md",
+    "study_every/2022-06-17.md",
+    "study_every/2022-06-16.md",
+    "study_every/2022-06-15.md"
   ]
 }
