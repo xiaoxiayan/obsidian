@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "template/daily-plan.md",
+            "file": "study_every/2022-07-01.md",
             "mode": "source",
             "backlinks": false,
             "source": false
@@ -84,7 +84,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "template/daily-plan.md",
+                "file": "study_every/2022-07-01.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -101,7 +101,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "template/daily-plan.md",
+                "file": "study_every/2022-07-01.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -135,8 +135,8 @@
   },
   "active": "307e0b4630962a7a",
   "lastOpenFiles": [
-    "template/daily-plan.md",
     "study_every/2022-07-01.md",
+    "template/daily-plan.md",
     "study_every/2022-06-30.md",
     "study_every/2022-06-29.md",
     "study_every/2022-06-28.md",
