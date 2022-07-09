@@ -4,12 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "61e442738b8bb1d2",
+        "id": "190c4694f48a4d2f",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "study_every/2022-07-04.md",
+            "file": "study_every/2022-07-05.md",
             "mode": "source",
             "backlinks": false,
             "source": false
@@ -84,7 +84,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "study_every/2022-07-04.md",
+                "file": "study_every/2022-07-05.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -109,7 +109,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "study_every/2022-07-04.md",
+                "file": "study_every/2022-07-05.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -133,8 +133,10 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "61e442738b8bb1d2",
+  "active": "190c4694f48a4d2f",
   "lastOpenFiles": [
+    "study_every/2022-07-05.md",
+    "conflict-files-obsidian-git.md",
     "study_every/2022-07-04.md",
     "aboutGit/ssh 配置.md",
     "study_every/2022-06-20.md",
@@ -142,8 +144,6 @@
     "study_every/2022-05-23.md",
     "study_every/2022-05-22.md",
     "面筋/跨域的cookie.md",
-    "study_every/2022-05-21.md",
-    "study_every/2022-05-20.md",
-    "study_every/2022-05-19.md"
+    "study_every/2022-05-21.md"
   ]
 }
