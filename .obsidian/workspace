@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "study_every/2022-07-13.md",
+            "file": "study_every/2022-07-14.md",
             "mode": "source",
             "backlinks": false,
             "source": false
@@ -84,7 +84,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "study_every/2022-07-13.md",
+                "file": "study_every/2022-07-14.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -109,7 +109,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "study_every/2022-07-13.md",
+                "file": "study_every/2022-07-14.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -143,6 +143,7 @@
   },
   "active": "9afd8dc2fddcb829",
   "lastOpenFiles": [
+    "study_every/2022-07-14.md",
     "study_every/2022-07-13.md",
     "study_every/2022-07-12.md",
     "study_every/2022-07-11.md",
@@ -151,7 +152,6 @@
     "aboutGit/ssh 配置.md",
     "study_every/2022-07-05.md",
     "conflict-files-obsidian-git.md",
-    "study_every/2022-07-04.md",
-    "study_every/2022-06-20.md"
+    "study_every/2022-07-04.md"
   ]
 }
