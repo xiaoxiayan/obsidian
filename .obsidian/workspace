@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "study_every/2022-07-14.md",
+            "file": "study_every/2022-07-12.md",
             "mode": "source",
             "backlinks": false,
             "source": false
@@ -84,7 +84,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "study_every/2022-07-14.md",
+                "file": "study_every/2022-07-12.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -109,7 +109,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "study_every/2022-07-14.md",
+                "file": "study_every/2022-07-12.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -139,19 +139,20 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "active": "9afd8dc2fddcb829",
   "lastOpenFiles": [
-    "study_every/2022-07-14.md",
-    "study_every/2022-07-13.md",
     "study_every/2022-07-12.md",
+    "study_every/2022-07-13.md",
+    "study_every/2022-07-14.md",
+    "study_every/2022-07-15.md",
     "study_every/2022-07-11.md",
     "study_every/2022-07-10.md",
     "study_every/2022-07-09.md",
     "aboutGit/ssh 配置.md",
     "study_every/2022-07-05.md",
-    "conflict-files-obsidian-git.md",
-    "study_every/2022-07-04.md"
+    "conflict-files-obsidian-git.md"
   ]
 }
