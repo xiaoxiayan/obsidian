@@ -1,15 +1,15 @@
 {
   "main": {
-    "id": "6e38fcc4172e4e7d",
+    "id": "6149ffa4cdedd056",
     "type": "split",
     "children": [
       {
-        "id": "307e0b4630962a7a",
+        "id": "9afd8dc2fddcb829",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "study_every/2022-07-06.md",
+            "file": "study_every/2022-07-12.md",
             "mode": "source",
             "backlinks": false,
             "source": false
@@ -20,15 +20,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "91319d1f422da33b",
+    "id": "bd119ebf78bec435",
     "type": "split",
     "children": [
       {
-        "id": "fb2553117a4307d5",
+        "id": "b89b68185b90a278",
         "type": "tabs",
         "children": [
           {
-            "id": "3bab2fd01dcb7404",
+            "id": "575252749a0a43a9",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -36,7 +36,7 @@
             }
           },
           {
-            "id": "d462ef911ecbc681",
+            "id": "8a05304ff6fa6e5c",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -53,11 +53,11 @@
         ]
       },
       {
-        "id": "fcdd7ff5aca6503a",
+        "id": "c23213ee4b371e48",
         "type": "tabs",
         "children": [
           {
-            "id": "1f3a2dbafe48187f",
+            "id": "4a3ffc7288b61d4b",
             "type": "leaf",
             "state": {
               "type": "calendar",
@@ -71,20 +71,20 @@
     "width": 300
   },
   "right": {
-    "id": "e20b32f680086d17",
+    "id": "23f66cad4ac9bb07",
     "type": "split",
     "children": [
       {
-        "id": "7348956c42936e95",
+        "id": "56d3786d6296a751",
         "type": "tabs",
         "children": [
           {
-            "id": "4fbf1320ebd98879",
+            "id": "2f8ebf9900e053a9",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "study_every/2022-07-06.md",
+                "file": "study_every/2022-07-12.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -96,19 +96,27 @@
             }
           },
           {
-            "id": "8ca3ae631aae559a",
+            "id": "cb17e68527812996",
+            "type": "leaf",
+            "state": {
+              "type": "todo",
+              "state": {}
+            }
+          },
+          {
+            "id": "3544fb7743628e3f",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "study_every/2022-07-06.md",
+                "file": "study_every/2022-07-12.md",
                 "linksCollapsed": false,
-                "unlinkedCollapsed": true
+                "unlinkedCollapsed": false
               }
             }
           },
           {
-            "id": "98321fa3ece54a02",
+            "id": "b2b23738d17ab43f",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -119,31 +127,32 @@
             }
           },
           {
-            "id": "b0dc4d93b4a6689c",
+            "id": "41230668e3b8616d",
             "type": "leaf",
             "state": {
-              "type": "todo",
+              "type": "git-view",
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
     "width": 300,
     "collapsed": true
   },
-  "active": "307e0b4630962a7a",
+  "active": "9afd8dc2fddcb829",
   "lastOpenFiles": [
-    "study_every/2022-07-06.md",
+    "study_every/2022-07-12.md",
+    "study_every/2022-07-13.md",
+    "study_every/2022-07-14.md",
+    "study_every/2022-07-15.md",
+    "study_every/2022-07-11.md",
+    "study_every/2022-07-10.md",
+    "study_every/2022-07-09.md",
+    "aboutGit/ssh 配置.md",
     "study_every/2022-07-05.md",
-    "study_every/2022-07-04.md",
-    "study_every/2022-07-03.md",
-    "study_every/2022-07-02.md",
-    "study_every/2022-06-29.md",
-    "conflict-files-obsidian-git.md",
-    "study_every/2022-06-28.md",
-    "study_every/2022-06-27.md",
-    "study_every/2022-06-26.md"
+    "conflict-files-obsidian-git.md"
   ]
 }
