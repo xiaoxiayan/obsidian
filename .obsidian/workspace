@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "study_every/2022-07-19.md",
+            "file": "study_every/2022-07-20.md",
             "mode": "source",
             "backlinks": false,
             "source": false
@@ -84,7 +84,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "study_every/2022-07-19.md",
+                "file": "study_every/2022-07-20.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -101,7 +101,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "study_every/2022-07-19.md",
+                "file": "study_every/2022-07-20.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -135,6 +135,7 @@
   },
   "active": "307e0b4630962a7a",
   "lastOpenFiles": [
+    "study_every/2022-07-19.md",
     "study_every/2022-07-18.md",
     "study_every/2022-07-17.md",
     "study_every/2022-07-16.md",
@@ -143,7 +144,6 @@
     "study_every/2022-07-04.md",
     "study_every/2022-07-03.md",
     "study_every/2022-07-02.md",
-    "study_every/2022-06-29.md",
-    "conflict-files-obsidian-git.md"
+    "study_every/2022-06-29.md"
   ]
 }
