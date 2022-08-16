@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "study_every/2022-08-15.md",
+            "file": "aboutGit/本地项目推线上.md",
             "mode": "source",
             "backlinks": false,
             "source": false
@@ -84,7 +84,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "study_every/2022-08-15.md",
+                "file": "aboutGit/本地项目推线上.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -101,7 +101,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "study_every/2022-08-15.md",
+                "file": "aboutGit/本地项目推线上.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -147,15 +147,15 @@
   },
   "active": "307e0b4630962a7a",
   "lastOpenFiles": [
+    "aboutGit/dd.md",
+    "study_every/2022-08-15.md",
     "study_every/2022-08-13.md",
     "study_every/2022-08-12.md",
     "study_every/2022-08-11.md",
     "study_every/2022-08-10.md",
-    "aboutGit/dd.md",
     "aboutGit/ssh 配置.md",
     "study_every/2022-08-05.md",
     "study_every/2022-08-04.md",
-    "study_every/2022-08-03.md",
-    "study_every/2022-08-01.md"
+    "study_every/2022-08-03.md"
   ]
 }
