@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "aboutGit/ssh 配置.md",
+            "file": "study_every/2022-08-17.md",
             "mode": "source",
             "backlinks": false,
             "source": false
@@ -84,7 +84,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "aboutGit/ssh 配置.md",
+                "file": "study_every/2022-08-17.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -101,7 +101,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "aboutGit/ssh 配置.md",
+                "file": "study_every/2022-08-17.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -148,6 +148,7 @@
   "active": "307e0b4630962a7a",
   "lastOpenFiles": [
     "study_every/2022-08-16.md",
+    "aboutGit/ssh 配置.md",
     "aboutGit/本地项目推线上.md",
     "conflict-files-obsidian-git.md",
     "aboutGit/dd.md",
@@ -155,7 +156,6 @@
     "study_every/2022-08-13.md",
     "study_every/2022-08-12.md",
     "study_every/2022-08-11.md",
-    "study_every/2022-08-10.md",
-    "aboutGit/ssh 配置.md"
+    "study_every/2022-08-10.md"
   ]
 }
