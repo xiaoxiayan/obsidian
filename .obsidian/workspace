@@ -4,16 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "307e0b4630962a7a",
+        "id": "b3f19d0336d95ea4",
         "type": "leaf",
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "study_every/2022-08-16.md",
-            "mode": "source",
-            "backlinks": false,
-            "source": false
-          }
+          "type": "empty",
+          "state": {}
         }
       }
     ],
@@ -84,7 +79,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "study_every/2022-08-16.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -101,7 +95,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "study_every/2022-08-16.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -145,17 +138,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "307e0b4630962a7a",
+  "active": "b3f19d0336d95ea4",
   "lastOpenFiles": [
-    "study_every/2022-08-15.md",
+    "conflict-files-obsidian-git.md",
     "study_every/2022-08-16.md",
+    "study_every/2022-08-15.md",
     "study_every/2022-08-14.md",
     "study_every/2022-08-13.md",
     "study_every/2022-08-10.md",
     "study_every/2022-08-09.md",
     "study_every/2022-08-08.md",
     "study_every/2022-08-07.md",
-    "study_every/2022-08-06.md",
-    "study_every/2022-08-05.md"
+    "study_every/2022-08-06.md"
   ]
 }
