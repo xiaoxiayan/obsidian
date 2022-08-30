@@ -1,6 +1,6 @@
 {
   "collapse-filter": false,
-  "search": "path:mini-vue",
+  "search": "",
   "showTags": true,
   "showAttachments": false,
   "hideUnresolved": false,
@@ -32,6 +32,6 @@
   "repelStrength": 14.1666666666667,
   "linkStrength": 0.857142857142857,
   "linkDistance": 299,
-  "scale": 0.7132754626224461,
+  "scale": 0.18462326225858233,
   "close": false
 }

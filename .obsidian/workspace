@@ -7,13 +7,8 @@
         "id": "3217a3a327de789d",
         "type": "leaf",
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "study_every/2022-01-13.md",
-            "mode": "source",
-            "backlinks": false,
-            "source": false
-          }
+          "type": "graph",
+          "state": {}
         }
       }
     ],
@@ -84,7 +79,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "study_every/2022-01-13.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -101,7 +95,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "study_every/2022-01-13.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -147,15 +140,15 @@
   },
   "active": "3217a3a327de789d",
   "lastOpenFiles": [
-    "study_every/00.index.md",
-    "study_every/2022-01-13.md",
+    "mini-vue/00.mini-vue.md",
+    "mini-vue/01. reactive  && effect && 依赖收集 && 触发依赖.md",
     "mini-vue/00.目录index.md",
-    "study_every/2022-08-30.md",
+    "readRefactoring/重构的条件.md",
     "template/daily-plan.md",
-    "mini-vue/99.VUE3  流程梳理笔记.md",
-    "mini-vue/Pasted image 20220417170510.png",
-    "mini-vue/99.vue-router原理.md",
-    "mini-vue/99.最长递增子序列.md",
-    "mini-vue/50. 解析 template 导出到 运行时，runtime-core.md"
+    "study_every/2022-08-28.md",
+    "study_every/2022-08-29.md",
+    "study_every/2022-08-30.md",
+    "study_every/2022-01-13.md",
+    "study_every/00.index.md"
   ]
 }
