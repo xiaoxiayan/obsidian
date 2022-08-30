@@ -4,5 +4,6 @@
   "obsidian-checklist-plugin",
   "obsidian-plugin-deploy-content-to-anywhere",
   "calendar",
-  "obsidian-git"
+  "obsidian-git",
+  "dataview"
 ]
