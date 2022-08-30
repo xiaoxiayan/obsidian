@@ -1,12 +1,27 @@
 {
   "collapse-filter": false,
-  "search": "-path:study_every",
+  "search": "path:mini-vue",
   "showTags": true,
   "showAttachments": false,
   "hideUnresolved": false,
   "showOrphans": true,
   "collapse-color-groups": false,
-  "colorGroups": [],
+  "colorGroups": [
+    {
+      "query": "path:mini-vue",
+      "color": {
+        "a": 1,
+        "rgb": 5526240
+      }
+    },
+    {
+      "query": "",
+      "color": {
+        "a": 1,
+        "rgb": 14701152
+      }
+    }
+  ],
   "collapse-display": false,
   "showArrow": false,
   "textFadeMultiplier": 0,

@@ -4,16 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "307e0b4630962a7a",
+        "id": "3217a3a327de789d",
         "type": "leaf",
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "aboutGit/index.md",
-            "mode": "source",
-            "backlinks": false,
-            "source": false
-          }
+          "type": "graph",
+          "state": {}
         }
       }
     ],
@@ -84,7 +79,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "aboutGit/index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -101,7 +95,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "aboutGit/index.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -145,17 +138,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "307e0b4630962a7a",
+  "active": "3217a3a327de789d",
   "lastOpenFiles": [
-    "aboutGit/本地项目推线上.md",
+    "mini-vue/0.index.md",
+    "mini-vue/01. reactive  && effect && 依赖收集 && 触发依赖.md",
+    "mini-vue/99.VUE3  流程梳理笔记.md",
+    "mini-vue/99.vue-router原理.md",
+    "mini-vue/99.最长递增子序列.md",
     "aboutGit/index.md",
+    "aboutGit/本地项目推线上.md",
     "study_every/2022-08-30.md",
     "study_every/2022-08-29.md",
-    "study_every/2022-08-19.md",
-    "study_every/2022-08-16.md",
-    "study_every/2022-08-17.md",
-    "study_every/2022-08-18.md",
-    "面筋/v8引擎.md",
-    "面筋/基础.md"
+    "study_every/2022-08-19.md"
   ]
 }
