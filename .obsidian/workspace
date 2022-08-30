@@ -7,8 +7,13 @@
         "id": "23f4b50e6d88fb1c",
         "type": "leaf",
         "state": {
-          "type": "graph",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "leetCode/二叉树/二叉树的属性/257/二叉树的所有路径.md",
+            "mode": "source",
+            "backlinks": false,
+            "source": false
+          }
         }
       }
     ],
@@ -79,6 +84,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "leetCode/二叉树/二叉树的属性/257/二叉树的所有路径.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -95,6 +101,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "leetCode/二叉树/二叉树的属性/257/二叉树的所有路径.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -143,12 +150,12 @@
     "leetCode/算法.md",
     "leetCode/二叉树/二叉树的属性/1305/两棵二叉搜索树中的所有元素.md",
     "leetCode/二叉树/二叉树的属性/257/二叉树的所有路径.md",
-    "leetCode/二叉树/index.md",
-    "leetCode/回溯算法/index.md",
-    "leetCode/二叉树/未命名.md",
-    "leetCode/二叉树/二叉树的属性/1305/例子.png",
-    "leetCode/回溯算法/组合题目/17.电话号码的字母组合.md",
+    "leetCode/二叉树/二叉树.md",
     "leetCode/回溯算法/子集.md",
-    "template/leetCode-template.md"
+    "leetCode/回溯算法/组合题目/17.电话号码的字母组合.md",
+    "readRefactoring/重构的条件.md",
+    "readRefactoring/提炼函数（106）.md",
+    "mini-vue/16. 实现ref功能.md",
+    "mini-vue/00.mini-vue.md"
   ]
 }
