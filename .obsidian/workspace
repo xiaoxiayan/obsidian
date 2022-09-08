@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "study_every/2022-09-07.md",
+            "file": "study_every/2022-09-08.md",
             "mode": "source",
             "backlinks": false,
             "source": false
@@ -84,7 +84,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "study_every/2022-09-07.md",
+                "file": "study_every/2022-09-08.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -101,7 +101,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "study_every/2022-09-07.md",
+                "file": "study_every/2022-09-08.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -147,15 +147,15 @@
   },
   "active": "983873de8d54248b",
   "lastOpenFiles": [
+    "study_every/2022-09-07.md",
     "study_every/2022-09-06.md",
+    "study_every/2022-09-08.md",
     "study_every/2022-09-05.md",
     "study_every/2022-09-02.md",
     "study_every/2022-09-01.md",
     "study_every/2022-08-31.md",
     "study_every/00.index.md",
     "template/daily-plan.md",
-    "study_every/2022-08-30.md",
-    "leetCode/回溯算法/回溯算法.md",
-    "leetCode/算法.md"
+    "study_every/2022-08-30.md"
   ]
 }
