@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "study_every/2022-09-13.md",
+            "file": "readRefactoring/重构的条件.md",
             "mode": "source",
             "backlinks": false,
             "source": false
@@ -84,7 +84,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "study_every/2022-09-13.md",
+                "file": "readRefactoring/重构的条件.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -101,7 +101,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "study_every/2022-09-13.md",
+                "file": "readRefactoring/重构的条件.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -147,6 +147,7 @@
   },
   "active": "983873de8d54248b",
   "lastOpenFiles": [
+    "study_every/2022-09-13.md",
     "study_every/2022-09-12.md",
     "study_every/2022-09-10.md",
     "study_every/2022-09-09.md",
@@ -155,7 +156,6 @@
     "study_every/2022-09-06.md",
     "study_every/2022-09-05.md",
     "study_every/2022-09-02.md",
-    "study_every/2022-09-01.md",
-    "study_every/2022-08-31.md"
+    "study_every/2022-09-01.md"
   ]
 }
