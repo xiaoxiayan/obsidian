@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "study_every/2022-10-12.md",
+            "file": "study_every/2022-10-13.md",
             "mode": "source",
             "backlinks": false,
             "source": false
@@ -84,7 +84,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "study_every/2022-10-12.md",
+                "file": "study_every/2022-10-13.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -101,7 +101,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "study_every/2022-10-12.md",
+                "file": "study_every/2022-10-13.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -147,6 +147,7 @@
   },
   "active": "e4962a4cfe8b02d3",
   "lastOpenFiles": [
+    "study_every/2022-10-12.md",
     "面筋/基础.md",
     "面筋/webpack 对比 vite.md",
     "面筋/new.md",
@@ -155,7 +156,6 @@
     "study_every/2022-10-11.md",
     "study_every/2022-10-09.md",
     "study_every/2022-10-07.md",
-    "study_every/2022-10-06.md",
-    "study_every/2022-10-05.md"
+    "study_every/2022-10-06.md"
   ]
 }
