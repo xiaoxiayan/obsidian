@@ -1,0 +1,183 @@
+{
+  "main": {
+    "id": "6e38fcc4172e4e7d",
+    "type": "split",
+    "children": [
+      {
+        "id": "d3246262038e15bf",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e4962a4cfe8b02d3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "面筋/基础.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "7464516d6c36170a",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.0.0"
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "91319d1f422da33b",
+    "type": "split",
+    "children": [
+      {
+        "id": "fb2553117a4307d5",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3bab2fd01dcb7404",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "d462ef911ecbc681",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      },
+      {
+        "id": "fcdd7ff5aca6503a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "1f3a2dbafe48187f",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "e20b32f680086d17",
+    "type": "split",
+    "children": [
+      {
+        "id": "7348956c42936e95",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "4fbf1320ebd98879",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "面筋/基础.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "8ca3ae631aae559a",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "面筋/基础.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "98321fa3ece54a02",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "b0dc4d93b4a6689c",
+            "type": "leaf",
+            "state": {
+              "type": "todo",
+              "state": {}
+            }
+          },
+          {
+            "id": "4aadb54f91ef28b5",
+            "type": "leaf",
+            "state": {
+              "type": "diff-view",
+              "state": {
+                "file": ".obsidian/workspace",
+                "staged": false
+              }
+            }
+          }
+        ],
+        "currentTab": 4
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "ribbon": {
+    "mostRecentAction": ""
+  },
+  "active": "7464516d6c36170a",
+  "lastOpenFiles": [
+    "面筋/跨域的cookie.md",
+    "面筋/less的继承.md",
+    "面筋/new.md",
+    "面筋/v8引擎.md",
+    "面筋/webpack 对比 vite.md",
+    "面筋/vue2 -- vue3.md",
+    "study_every/2022-10-13.md",
+    "study_every/2022-10-12.md",
+    "面筋/基础.md",
+    "study_every/2022-10-11.md"
+  ]
+}
