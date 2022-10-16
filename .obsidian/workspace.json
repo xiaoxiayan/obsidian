@@ -13,25 +13,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "面筋/基础.md",
+                "file": "study_every/2022-10-16.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
               }
             }
-          },
-          {
-            "id": "7464516d6c36170a",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.0.0"
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -103,7 +92,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "面筋/基础.md",
+                "file": "study_every/2022-10-16.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -120,7 +109,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "面筋/基础.md",
+                "file": "study_every/2022-10-16.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -167,17 +156,17 @@
   "ribbon": {
     "mostRecentAction": ""
   },
-  "active": "7464516d6c36170a",
+  "active": "e4962a4cfe8b02d3",
   "lastOpenFiles": [
+    "template/每日计划 daily-plan.md",
+    "template/leetCode-template.md",
+    "study_every/2022-10-16.md",
+    "面筋/基础.md",
     "面筋/跨域的cookie.md",
     "面筋/less的继承.md",
     "面筋/new.md",
     "面筋/v8引擎.md",
     "面筋/webpack 对比 vite.md",
-    "面筋/vue2 -- vue3.md",
-    "study_every/2022-10-13.md",
-    "study_every/2022-10-12.md",
-    "面筋/基础.md",
-    "study_every/2022-10-11.md"
+    "面筋/vue2 -- vue3.md"
   ]
 }
