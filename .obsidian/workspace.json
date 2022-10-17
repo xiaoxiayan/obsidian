@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "study_every/2022-10-16.md",
+                "file": "study_every/2022-10-17.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -92,7 +92,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "study_every/2022-10-16.md",
+                "file": "study_every/2022-10-17.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -109,7 +109,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "study_every/2022-10-16.md",
+                "file": "study_every/2022-10-17.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -158,15 +158,15 @@
   },
   "active": "e4962a4cfe8b02d3",
   "lastOpenFiles": [
-    "template/每日计划 daily-plan.md",
-    "template/leetCode-template.md",
+    "study_every/2022-10-17.md",
+    "template/daily-plan.md",
     "study_every/2022-10-16.md",
+    "template/leetCode-template.md",
     "面筋/基础.md",
     "面筋/跨域的cookie.md",
     "面筋/less的继承.md",
     "面筋/new.md",
     "面筋/v8引擎.md",
-    "面筋/webpack 对比 vite.md",
-    "面筋/vue2 -- vue3.md"
+    "面筋/webpack 对比 vite.md"
   ]
 }
