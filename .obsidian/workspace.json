@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "study_every/2022-10-18.md",
+                "file": "study_every/2022-10-19.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "study_every/2022-10-18.md",
+                "file": "study_every/2022-10-19.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "study_every/2022-10-18.md",
+                "file": "study_every/2022-10-19.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -159,6 +159,7 @@
   },
   "active": "e4962a4cfe8b02d3",
   "lastOpenFiles": [
+    "study_every/2022-10-18.md",
     "study_every/2022-10-17.md",
     "mini-vue/36. 更新 element 的 children 双端对比 diff.md",
     "mini-vue/35. 更新Element 的children.md",
@@ -167,7 +168,6 @@
     "mini-vue/00.mini-vue.md",
     "面筋/基础.md",
     "template/daily-plan.md",
-    "study_every/2022-10-16.md",
-    "template/leetCode-template.md"
+    "study_every/2022-10-16.md"
   ]
 }
