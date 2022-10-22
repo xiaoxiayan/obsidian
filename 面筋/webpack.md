@@ -1,7 +1,6 @@
 1：webpack多入口时候，打包时候怎么打包成单独的chunk；
 	配置多入口， entry : { a: 'app1', b: 'app2'  }
-
-
+	在配置多页面应用程序的时候， 可以 用 optimization.splitChunk, 对一些 公共的 chunk 依赖进行打包封装以便达到 减少加载的目的。
 
 2：module和chunk的区别；
 module 相当于源文件， chunk 是指 多个具有引用关系的module 生成的一个 图形结构
