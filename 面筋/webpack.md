@@ -1,5 +1,5 @@
 1：webpack多入口时候，打包时候怎么打包成单独的chunk；
-
+	配置多入口， entry : { a: 'app1', b: 'app2'  }
 
 
 
@@ -7,6 +7,7 @@
 module 相当于源文件， chunk 是指 多个具有引用关系的module 生成的一个 图形结构
 我们直接写出来的是 module，webpack 处理时是 chunk，最后生成浏览器可以直接运行的 bundle
 3：webpack打包原理；
+	最终输出的JS 文件， 内容是多个function ， 里面是对应的每个模块的 function 
 mini-webpack : 
 流程：
 	1. 获取入口文件， 例如 main.js 
