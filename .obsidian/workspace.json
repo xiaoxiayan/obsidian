@@ -13,14 +13,28 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "study_every/2022-10-20.md",
+                "file": "study_every/2022-10-22.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "6cc98c640d9cb5f3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "面筋/webpack.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -58,8 +72,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       },
       {
         "id": "fcdd7ff5aca6503a",
@@ -93,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "study_every/2022-10-20.md",
+                "file": "面筋/webpack.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "study_every/2022-10-20.md",
+                "file": "面筋/webpack.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -157,17 +170,17 @@
   "ribbon": {
     "mostRecentAction": ""
   },
-  "active": "e4962a4cfe8b02d3",
+  "active": "6cc98c640d9cb5f3",
   "lastOpenFiles": [
+    "study_every/2022-10-22.md",
+    "面筋/webpack.md",
+    "study_every/2022-10-20.md",
     "study_every/2022-10-19.md",
     "study_every/2022-10-18.md",
     "study_every/2022-10-17.md",
     "mini-vue/36. 更新 element 的 children 双端对比 diff.md",
     "mini-vue/35. 更新Element 的children.md",
     "mini-vue/37.diff ， 中间对比 移动， 新增， 删除逻辑.md",
-    "mini-vue/99.VUE3  流程梳理笔记.md",
-    "mini-vue/00.mini-vue.md",
-    "面筋/基础.md",
-    "template/daily-plan.md"
+    "mini-vue/99.VUE3  流程梳理笔记.md"
   ]
 }
