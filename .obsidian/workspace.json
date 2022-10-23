@@ -26,7 +26,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "study_every/2022-10-23.md",
+                "file": "mini-vue/01. reactive  && effect && 依赖收集 && 触发依赖.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -106,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "study_every/2022-10-23.md",
+                "file": "mini-vue/01. reactive  && effect && 依赖收集 && 触发依赖.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "study_every/2022-10-23.md",
+                "file": "mini-vue/01. reactive  && effect && 依赖收集 && 触发依赖.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -172,6 +172,7 @@
   },
   "active": "6cc98c640d9cb5f3",
   "lastOpenFiles": [
+    "study_every/2022-10-23.md",
     "study_every/2022-10-22.md",
     "面筋/webpack.md",
     "study_every/2022-10-20.md",
@@ -180,7 +181,6 @@
     "study_every/2022-10-17.md",
     "mini-vue/36. 更新 element 的 children 双端对比 diff.md",
     "mini-vue/35. 更新Element 的children.md",
-    "mini-vue/37.diff ， 中间对比 移动， 新增， 删除逻辑.md",
-    "mini-vue/99.VUE3  流程梳理笔记.md"
+    "mini-vue/37.diff ， 中间对比 移动， 新增， 删除逻辑.md"
   ]
 }
