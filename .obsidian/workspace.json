@@ -26,15 +26,25 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "面筋/v8引擎.md",
+                "file": "mini-vue/00.mini-vue.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
               }
             }
+          },
+          {
+            "id": "c7519176947b8f30",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.0.3"
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -106,7 +116,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "面筋/v8引擎.md",
+                "file": "mini-vue/00.mini-vue.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +133,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "面筋/v8引擎.md",
+                "file": "mini-vue/00.mini-vue.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -167,20 +177,17 @@
     "width": 300,
     "collapsed": true
   },
-  "ribbon": {
-    "mostRecentAction": ""
-  },
-  "active": "6cc98c640d9cb5f3",
+  "active": "c7519176947b8f30",
   "lastOpenFiles": [
-    "面筋/基础.md",
-    "study_every/2022-10-26.md",
-    "study_every/2022-10-25.md",
-    "mini-vue/01. reactive  && effect && 依赖收集 && 触发依赖.md",
-    "mini-vue/99.VUE3  流程梳理笔记.md",
-    "study_every/2022-10-24.md",
+    "面筋/vue2 -- vue3.md",
+    "mini-vue/32-实现自定义渲染器 custom renderer.md",
+    "study_every/2022-10-27.md",
+    "aboutGit/ssh 配置.md",
+    "aboutGit/index.md",
+    "aboutGit/本地项目推线上.md",
+    "面筋/webpack 对比 vite.md",
     "面筋/webpack.md",
-    "study_every/2022-10-23.md",
     "面筋/v8引擎.md",
-    "面筋/webpack 对比 vite.md"
+    "面筋/基础.md"
   ]
 }
