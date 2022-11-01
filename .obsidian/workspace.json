@@ -26,7 +26,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "study_every/2022-10-30.md",
+                "file": "study_every/2022-11-01.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -106,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "study_every/2022-10-30.md",
+                "file": "study_every/2022-11-01.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "study_every/2022-10-30.md",
+                "file": "study_every/2022-11-01.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -169,6 +169,7 @@
   },
   "active": "6cc98c640d9cb5f3",
   "lastOpenFiles": [
+    "study_every/2022-10-30.md",
     "study_every/2022-10-29.md",
     "study_every/2022-10-28.md",
     "study_every/2022-10-27.md",
@@ -177,7 +178,6 @@
     "mini-vue/16. 实现ref功能.md",
     "mini-vue/19. 实现computed 计算属性.md",
     "面筋/webpack 对比 vite.md",
-    "mini-vue/00.mini-vue.md",
-    "面筋/vue2 -- vue3.md"
+    "mini-vue/00.mini-vue.md"
   ]
 }
