@@ -26,7 +26,20 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "study_every/2022-11-10.md",
+                "file": "面筋/vue2 -- vue3.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "baac13b3fc968b99",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "面筋/typeScript.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -34,7 +47,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -106,7 +119,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "study_every/2022-11-10.md",
+                "file": "面筋/typeScript.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +136,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "study_every/2022-11-10.md",
+                "file": "面筋/typeScript.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -167,17 +180,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "6cc98c640d9cb5f3",
+  "active": "baac13b3fc968b99",
   "lastOpenFiles": [
+    "面筋/vue2 -- vue3.md",
+    "面筋/基础.md",
+    "study_every/2022-11-10.md",
     "study_every/2022-11-09.md",
     "study_every/2022-11-07.md",
     "study_every/2022-11-06.md",
     "study_every/2022-11-05.md",
     "study_every/2022-11-04.md",
     "study_every/2022-11-03.md",
-    "study_every/2022-11-02.md",
-    "study_every/2022-11-01.md",
-    "study_every/2022-10-30.md",
-    "study_every/2022-10-29.md"
+    "study_every/2022-11-02.md"
   ]
 }
