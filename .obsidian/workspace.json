@@ -39,7 +39,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "mini-vue/36. 更新 element 的 children 双端对比 diff.md",
+                "file": "mini-vue/48. 实现代码生成 插值.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -119,7 +119,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "mini-vue/36. 更新 element 的 children 双端对比 diff.md",
+                "file": "mini-vue/48. 实现代码生成 插值.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -136,7 +136,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "mini-vue/36. 更新 element 的 children 双端对比 diff.md",
+                "file": "mini-vue/48. 实现代码生成 插值.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -182,15 +182,15 @@
   },
   "active": "baac13b3fc968b99",
   "lastOpenFiles": [
+    "mini-vue/99.VUE3  流程梳理笔记.md",
+    "mini-vue/99.vue-router原理.md",
+    "面筋/基础.md",
+    "mini-vue/36. 更新 element 的 children 双端对比 diff.md",
     "mini-vue/37.diff ， 中间对比 移动， 新增， 删除逻辑.md",
     "mini-vue/41.nextTick.md",
     "面筋/new.md",
     "面筋/typeScript.md",
     "面筋/webpack.md",
-    "aboutGit/ssh 配置.md",
-    "aboutGit/index.md",
-    "aboutGit/本地项目推线上.md",
-    "面筋/webpack 对比 vite.md",
-    "面筋/v8引擎.md"
+    "aboutGit/ssh 配置.md"
   ]
 }
