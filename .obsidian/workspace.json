@@ -39,7 +39,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "template/daily-plan.md",
+                "file": "面筋/基础.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -119,7 +119,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "template/daily-plan.md",
+                "file": "面筋/基础.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -136,7 +136,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "template/daily-plan.md",
+                "file": "面筋/基础.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -182,6 +182,7 @@
   },
   "active": "baac13b3fc968b99",
   "lastOpenFiles": [
+    "template/daily-plan.md",
     "study_every/2022-11-19.md",
     "study_every/2022-11-18.md",
     "面筋/webpack.md",
@@ -190,7 +191,6 @@
     "面筋/基础.md",
     "mini-vue/01. reactive  && effect && 依赖收集 && 触发依赖.md",
     "mini-vue/00.mini-vue.md",
-    "study_every/2022-11-15.md",
-    "study_every/2022-11-14.md"
+    "study_every/2022-11-15.md"
   ]
 }
