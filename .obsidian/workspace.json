@@ -39,7 +39,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "aboutGit/index.md",
+                "file": "study_every/2022-11-19.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -119,7 +119,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "aboutGit/index.md",
+                "file": "study_every/2022-11-19.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -136,7 +136,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "aboutGit/index.md",
+                "file": "study_every/2022-11-19.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -182,6 +182,7 @@
   },
   "active": "baac13b3fc968b99",
   "lastOpenFiles": [
+    "aboutGit/index.md",
     "aboutGit/ssh 配置.md",
     "aboutGit/本地项目推线上.md",
     "面筋/webpack 对比 vite.md",
@@ -190,7 +191,6 @@
     "面筋/v8引擎.md",
     "面筋/typeScript.md",
     "study_every/2022-11-19.md",
-    "面筋/基础.md",
-    "面筋/less的继承.md"
+    "面筋/基础.md"
   ]
 }
