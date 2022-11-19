@@ -1,5 +1,6 @@
 # v2 监听的缺陷
 vue2  的双向数据绑定，使用的 `Object.defineProperty(obj, key , GetAndSet)` ,
+Vue2 数组的监听， vue 通过 Object.create让arrayMethods 继承了数组的原型， 然后在调用响应式对象方法的时候，去调用了apply ，调用数组的真正方法，并且去 get, set 监听对应的变化数据
 需要传三个参数， 对象，监听的 key， handle 
 proxy  是监听整个 对象，只要有变动就可以操作
 
