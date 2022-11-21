@@ -39,7 +39,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "面筋/typeScript.md",
+                "file": "study_every/2022-11-21.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -119,7 +119,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "面筋/typeScript.md",
+                "file": "study_every/2022-11-21.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -136,7 +136,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "面筋/typeScript.md",
+                "file": "study_every/2022-11-21.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -182,9 +182,9 @@
   },
   "active": "baac13b3fc968b99",
   "lastOpenFiles": [
+    "面筋/typeScript.md",
     "面筋/vue2 -- vue3.md",
     "mini-vue/00.mini-vue.md",
-    "面筋/typeScript.md",
     "study_every/2022-11-20.md",
     "study_every/2022-11-21.md",
     "mini-vue/37.diff ， 中间对比 移动， 新增， 删除逻辑.md",
