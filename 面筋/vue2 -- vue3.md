@@ -43,3 +43,22 @@ v3 中新增了  `defineAsyncComponent`
 # 生命周期的改变
 
 
+# Composition Api + setup 语法糖。
+  优化逻辑组织
+	  在`vue2`中，我们是通过`mixin`实现功能混合，如果多个`mixin`混合，会存在两个非常明显的问题：命名冲突和数据来源不清晰。
+	  而通过`composition`这种形式，可以将一些复用的代码抽离出来作为一个函数，只要的使用的地方直接进行调用即可。
+
+
+# 性能优化
+
+编译阶段。对diff算法优化、静态提升、事件监听缓存、SSR优化等。
+
+> vue3 的 diff算法 相比 v2 加入了静态标记， 文本类的 vnode直接渲染
+> 响应式系统。。 proxy 替代了 object.defineProperty , 监听对象不再需要深度遍历。
+> 
+> 体积包减少，Compostion API 的写法，可以更好的进行tree shaking，减少上下文没有引入的代码，减少打包后的文件体积。 判断的话，就是出现
+> 
+
+
+
+
