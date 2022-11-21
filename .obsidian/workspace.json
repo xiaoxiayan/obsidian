@@ -39,7 +39,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "study_every/2022-11-20.md",
+                "file": "面筋/vue2 -- vue3.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -119,7 +119,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "study_every/2022-11-20.md",
+                "file": "面筋/vue2 -- vue3.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -136,7 +136,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "study_every/2022-11-20.md",
+                "file": "面筋/vue2 -- vue3.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -182,15 +182,15 @@
   },
   "active": "baac13b3fc968b99",
   "lastOpenFiles": [
+    "mini-vue/00.mini-vue.md",
+    "面筋/typeScript.md",
+    "study_every/2022-11-20.md",
     "study_every/2022-11-21.md",
     "面筋/vue2 -- vue3.md",
     "mini-vue/37.diff ， 中间对比 移动， 新增， 删除逻辑.md",
-    "study_every/2022-11-20.md",
     "mini-vue/99.vue-router原理.md",
     "mini-vue/reactivity 依赖收集.png",
     "mini-vue/Pasted image 20220417170510.png",
-    "mini-vue/41.nextTick.md",
-    "mini-vue/40. 组件更新.md",
-    "mini-vue/32-实现自定义渲染器 custom renderer.md"
+    "mini-vue/41.nextTick.md"
   ]
 }
