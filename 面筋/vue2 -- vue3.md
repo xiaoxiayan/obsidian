@@ -59,6 +59,7 @@ v3 中新增了  `defineAsyncComponent`
 > 体积包减少，Compostion API 的写法，可以更好的进行tree shaking，减少上下文没有引入的代码，减少打包后的文件体积。 判断的话，就是出现
 > 
 
+#  对typeScript的支持更加友好
 
 
-
+	`Vue3`是基于`typeScript`编写的，提供了更好的类型检查，能支持复杂的类型推导。
