@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "study_every/2022-11-23.md",
+                "file": "study_every/2022-11-24.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -118,7 +118,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "study_every/2022-11-23.md",
+                "file": "study_every/2022-11-24.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -135,7 +135,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "study_every/2022-11-23.md",
+                "file": "study_every/2022-11-24.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -181,6 +181,8 @@
   },
   "active": "e4962a4cfe8b02d3",
   "lastOpenFiles": [
+    "study_every/2022-11-23.md",
+    "study_every/2022-11-22.md",
     "study_every/2022-10-22.md",
     "面筋/webpack.md",
     "mini-vue/46.实现 transform.md",
@@ -188,8 +190,6 @@
     "mini-vue/50. 解析 template 导出到 运行时，runtime-core.md",
     "mini-vue/47.实现代码生成string类型.md",
     "面筋/webpack 对比 vite.md",
-    "面筋/vue2 -- vue3.md",
-    "面筋/v8引擎.md",
-    "面筋/typeScript.md"
+    "面筋/vue2 -- vue3.md"
   ]
 }
