@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "mini-vue/99.vue-router原理.md",
+                "file": "study_every/2022-11-24.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -118,7 +118,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "mini-vue/99.vue-router原理.md",
+                "file": "study_every/2022-11-24.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -135,7 +135,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "mini-vue/99.vue-router原理.md",
+                "file": "study_every/2022-11-24.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -181,6 +181,7 @@
   },
   "active": "e4962a4cfe8b02d3",
   "lastOpenFiles": [
+    "mini-vue/99.vue-router原理.md",
     "mini-vue/99.VUE3  流程梳理笔记.md",
     "mini-vue/Pasted image 20220417170510.png",
     "mini-vue/reactivity 依赖收集.png",
@@ -189,7 +190,6 @@
     "study_every/2022-11-24.md",
     "面筋/webpack.md",
     "面筋/vue2 -- vue3.md",
-    "study_every/2022-11-23.md",
-    "study_every/2022-11-22.md"
+    "study_every/2022-11-23.md"
   ]
 }
