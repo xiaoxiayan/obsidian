@@ -46,8 +46,14 @@ typeof  获取一个变量或对象的类型
 
 ```
 type Person = {
-	
+	age: Number;
+	name: String;
+}
+const Person1 = {
+  age: '18',
+  name: 'xiaohong'
 }
 
-
+type cc = typeof Person
+type aa = typeof Person1
 ```
