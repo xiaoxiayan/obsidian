@@ -32,4 +32,12 @@ keyof 是 索引类型查询操作符， 获取索引的 key, 构成联合类型
 type MyPick <T, k extends keyof T> = {
 	[P in K] : T [P]
 }
+
+// 过滤出内容
+
+type obj = {
+	age: Number;
+	name: String;
+}
+type pickObj = MyPick<obj, 'age'>
 ```
