@@ -41,3 +41,13 @@ type obj = {
 }
 type pickObj = MyPick<obj, 'age'>
 ```
+
+typeof  获取一个变量或对象的类型
+
+```
+type Person = {
+	
+}
+
+
+```
