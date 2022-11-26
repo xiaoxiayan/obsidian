@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "mini-vue/99.VUE3  流程梳理笔记.md",
+                "file": "mini-vue/40. 组件更新.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -118,7 +118,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "mini-vue/99.VUE3  流程梳理笔记.md",
+                "file": "mini-vue/40. 组件更新.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -135,7 +135,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "mini-vue/99.VUE3  流程梳理笔记.md",
+                "file": "mini-vue/40. 组件更新.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -181,15 +181,15 @@
   },
   "active": "e4962a4cfe8b02d3",
   "lastOpenFiles": [
-    "study_every/2022-11-25.md",
+    "mini-vue/41.nextTick.md",
+    "面筋/基础.md",
+    "面筋/跨域的cookie.md",
+    "面筋/less的继承.md",
+    "面筋/vue2 -- vue3.md",
+    "面筋/webpack 对比 vite.md",
+    "面筋/webpack.md",
     "面筋/typeScript.md",
-    "study_every/2022-11-23.md",
-    "study_every/2022-11-24.md",
-    "mini-vue/99.vue-router原理.md",
-    "mini-vue/99.VUE3  流程梳理笔记.md",
-    "mini-vue/Pasted image 20220417170510.png",
-    "mini-vue/reactivity 依赖收集.png",
-    "mini-vue/01. reactive  && effect && 依赖收集 && 触发依赖.md",
-    "面筋/v8引擎.md"
+    "aboutGit/本地项目推线上.md",
+    "mini-vue/99.最长递增子序列.md"
   ]
 }
