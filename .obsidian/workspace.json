@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "mini-vue/40. 组件更新.md",
+                "file": "study_every/2022-11-26.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -118,7 +118,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "mini-vue/40. 组件更新.md",
+                "file": "study_every/2022-11-26.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -135,7 +135,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "mini-vue/40. 组件更新.md",
+                "file": "study_every/2022-11-26.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -181,6 +181,7 @@
   },
   "active": "e4962a4cfe8b02d3",
   "lastOpenFiles": [
+    "mini-vue/40. 组件更新.md",
     "mini-vue/41.nextTick.md",
     "面筋/基础.md",
     "面筋/跨域的cookie.md",
@@ -189,7 +190,6 @@
     "面筋/webpack 对比 vite.md",
     "面筋/webpack.md",
     "面筋/typeScript.md",
-    "aboutGit/本地项目推线上.md",
-    "mini-vue/99.最长递增子序列.md"
+    "aboutGit/本地项目推线上.md"
   ]
 }
