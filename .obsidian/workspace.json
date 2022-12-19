@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "study_every/2022-12-18.md",
+                "file": "study_every/2022-12-19.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -118,7 +118,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "study_every/2022-12-18.md",
+                "file": "study_every/2022-12-19.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -135,7 +135,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "study_every/2022-12-18.md",
+                "file": "study_every/2022-12-19.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -181,6 +181,7 @@
   },
   "active": "e4962a4cfe8b02d3",
   "lastOpenFiles": [
+    "study_every/2022-12-18.md",
     "study_every/2022-12-17.md",
     "study_every/2022-12-16.md",
     "study_every/2022-12-15.md",
@@ -189,7 +190,6 @@
     "study_every/2022-12-06.md",
     "study_every/2022-12-11.md",
     "study_every/2022-12-10.md",
-    "study_every/2022-12-09.md",
-    "面筋/vue2 -- vue3.md"
+    "study_every/2022-12-09.md"
   ]
 }
