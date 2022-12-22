@@ -21,6 +21,16 @@
             }
           },
           {
+            "id": "ba0ed7b8b5632b36",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.1.8"
+              }
+            }
+          },
+          {
             "id": "6cc98c640d9cb5f3",
             "type": "leaf",
             "state": {
@@ -46,7 +56,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -179,7 +190,19 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "e4962a4cfe8b02d3",
+  "left-ribbon": {
+    "hiddenItems": {
+      "templater-obsidian:Templater": false,
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false,
+      "markdown-importer:打开 Markdown 格式转换器": false
+    }
+  },
+  "active": "ba0ed7b8b5632b36",
   "lastOpenFiles": [
     "study_every/2022-12-20.md",
     "study_every/2022-12-19.md",
