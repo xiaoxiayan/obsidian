@@ -13,20 +13,10 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "study_every/2022-12-21.md",
+                "file": "study_every/2022-12-22.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
-              }
-            }
-          },
-          {
-            "id": "ba0ed7b8b5632b36",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.1.8"
               }
             }
           },
@@ -56,8 +46,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -129,7 +118,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "study_every/2022-12-21.md",
+                "file": "study_every/2022-12-22.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -146,7 +135,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "study_every/2022-12-21.md",
+                "file": "study_every/2022-12-22.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -202,8 +191,9 @@
       "markdown-importer:打开 Markdown 格式转换器": false
     }
   },
-  "active": "ba0ed7b8b5632b36",
+  "active": "e4962a4cfe8b02d3",
   "lastOpenFiles": [
+    "study_every/2022-12-21.md",
     "study_every/2022-12-20.md",
     "study_every/2022-12-19.md",
     "study_every/2022-12-18.md",
@@ -212,7 +202,6 @@
     "study_every/2022-12-15.md",
     "study_every/2022-12-14.md",
     "study_every/2022-12-13.md",
-    "study_every/2022-12-06.md",
-    "study_every/2022-12-11.md"
+    "study_every/2022-12-06.md"
   ]
 }
