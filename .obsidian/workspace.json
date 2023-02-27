@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "study_every/2023-02-24.md",
+                "file": "study_every/2023-02-27.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -118,7 +118,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "study_every/2023-02-24.md",
+                "file": "study_every/2023-02-27.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -135,7 +135,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "study_every/2023-02-24.md",
+                "file": "study_every/2023-02-27.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -181,9 +181,9 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "canvas:新建白板": false,
       "switcher:打开快速切换": false,
       "graph:查看关系图谱": false,
-      "canvas:Create new canvas": false,
       "daily-notes:打开/创建今天的日记": false,
       "templates:插入模板": false,
       "command-palette:打开命令面板": false,
@@ -193,6 +193,8 @@
   },
   "active": "e4962a4cfe8b02d3",
   "lastOpenFiles": [
+    "study_every/2023-02-24.md",
+    "study_every/2023-02-27.md",
     "study_every/2023-02-23.md",
     "study_every/2023-02-22.md",
     "study_every/2023-02-21.md",
