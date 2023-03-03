@@ -13,25 +13,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "study_every/2023-03-02.md",
+                "file": "study_every/2023-03-03.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
               }
             }
-          },
-          {
-            "id": "3cb9397c1d7bf282",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.1.16"
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -103,7 +92,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "study_every/2023-03-02.md",
+                "file": "study_every/2023-03-03.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -120,7 +109,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "study_every/2023-03-02.md",
+                "file": "study_every/2023-03-03.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -176,8 +165,11 @@
       "markdown-importer:打开 Markdown 格式转换器": false
     }
   },
-  "active": "3cb9397c1d7bf282",
+  "active": "f4b578044a4a9b7a",
   "lastOpenFiles": [
+    "conflict-files-obsidian-git.md",
+    "study_every/2023-03-03.md",
+    "study_every/2023-03-02.md",
     "study_every/2023-02-19.md",
     "study_every/2023-02-18.md",
     "study_every/2023-02-12.md",
