@@ -8,25 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "6cc98c640d9cb5f3",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "面筋/vue2 -- vue3.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
             "id": "baac13b3fc968b99",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "study_every/2022-11-22.md",
+                "file": "study_every/2023-03-22.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -105,6 +92,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "study_every/2023-03-22.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -121,6 +109,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "study_every/2023-03-22.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -176,10 +165,12 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "3bab2fd01dcb7404",
+  "active": "baac13b3fc968b99",
   "lastOpenFiles": [
-    "study_every/2023-03-22.md",
+    "study_every/2022-11-22.md",
+    "template/daily-plan.md",
     "未命名.canvas",
+    "study_every/2023-03-22.md",
     "study_every/2023-03-21.md",
     "study_every/2023-03-20.md",
     "study_every/2023-03-19.md",
@@ -202,7 +193,6 @@
     "study_every/2023-03-01.md",
     "study_every/2023-02-28.md",
     "study_every/2023-02-27.md",
-    "study_every/2023-02-24.md",
-    "study_every/2023-02-23.md"
+    "study_every/2023-02-24.md"
   ]
 }
