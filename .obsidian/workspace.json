@@ -8,19 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "e4962a4cfe8b02d3",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "study_every/2023-03-22.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
             "id": "6cc98c640d9cb5f3",
             "type": "leaf",
             "state": {
@@ -118,7 +105,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "study_every/2023-03-22.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -135,7 +121,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "study_every/2023-03-22.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -191,10 +176,11 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "e4962a4cfe8b02d3",
+  "active": "3bab2fd01dcb7404",
   "lastOpenFiles": [
-    "study_every/2023-03-21.md",
     "study_every/2023-03-22.md",
+    "未命名.canvas",
+    "study_every/2023-03-21.md",
     "study_every/2023-03-20.md",
     "study_every/2023-03-19.md",
     "study_every/2023-03-17.md",
@@ -217,7 +203,6 @@
     "study_every/2023-02-28.md",
     "study_every/2023-02-27.md",
     "study_every/2023-02-24.md",
-    "study_every/2023-02-23.md",
-    "study_every/2023-02-22.md"
+    "study_every/2023-02-23.md"
   ]
 }
