@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "study_every/2023-03-26.md",
+                "file": "study_every/2023-03-24.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -92,7 +92,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "study_every/2023-03-26.md",
+                "file": "study_every/2023-03-24.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -109,7 +109,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "study_every/2023-03-26.md",
+                "file": "study_every/2023-03-24.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -167,10 +167,10 @@
   },
   "active": "baac13b3fc968b99",
   "lastOpenFiles": [
-    "study_every/2023-03-25.md",
     "study_every/2023-03-26.md",
-    "study_every/2023-03-24.md",
+    "study_every/2023-03-25.md",
     "study_every/2023-03-23.md",
+    "study_every/2023-03-24.md",
     "study_every/2023-03-22.md",
     "study_every/2022-11-22.md",
     "template/daily-plan.md",
