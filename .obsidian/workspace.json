@@ -97,6 +97,14 @@
                 "sortOrder": "alphabetical"
               }
             }
+          },
+          {
+            "id": "01d781402b365def",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
           }
         ]
       },
@@ -209,7 +217,6 @@
   "lastOpenFiles": [
     "study_every/2023-05-15.md",
     "study_every/2023-05-16.md",
-    "conflict-files-obsidian-git.md",
     "study_every/2023-05-14.md",
     "study_every/2023-05-12.md",
     "study_every/2023-05-13.md",
@@ -233,6 +240,7 @@
     "study_every/2023-04-20.md",
     "study_every/2023-04-19.md",
     "study_every/2023-04-17.md",
+    "study_every/2023-04-14.md",
     "未命名.canvas"
   ]
 }
