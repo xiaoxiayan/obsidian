@@ -52,7 +52,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "study_every/2023-05-16.md",
+                "file": "study_every/2023-05-17.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -97,14 +97,6 @@
                 "sortOrder": "alphabetical"
               }
             }
-          },
-          {
-            "id": "01d781402b365def",
-            "type": "leaf",
-            "state": {
-              "type": "bookmarks",
-              "state": {}
-            }
           }
         ]
       },
@@ -140,7 +132,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "study_every/2023-05-16.md",
+                "file": "study_every/2023-05-17.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -157,7 +149,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "study_every/2023-05-16.md",
+                "file": "study_every/2023-05-17.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -215,8 +207,10 @@
   },
   "active": "84b891e11d2d36c2",
   "lastOpenFiles": [
-    "study_every/2023-05-15.md",
     "study_every/2023-05-16.md",
+    "study_every/2023-05-17.md",
+    "study_every/2023-05-15.md",
+    "conflict-files-obsidian-git.md",
     "study_every/2023-05-14.md",
     "study_every/2023-05-12.md",
     "study_every/2023-05-13.md",
@@ -239,8 +233,6 @@
     "study_every/2023-04-22.md",
     "study_every/2023-04-20.md",
     "study_every/2023-04-19.md",
-    "study_every/2023-04-17.md",
-    "study_every/2023-04-14.md",
     "未命名.canvas"
   ]
 }
