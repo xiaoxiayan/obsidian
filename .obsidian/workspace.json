@@ -52,7 +52,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "study_every/2023-05-26.md",
+                "file": "study_every/2023-05-27.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -97,6 +97,14 @@
                 "sortOrder": "alphabetical"
               }
             }
+          },
+          {
+            "id": "568be7540ac1e98f",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
           }
         ]
       },
@@ -132,7 +140,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "study_every/2023-05-26.md",
+                "file": "study_every/2023-05-27.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -149,7 +157,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "study_every/2023-05-26.md",
+                "file": "study_every/2023-05-27.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -207,13 +215,14 @@
   },
   "active": "84b891e11d2d36c2",
   "lastOpenFiles": [
-    "study_every/2023-05-25.md",
+    "study_every/2023-05-19.md",
+    "study_every/2023-05-27.md",
     "study_every/2023-05-26.md",
+    "study_every/2023-05-25.md",
     "study_every/2023-05-23.md",
     "study_every/2023-05-22.md",
-    "study_every/2023-05-20.md",
     "study_every/2023-05-21.md",
-    "study_every/2023-05-19.md",
+    "study_every/2023-05-20.md",
     "study_every/2023-05-17.md",
     "study_every/2023-05-16.md",
     "study_every/2023-05-15.md",
@@ -232,7 +241,6 @@
     "study_every/2023-05-03.md",
     "study_every/2023-05-02.md",
     "study_every/2023-04-27.md",
-    "study_every/2023-04-26.md",
     "未命名.canvas"
   ]
 }
