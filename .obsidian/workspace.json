@@ -4,76 +4,23 @@
     "type": "split",
     "children": [
       {
-        "id": "d3246262038e15bf",
+        "id": "8dfde8ea48feb8ad",
         "type": "tabs",
         "children": [
           {
-            "id": "baac13b3fc968b99",
+            "id": "bb3513c78d56a793",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "study_every/2023-04-14.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "80977d21d2e508a3",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "study_every/2023-04-14.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "574810aef25d5e8a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "study_every/2023-04-17.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "84b891e11d2d36c2",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "study_every/2023-05-28.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "6cb206f5a9a1da3a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "study_every/2023-06-03.md",
+                "file": "study_every/2023-06-04.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 4
+        ]
       }
     ],
     "direction": "vertical"
@@ -153,7 +100,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "study_every/2023-06-03.md",
+                "file": "study_every/2023-06-04.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -170,7 +117,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "study_every/2023-06-03.md",
+                "file": "study_every/2023-06-04.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -226,11 +173,14 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "6cb206f5a9a1da3a",
+  "active": "bb3513c78d56a793",
   "lastOpenFiles": [
-    "conflict-files-obsidian-git.md",
     "study_every/2023-06-03.md",
+    "study_every/2023-06-04.md",
+    "study_every/2023-04-14.md",
+    "study_every/2023-04-17.md",
     "study_every/2023-05-28.md",
+    "conflict-files-obsidian-git.md",
     "study_every/2023-06-01.md",
     "study_every/2023-05-29.md",
     "study_every/2023-05-27.md",
@@ -251,9 +201,6 @@
     "study_every/2023-05-09.md",
     "study_every/2023-05-08.md",
     "study_every/2023-05-06.md",
-    "study_every/2023-05-07.md",
-    "study_every/2023-05-05.md",
-    "study_every/2023-05-04.md",
     "未命名.canvas"
   ]
 }
