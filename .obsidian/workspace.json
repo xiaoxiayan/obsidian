@@ -52,7 +52,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "study_every/2023-06-23.md",
+                "file": "study_every/2023-06-26.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -140,7 +140,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "study_every/2023-06-23.md",
+                "file": "study_every/2023-06-26.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -157,7 +157,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "study_every/2023-06-23.md",
+                "file": "study_every/2023-06-26.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -215,8 +215,11 @@
   },
   "active": "84b891e11d2d36c2",
   "lastOpenFiles": [
-    "study_every/2023-06-16.md",
+    "study_every/2023-06-25.md",
+    "study_every/2023-06-26.md",
     "study_every/2023-06-23.md",
+    "conflict-files-obsidian-git.md",
+    "study_every/2023-06-16.md",
     "study_every/2023-06-22.md",
     "study_every/2023-06-21.md",
     "study_every/2023-06-20.md",
@@ -234,13 +237,10 @@
     "study_every/2023-06-07.md",
     "study_every/2023-06-06.md",
     "study_every/2023-06-05.md",
-    "conflict-files-obsidian-git.md",
     "study_every/2023-06-04.md",
     "study_every/2023-06-01.md",
     "study_every/2023-06-03.md",
     "study_every/2023-05-29.md",
-    "study_every/2023-05-28.md",
-    "study_every/2023-05-26.md",
     "未命名.canvas"
   ]
 }
