@@ -15,7 +15,7 @@
 	// 验证
 	expect(todoStore.todos[0].title).toBe(title)
 	// 拆卸
-	 
+	afterEach()
 
  })
 
