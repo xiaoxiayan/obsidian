@@ -58,22 +58,9 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "bc4dc09ed7d7b450",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "study_every/2023-07-07.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -153,7 +140,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "study_every/2023-07-07.md",
+                "file": "TDD/index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -170,7 +157,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "study_every/2023-07-07.md",
+                "file": "TDD/index.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -226,10 +213,10 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "bc4dc09ed7d7b450",
+  "active": "84b891e11d2d36c2",
   "lastOpenFiles": [
-    "study_every/2023-07-06.md",
     "study_every/2023-07-07.md",
+    "study_every/2023-07-06.md",
     "TDD/vitest-api.md",
     "TDD/index.md",
     "TDD",
