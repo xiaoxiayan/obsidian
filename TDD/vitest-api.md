@@ -8,4 +8,8 @@ describe.only
 
 expect  -- 断言
 .toBe() ---  ===
-.toEqual
+.toEqual() --- object
+.toBeTruthy(). --- haveValue --- 1 , true, '123'
+.toBeFalsy() --- noValue.   --- 0, false, ''
+.toContain --- contain  --- includes --- array,string
+.toThrow --- isError
