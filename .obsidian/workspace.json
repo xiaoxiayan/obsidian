@@ -26,7 +26,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "study_every/2023-07-25.md",
+                "file": "study_every/2023-07-26.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -114,7 +114,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "study_every/2023-07-25.md",
+                "file": "study_every/2023-07-26.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -131,7 +131,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "study_every/2023-07-25.md",
+                "file": "study_every/2023-07-26.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -189,8 +189,9 @@
   },
   "active": "80977d21d2e508a3",
   "lastOpenFiles": [
-    "study_every/2023-07-21.md",
     "study_every/2023-07-25.md",
+    "study_every/2023-07-26.md",
+    "study_every/2023-07-21.md",
     "study_every/2023-07-19.md",
     "study_every/2023-07-13.md",
     "study_every/2023-07-16.md",
@@ -215,7 +216,6 @@
     "study_every/2023-04-17.md",
     "study_every/2023-06-23.md",
     "study_every/2023-06-16.md",
-    "study_every/2023-06-22.md",
     "未命名.canvas"
   ]
 }
