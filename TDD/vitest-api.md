@@ -15,7 +15,7 @@ expect  -- 断言
 .toThrow --- isError
 
 // 模拟数据
-会全局置顶这个 操作
+会全局置顶这个 操作 stub
 vi.mock('./filePath',  () =>  {
 	return {
 		useAge: () => 2 // fetchdataFn
@@ -23,7 +23,10 @@ vi.mock('./filePath',  () =>  {
 })
 
 vi.mock('./user')
+// 需要再模拟后再导入
+vi.domock('./user', () => {
 
+})
 it('dd', () => {
 	vi.mocked(useAge).mockReturnValue(2)
 })
