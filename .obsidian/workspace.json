@@ -26,7 +26,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "TDD/index.md",
+                "file": "TDD/vitest-api.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -114,7 +114,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "TDD/index.md",
+                "file": "TDD/vitest-api.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -131,7 +131,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "TDD/index.md",
+                "file": "TDD/vitest-api.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -189,6 +189,7 @@
   },
   "active": "80977d21d2e508a3",
   "lastOpenFiles": [
+    "TDD/index.md",
     "study_every/2023-08-29.md",
     "study_every/2023-08-25.md",
     "study_every/2023-08-27.md",
@@ -214,7 +215,6 @@
     "study_every/2023-07-30.md",
     "study_every/2023-07-26.md",
     "study_every/2023-07-25.md",
-    "study_every/2023-07-21.md",
     "TDD",
     "未命名.canvas"
   ]
