@@ -31,4 +31,13 @@ it('dd', () => {
 	vi.mocked(useAge).mockReturnValue(2)
 })
 
+// 异步axios 
+export fetchAge  => {
+ return  new Promise(resolve, reject) => {
+	  setTimeout(() => {
+		  return resolve(18)
+	  },  0 )
+ }
+}
+
 
