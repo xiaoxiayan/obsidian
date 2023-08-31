@@ -31,13 +31,56 @@ it('dd', () => {
 	vi.mocked(useAge).mockReturnValue(2)
 })
 
-// 异步axios 
-export fetchAge  => {
+// 异步  asy await
+```
+export function fetchAge () : Promise<number>{
  return  new Promise(resolve, reject) => {
 	  setTimeout(() => {
 		  return resolve(18)
 	  },  0 )
  }
 }
+
+```
+
+// 异步 axios
+```
+import axios from "axios"
+vi.mock('axios')
+test('第三方模块处理 axios', async () => {
+	vi.mocked(axios).mockResolvedValue({name: 'xxp', age: 2})
+vi.mocked(axios.get).mockResolvedValue({name: 'xxp', age: 2})
+
+})
+
+
+
+```
+
+// 获取 export 中所有的属性 , class 类
+
+```
+vi.mock('./path', async (importOriginal) => {
+	const config = await importOriginal
+	 
+	return {
+		...config
+		name: 'c'
+	
+	}
+})
+
+
+
+describe('使用变量的形式', () => {
+	it ('tell name', () => {
+		const r = fn()
+		
+	})
+
+})
+
+
+```
 
 
