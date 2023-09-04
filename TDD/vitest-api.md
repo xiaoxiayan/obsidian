@@ -83,4 +83,62 @@ describe('使用变量的形式', () => {
 
 ```
 
-// 获取env
+
+// stubEnv 可以用在环境变量
+```
+it("process", () => {
+	// process.env.U = "2"
+	vi.stubEnv("U", "2")
+	const r = 2 * process.env.U
+	expect(r).toBe(4)
+	vi.unstubAllEnvs()
+})
+
+afterEach(() => {
+	// 恢复原有的值
+	vi.unstubAllEnvs()
+})
+
+
+```
+
+// 全局 global -- window 
+// 如 window.xx
+```
+ it ("double u", () => {
+		vi.stubGlobal("key", { age: 12}  )
+	
+
+})
+
+it ("innerHeight", () => {
+	vi.stubGlobal("innerHeight", 100)
+	
+})
+
+```
+
+
+// 间接层的测试
+
+```
+ 依赖底层 变量的 测试。
+ 可以包装成函数
+ 然后使用 vi.mock
+funciton getInnerHeight () {
+	return window.innerHeight
+}
+
+vi.mock('./path', () => {
+return {
+	getInnerHeight: () => 200
+}
+})
+
+
+it('fn', () => {
+	const r = getInnerHeight()
+	expect(r).toBe(200)
+})
+
+```
