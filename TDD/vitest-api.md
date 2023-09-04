@@ -1,4 +1,4 @@
-it -- describe -- test 
+ it -- describe -- test 
 都是启动函数
 
 
@@ -83,4 +83,4 @@ describe('使用变量的形式', () => {
 
 ```
 
-
+// 获取env
