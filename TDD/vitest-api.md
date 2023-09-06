@@ -148,7 +148,28 @@ it('fn', () => {
 
 行为验证。
 ```
-it("should create user")
+
+class UserService {
+	constructor(private datebase: Database) {}
+	createUser(name: string): User {
+	const id = 110
+		const newUser: User = {id, name}
+		this.database.addUser(User)
+	return newUser
+	}
+}
+
+
+
+it("should create user", () => {
+	const database = new Database()
+	// 监听对象中的 fn\ key
+	vi.syOn(database, "addUser")
+	const userService = new UserService(database)
+	userService.createUser('aaa')
+	
+
+})
 
 
 ```
