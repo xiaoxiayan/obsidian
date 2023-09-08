@@ -154,9 +154,6 @@ class UserService {
 	createUser(name: string): User {
 	const id = 110
 		const newUser: User = {id, name}
-		this.database.addUser(User)
-	return newUser
-	}
 }
 
 
@@ -167,7 +164,7 @@ it("should create user", () => {
 	vi.syOn(database, "addUser")
 	const userService = new UserService(database)
 	userService.createUser('aaa')
-	
+	expect(database.addUser).toBeCalled(1)	
 
 })
 
