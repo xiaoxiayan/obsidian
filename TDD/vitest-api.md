@@ -164,7 +164,11 @@ it("should create user", () => {
 	vi.syOn(database, "addUser")
 	const userService = new UserService(database)
 	userService.createUser('aaa')
-	expect(database.addUser).toBeCalled(1)	
+	expect(database.addUser).toBeCalled()
+	
+
+	
+	
 
 })
 
