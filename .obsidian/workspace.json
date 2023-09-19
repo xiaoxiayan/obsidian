@@ -26,7 +26,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "study_every/2023-09-19.md",
+                "file": "TDD/vitest-api.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -114,7 +114,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "study_every/2023-09-19.md",
+                "file": "TDD/vitest-api.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -131,7 +131,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "study_every/2023-09-19.md",
+                "file": "TDD/vitest-api.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
