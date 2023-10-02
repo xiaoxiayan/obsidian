@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "study_every/2023-10-02.md",
+                "file": "TDD/index.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -100,7 +100,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "study_every/2023-10-02.md",
+                "file": "TDD/index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,7 +117,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "study_every/2023-10-02.md",
+                "file": "TDD/index.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -152,16 +152,6 @@
                 "staged": false
               }
             }
-          },
-          {
-            "id": "fc45347ca86d0dda",
-            "type": "leaf",
-            "state": {
-              "type": "all-properties",
-              "state": {
-                "sortOrder": "frequency"
-              }
-            }
           }
         ],
         "currentTab": 4
@@ -185,13 +175,13 @@
   },
   "active": "baac13b3fc968b99",
   "lastOpenFiles": [
-    "study_every/2023-10-01.md",
     "study_every/2023-10-02.md",
-    "TDD/index.md",
+    "study_every/2023-10-01.md",
     "study_every/2023-09-29.md",
     "TDD/知识地图.md",
     "TDD/模拟浏览器环境配置.md",
     "TDD/Pasted image 20230919210540.png",
+    "TDD/index.md",
     "TDD/vitest-api.md",
     "study_every/2023-09-28.md",
     "study_every/2023-09-27.md",
