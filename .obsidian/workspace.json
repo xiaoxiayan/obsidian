@@ -152,6 +152,16 @@
                 "staged": false
               }
             }
+          },
+          {
+            "id": "ee4d1b590ada3e34",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency"
+              }
+            }
           }
         ],
         "currentTab": 4
