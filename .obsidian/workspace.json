@@ -152,6 +152,16 @@
                 "staged": false
               }
             }
+          },
+          {
+            "id": "ee4d1b590ada3e34",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency"
+              }
+            }
           }
         ],
         "currentTab": 4
@@ -178,11 +188,11 @@
     "study_every/2023-10-07.md",
     "study_every/2023-10-08.md",
     "study_every/2023-10-04.md",
-    "study_every/2023-09-29.md",
     "TDD/index.md",
     "study_every/2023-10-03.md",
     "study_every/2023-10-02.md",
     "study_every/2023-10-01.md",
+    "study_every/2023-09-29.md",
     "TDD/知识地图.md",
     "TDD/模拟浏览器环境配置.md",
     "TDD/Pasted image 20230919210540.png",
