@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "mini-vue/46.实现 transform.md",
+                "file": "mini-vue/37.diff ， 中间对比 移动， 新增， 删除逻辑.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -49,7 +49,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "isSomeVnodeType",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -66,7 +66,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       },
       {
         "id": "fcdd7ff5aca6503a",
@@ -100,7 +101,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "mini-vue/46.实现 transform.md",
+                "file": "mini-vue/37.diff ， 中间对比 移动， 新增， 删除逻辑.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,7 +118,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "mini-vue/46.实现 transform.md",
+                "file": "mini-vue/37.diff ， 中间对比 移动， 新增， 删除逻辑.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -173,8 +174,16 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "baac13b3fc968b99",
+  "active": "d462ef911ecbc681",
   "lastOpenFiles": [
+    "study_every/2022-03-02.md",
+    "study_every/2022-02-24.md",
+    "mini-vue/37.diff ， 中间对比 移动， 新增， 删除逻辑.md",
+    "mini-vue/99.VUE3  流程梳理笔记.md",
+    "mini-vue/36. 更新 element 的 children 双端对比 diff.md",
+    "mini-vue/43.解析 element 标签.md",
+    "mini-vue/45.联合类型解析.md",
+    "mini-vue/46.实现 transform.md",
     "mini-vue/48. 实现代码生成 插值.md",
     "mini-vue/49.element类型和 联合.md",
     "mini-vue/50. 解析 template 导出到 运行时，runtime-core.md",
@@ -193,15 +202,7 @@
     "study_every/2023-09-29.md",
     "study_every/2023-10-03.md",
     "study_every/2023-10-02.md",
-    "study_every/2023-10-01.md",
-    "TDD/知识地图.md",
-    "TDD/模拟浏览器环境配置.md",
     "TDD/Pasted image 20230919210540.png",
-    "study_every/2023-09-28.md",
-    "study_every/2023-09-27.md",
-    "study_every/2023-09-25.md",
-    "study_every/2023-09-26.md",
-    "leetCode/算法.md",
     "TDD/未命名.canvas",
     "TDD",
     "未命名.canvas"
