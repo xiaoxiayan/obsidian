@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "d3246262038e15bf",
+        "id": "a5cfedd50363ad96",
         "type": "tabs",
         "children": [
           {
-            "id": "baac13b3fc968b99",
+            "id": "643c470a3252ca64",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -49,7 +49,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "isSomeVnodeType",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -66,8 +66,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       },
       {
         "id": "fcdd7ff5aca6503a",
@@ -153,6 +152,16 @@
                 "staged": false
               }
             }
+          },
+          {
+            "id": "2ebaee1d34c43046",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency"
+              }
+            }
           }
         ],
         "currentTab": 4
@@ -174,22 +183,9 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "baac13b3fc968b99",
+  "active": "643c470a3252ca64",
   "lastOpenFiles": [
-    "mini-vue/37.diff ， 中间对比 移动， 新增， 删除逻辑.md",
     "study_every/2023-10-18.md",
-    "study_every/2022-03-02.md",
-    "study_every/2022-02-24.md",
-    "mini-vue/99.VUE3  流程梳理笔记.md",
-    "mini-vue/36. 更新 element 的 children 双端对比 diff.md",
-    "mini-vue/43.解析 element 标签.md",
-    "mini-vue/45.联合类型解析.md",
-    "mini-vue/46.实现 transform.md",
-    "mini-vue/48. 实现代码生成 插值.md",
-    "mini-vue/49.element类型和 联合.md",
-    "mini-vue/50. 解析 template 导出到 运行时，runtime-core.md",
-    "TDD/index.md",
-    "TDD/vitest-api.md",
     "study_every/2023-10-16.md",
     "study_every/2023-10-13.md",
     "study_every/2023-10-15.md",
@@ -201,8 +197,21 @@
     "study_every/2023-10-07.md",
     "study_every/2023-10-04.md",
     "study_every/2023-09-29.md",
+    "TDD/index.md",
     "study_every/2023-10-03.md",
+    "study_every/2023-10-02.md",
+    "study_every/2023-10-01.md",
+    "TDD/知识地图.md",
+    "TDD/模拟浏览器环境配置.md",
     "TDD/Pasted image 20230919210540.png",
+    "TDD/vitest-api.md",
+    "study_every/2023-09-28.md",
+    "study_every/2023-09-27.md",
+    "study_every/2023-09-25.md",
+    "study_every/2023-09-26.md",
+    "leetCode/算法.md",
+    "study_every/2023-09-24.md",
+    "study_every/2023-09-22.md",
     "TDD/未命名.canvas",
     "TDD",
     "未命名.canvas"
