@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "mini-vue/37.diff ， 中间对比 移动， 新增， 删除逻辑.md",
+                "file": "study_every/2023-10-18.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -101,7 +101,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "mini-vue/37.diff ， 中间对比 移动， 新增， 删除逻辑.md",
+                "file": "study_every/2023-10-18.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +118,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "mini-vue/37.diff ， 中间对比 移动， 新增， 删除逻辑.md",
+                "file": "study_every/2023-10-18.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -174,11 +174,12 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "d462ef911ecbc681",
+  "active": "baac13b3fc968b99",
   "lastOpenFiles": [
+    "mini-vue/37.diff ， 中间对比 移动， 新增， 删除逻辑.md",
+    "study_every/2023-10-18.md",
     "study_every/2022-03-02.md",
     "study_every/2022-02-24.md",
-    "mini-vue/37.diff ， 中间对比 移动， 新增， 删除逻辑.md",
     "mini-vue/99.VUE3  流程梳理笔记.md",
     "mini-vue/36. 更新 element 的 children 双端对比 diff.md",
     "mini-vue/43.解析 element 标签.md",
@@ -201,7 +202,6 @@
     "study_every/2023-10-04.md",
     "study_every/2023-09-29.md",
     "study_every/2023-10-03.md",
-    "study_every/2023-10-02.md",
     "TDD/Pasted image 20230919210540.png",
     "TDD/未命名.canvas",
     "TDD",
