@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "study_every/2023-10-18.md",
+                "file": "study_every/2023-10-21.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -100,7 +100,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "study_every/2023-10-18.md",
+                "file": "study_every/2023-10-21.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,7 +117,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "study_every/2023-10-18.md",
+                "file": "study_every/2023-10-21.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -186,6 +186,7 @@
   "active": "643c470a3252ca64",
   "lastOpenFiles": [
     "study_every/2023-10-18.md",
+    "study_every/2023-10-21.md",
     "study_every/2023-10-16.md",
     "study_every/2023-10-13.md",
     "study_every/2023-10-15.md",
@@ -211,7 +212,6 @@
     "study_every/2023-09-26.md",
     "leetCode/算法.md",
     "study_every/2023-09-24.md",
-    "study_every/2023-09-22.md",
     "TDD/未命名.canvas",
     "TDD",
     "未命名.canvas"
