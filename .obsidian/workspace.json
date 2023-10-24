@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "study_every/2023-10-23.md",
+                "file": "study_every/2023-10-24.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -101,7 +101,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "study_every/2023-10-23.md",
+                "file": "study_every/2023-10-24.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +118,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "study_every/2023-10-23.md",
+                "file": "study_every/2023-10-24.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -153,16 +153,6 @@
                 "staged": false
               }
             }
-          },
-          {
-            "id": "bb7818ff4fc755cb",
-            "type": "leaf",
-            "state": {
-              "type": "all-properties",
-              "state": {
-                "sortOrder": "frequency"
-              }
-            }
           }
         ],
         "currentTab": 4
@@ -186,8 +176,9 @@
   },
   "active": "baac13b3fc968b99",
   "lastOpenFiles": [
-    "study_every/2023-10-21.md",
     "study_every/2023-10-23.md",
+    "study_every/2023-10-24.md",
+    "study_every/2023-10-21.md",
     "study_every/2023-10-18.md",
     "mini-vue/37.diff ， 中间对比 移动， 新增， 删除逻辑.md",
     "study_every/2022-03-02.md",
@@ -211,7 +202,6 @@
     "study_every/2023-10-09.md",
     "study_every/2023-10-08.md",
     "study_every/2023-10-07.md",
-    "study_every/2023-10-04.md",
     "TDD/Pasted image 20230919210540.png",
     "TDD/未命名.canvas",
     "TDD",
