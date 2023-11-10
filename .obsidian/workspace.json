@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "study_every/2023-11-07.md",
+                "file": "study_every/2023-11-10.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -100,7 +100,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "study_every/2023-11-07.md",
+                "file": "study_every/2023-11-10.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,7 +117,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "study_every/2023-11-07.md",
+                "file": "study_every/2023-11-10.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -176,8 +176,9 @@
   "active": "1c8a3deb129aea3a",
   "lastOpenFiles": [
     "study_every/2023-11-09.md",
-    "study_every/2023-11-08.md",
+    "study_every/2023-11-10.md",
     "study_every/2023-11-07.md",
+    "study_every/2023-11-08.md",
     "study_every/2023-11-06.md",
     "study_every/2023-11-03.md",
     "study_every/2023-11-01.md",
@@ -202,7 +203,6 @@
     "mini-vue/46.实现 transform.md",
     "mini-vue/48. 实现代码生成 插值.md",
     "mini-vue/49.element类型和 联合.md",
-    "mini-vue/50. 解析 template 导出到 运行时，runtime-core.md",
     "TDD/Pasted image 20230919210540.png",
     "TDD/未命名.canvas",
     "TDD"
