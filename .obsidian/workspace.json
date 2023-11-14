@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "study_every/2023-11-13.md",
+                "file": "TDD/vitest-api.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -100,7 +100,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "study_every/2023-11-13.md",
+                "file": "TDD/vitest-api.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,7 +117,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "study_every/2023-11-13.md",
+                "file": "TDD/vitest-api.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -175,8 +175,9 @@
   },
   "active": "1c8a3deb129aea3a",
   "lastOpenFiles": [
-    "study_every/2023-11-11.md",
+    "study_every/2023-11-14.md",
     "study_every/2023-11-13.md",
+    "study_every/2023-11-11.md",
     "study_every/2023-11-10.md",
     "study_every/2023-11-09.md",
     "study_every/2023-11-07.md",
@@ -202,7 +203,6 @@
     "mini-vue/36. 更新 element 的 children 双端对比 diff.md",
     "mini-vue/43.解析 element 标签.md",
     "mini-vue/45.联合类型解析.md",
-    "mini-vue/46.实现 transform.md",
     "TDD/Pasted image 20230919210540.png",
     "TDD/未命名.canvas",
     "TDD"
