@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "study_every/2023-11-17.md",
+                "file": "study_every/2023-11-16.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -100,7 +100,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "study_every/2023-11-17.md",
+                "file": "study_every/2023-11-16.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,7 +117,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "study_every/2023-11-17.md",
+                "file": "study_every/2023-11-16.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -152,16 +152,6 @@
                 "staged": false
               }
             }
-          },
-          {
-            "id": "492c0b6a528e6249",
-            "type": "leaf",
-            "state": {
-              "type": "all-properties",
-              "state": {
-                "sortOrder": "frequency"
-              }
-            }
           }
         ],
         "currentTab": 4
@@ -185,13 +175,14 @@
   },
   "active": "1c8a3deb129aea3a",
   "lastOpenFiles": [
-    "study_every/2023-11-16.md",
     "study_every/2023-11-17.md",
-    "study_every/2023-11-10.md",
     "study_every/2023-11-15.md",
+    "study_every/2023-11-16.md",
     "study_every/2023-11-14.md",
+    "TDD/vitest-api.md",
     "study_every/2023-11-13.md",
     "study_every/2023-11-11.md",
+    "study_every/2023-11-10.md",
     "study_every/2023-11-09.md",
     "study_every/2023-11-07.md",
     "study_every/2023-11-08.md",
@@ -200,7 +191,6 @@
     "study_every/2023-11-01.md",
     "study_every/2023-10-31.md",
     "study_every/2023-10-30.md",
-    "TDD/vitest-api.md",
     "study_every/2023-10-27.md",
     "未命名 1.canvas",
     "未命名.canvas",
