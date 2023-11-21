@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "study_every/2023-11-20.md",
+                "file": "study_every/2023-11-21.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -100,7 +100,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "study_every/2023-11-20.md",
+                "file": "study_every/2023-11-21.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,7 +117,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "study_every/2023-11-20.md",
+                "file": "study_every/2023-11-21.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -175,8 +175,9 @@
   },
   "active": "1c8a3deb129aea3a",
   "lastOpenFiles": [
-    "study_every/2023-11-16.md",
     "study_every/2023-11-20.md",
+    "study_every/2023-11-21.md",
+    "study_every/2023-11-16.md",
     "study_every/2023-11-17.md",
     "study_every/2023-11-15.md",
     "study_every/2023-11-14.md",
@@ -202,7 +203,6 @@
     "study_every/2023-10-18.md",
     "mini-vue/37.diff ， 中间对比 移动， 新增， 删除逻辑.md",
     "study_every/2022-03-02.md",
-    "study_every/2022-02-24.md",
     "TDD/Pasted image 20230919210540.png",
     "TDD/未命名.canvas",
     "TDD"
