@@ -183,3 +183,13 @@ it("should create user", () => {
 
 ```
 
+
+多种API测试方案
+1. 直接 mock axios 
+
+```
+vi.mocked(axios.post).mockResolvedValue({data:{}})
+vi.mocked(axios.post).mockImplementation({data:{}})
+
+```
+2.  
