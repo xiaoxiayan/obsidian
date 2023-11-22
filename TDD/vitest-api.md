@@ -189,7 +189,9 @@ it("should create user", () => {
 
 ```
 vi.mocked(axios.post).mockResolvedValue({data:{}})
-vi.mocked(axios.post).mockImplementation({data:{}})
+vi.mocked(axios.post).mockImplementation((path, parmas) => {
+	return Promise.resolve({data:{data}}， state)
+})
 
 ```
 2.  
