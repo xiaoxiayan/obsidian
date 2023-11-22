@@ -184,7 +184,7 @@ it("should create user", () => {
 ```
 
 
-多种API测试方案
+多种API测试方案   vi.mock('../api')
 1. 直接 mock axios 
 
 ```
@@ -194,4 +194,13 @@ vi.mocked(axios.post).mockImplementation((path, parmas) => {
 })
 
 ```
-2.  
+2.  mock 中间层
+```
+vi.mocked(fetchAddTodo).mockImplementation((title) => {
+ return Promise.resolve({
+	 data: {todo : {id : 1, title}}
+ })
+}) 
+
+```
+3. 
