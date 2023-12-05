@@ -207,3 +207,46 @@ vi.mocked(fetchAddTodo).mockImplementation((title) => {
 
 
 test double 测试替身 
+替身类型 dummy-stub-spy-mock-fake
+1. dummy 哑元对象 === 占位符， 不参与测试内容
+```
+function setUser (name:string, age: number) {
+	console.log(name)
+	// console.log(age)
+}
+
+test('test-nameSet', () => {
+	const name = 'aa'
+	const dummyAge = '' as number
+	setUser(name, dummyAge)
+})
+
+```
+2.  stub 测试桩 
+隔离依赖。 如 fn 需要调用后端接口。可以 vi.mock('filePath', () => {
+	return {
+		axiosFn: () => value
+	}
+})
+```
+// file.ts
+function sendEmail(id) {
+	const Email = getEmail(id)
+	return Email
+}
+
+vi.mock('file.ts', () => {
+	return {
+		getEmail : () => 'test@email.com'
+	}
+})
+
+it('setEmail', () => {
+	const Email = sendEmail(1)
+	expect(Email).toBe('test@email.com')
+})
+
+```
+3. spy 测试间谍。 收集调用方式和次数 
+4. mock,  spy和 stub 的结合体 
+5. fake 伪造对象
