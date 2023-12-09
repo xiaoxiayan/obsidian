@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "TDD/vitest-api.md",
+                "file": "study_every/2023-12-09.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -100,7 +100,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "TDD/vitest-api.md",
+                "file": "study_every/2023-12-09.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,7 +117,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "TDD/vitest-api.md",
+                "file": "study_every/2023-12-09.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -152,6 +152,16 @@
                 "staged": false
               }
             }
+          },
+          {
+            "id": "492c0b6a528e6249",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency"
+              }
+            }
           }
         ],
         "currentTab": 4
@@ -176,27 +186,27 @@
   "active": "1c8a3deb129aea3a",
   "lastOpenFiles": [
     "study_every/2023-12-08.md",
+    "study_every/2023-12-09.md",
+    "study_every/2023-11-23.md",
     "study_every/2023-12-07.md",
-    "study_every/2023-12-01.md",
     "study_every/2023-12-06.md",
     "study_every/2023-12-05.md",
-    "TDD/vitest-api.md",
+    "study_every/2023-12-01.md",
     "study_every/2023-11-29.md",
     "study_every/2023-11-28.md",
     "study_every/2023-11-27.md",
     "study_every/2023-11-24.md",
-    "study_every/2023-11-23.md",
-    "TDD/aboutMe.md",
+    "study_every/2023-11-17.md",
     "study_every/2023-11-22.md",
     "study_every/2023-11-21.md",
     "study_every/2023-11-20.md",
+    "TDD/aboutMe.md",
     "study_every/2023-11-16.md",
-    "study_every/2023-11-17.md",
+    "study_every/2023-11-10.md",
     "study_every/2023-11-15.md",
     "study_every/2023-11-14.md",
     "study_every/2023-11-13.md",
     "study_every/2023-11-11.md",
-    "study_every/2023-11-10.md",
     "study_every/2023-11-09.md",
     "study_every/2023-11-07.md",
     "study_every/2023-11-08.md",
