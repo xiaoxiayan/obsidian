@@ -19,8 +19,19 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "a7b56ee9edcf353f",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.4.16"
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -152,6 +163,16 @@
                 "staged": false
               }
             }
+          },
+          {
+            "id": "cf8c305c1fcdbba1",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency"
+              }
+            }
           }
         ],
         "currentTab": 4
@@ -173,7 +194,7 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "1c8a3deb129aea3a",
+  "active": "a7b56ee9edcf353f",
   "lastOpenFiles": [
     "study_every/2023-12-09.md",
     "study_every/2023-12-08.md",
