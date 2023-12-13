@@ -250,3 +250,5 @@ it('setEmail', () => {
 3. spy 测试间谍。 收集调用方式和次数 
 4. mock,  spy和 stub 的结合体 
 5. fake 伪造对象
+   
+独居测试 、 群居c
