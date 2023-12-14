@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "TDD/vitest-api.md",
+                "file": "study_every/2023-12-14.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -100,7 +100,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "TDD/vitest-api.md",
+                "file": "study_every/2023-12-14.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,7 +117,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "TDD/vitest-api.md",
+                "file": "study_every/2023-12-14.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -186,9 +186,10 @@
   "active": "1c8a3deb129aea3a",
   "lastOpenFiles": [
     "study_every/2023-12-13.md",
+    "study_every/2023-12-14.md",
+    "TDD/vitest-api.md",
     "study_every/2023-12-12.md",
     "study_every/2023-12-11.md",
-    "TDD/vitest-api.md",
     "study_every/2023-12-09.md",
     "study_every/2023-12-08.md",
     "study_every/2023-12-07.md",
@@ -210,7 +211,6 @@
     "study_every/2023-11-14.md",
     "study_every/2023-11-13.md",
     "study_every/2023-11-11.md",
-    "study_every/2023-11-10.md",
     "未命名 1.canvas",
     "未命名.canvas",
     "TDD/Pasted image 20230919210540.png",
