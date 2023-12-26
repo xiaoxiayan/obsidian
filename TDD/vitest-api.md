@@ -255,3 +255,17 @@ it('setEmail', () => {
 1.  解偶 逻辑依赖的数据。接口逻辑
 群居测试
 1.  连同 逻辑依赖的数据 和 相应的逻辑一起测试
+
+
+
+vitest 模拟浏览器环境。 localstorge
+happy-dom  
+js-dom
+vitest.config.ts  || vite.config.ts
+```
+ expect default defineConfig ({
+	 test: {
+		 env
+	 }
+ })
+```
