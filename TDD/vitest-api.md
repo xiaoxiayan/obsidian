@@ -265,7 +265,12 @@ vitest.config.ts  || vite.config.ts
 ```
  expect default defineConfig ({
 	 test: {
-		 env
+		 env———
 	 }
  })
 ```
+
+测试用例取名： 描述行为，不描述实现细节
+
+
+
