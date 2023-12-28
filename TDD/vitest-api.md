@@ -274,3 +274,15 @@ vitest.config.ts  || vite.config.ts
 
 
 
+snapshot 快照测试
+@vue/test-utils  
+```
+import HI from './Hi.vue'
+import {mount} from '@vue/test-utils'
+
+	it('snapshot', () => {
+		const wrapper = mount(HI)
+		expect(wrapper.html()).toMatchSnapshot()
+	})
+
+```
