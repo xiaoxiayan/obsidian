@@ -11,8 +11,13 @@
             "id": "176b8ab713d0068d",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "study_every/2023-12-29.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
             }
           }
         ]
@@ -95,6 +100,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "study_every/2023-12-29.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,6 +117,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "study_every/2023-12-29.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -178,8 +185,9 @@
   },
   "active": "176b8ab713d0068d",
   "lastOpenFiles": [
-    "TDD/vitest-api.md",
     "study_every/2023-12-28.md",
+    "study_every/2023-12-29.md",
+    "TDD/vitest-api.md",
     "study_every/2023-12-27.md",
     "study_every/2023-12-26.md",
     "study_every/2023-12-25.md",
@@ -203,7 +211,6 @@
     "study_every/2023-12-05.md",
     "study_every/2023-11-29.md",
     "study_every/2023-11-28.md",
-    "study_every/2023-11-27.md",
     "未命名 1.canvas",
     "未命名.canvas",
     "TDD/Pasted image 20230919210540.png",
