@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "7fca13304115ca26",
+        "id": "6154db233ac1d342",
         "type": "tabs",
         "children": [
           {
-            "id": "176b8ab713d0068d",
+            "id": "1c8a3deb129aea3a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "study_every/2023-12-29.md",
+                "file": "study_every/2024-01-01.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -100,7 +100,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "study_every/2023-12-29.md",
+                "file": "study_every/2024-01-01.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,7 +117,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "study_every/2023-12-29.md",
+                "file": "study_every/2024-01-01.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -183,14 +183,14 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "176b8ab713d0068d",
+  "active": "1c8a3deb129aea3a",
   "lastOpenFiles": [
-    "study_every/2023-12-28.md",
+    "study_every/2023-12-25.md",
+    "study_every/2024-01-01.md",
     "study_every/2023-12-29.md",
-    "TDD/vitest-api.md",
+    "study_every/2023-12-28.md",
     "study_every/2023-12-27.md",
     "study_every/2023-12-26.md",
-    "study_every/2023-12-25.md",
     "study_every/2023-12-23.md",
     "study_every/2023-12-22.md",
     "study_every/2023-12-21.md",
@@ -201,6 +201,7 @@
     "study_every/2023-12-17.md",
     "study_every/2023-12-16.md",
     "study_every/2023-12-13.md",
+    "TDD/vitest-api.md",
     "study_every/2023-12-12.md",
     "study_every/2023-12-11.md",
     "study_every/2023-12-09.md",
@@ -210,7 +211,6 @@
     "study_every/2023-12-06.md",
     "study_every/2023-12-05.md",
     "study_every/2023-11-29.md",
-    "study_every/2023-11-28.md",
     "未命名 1.canvas",
     "未命名.canvas",
     "TDD/Pasted image 20230919210540.png",
