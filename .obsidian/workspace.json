@@ -19,17 +19,8 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "3426af8a37c570bb",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -109,6 +100,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "aboutGit/ssh 配置.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -125,6 +117,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "aboutGit/ssh 配置.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -190,11 +183,11 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "3426af8a37c570bb",
+  "active": "176b8ab713d0068d",
   "lastOpenFiles": [
+    "study_every/2024-01-23.md",
     "发言.md",
     "aboutGit/ssh 配置.md",
-    "study_every/2024-01-23.md",
     "study_every/2024-01-18.md",
     "aboutGit/本地项目推线上.md",
     "study_every/2024-01-16.md",
