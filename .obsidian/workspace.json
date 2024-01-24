@@ -27,22 +27,9 @@
               "type": "empty",
               "state": {}
             }
-          },
-          {
-            "id": "aa446fe16de0a899",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "发言.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -122,7 +109,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "发言.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +125,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "发言.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -205,7 +190,7 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "aa446fe16de0a899",
+  "active": "3426af8a37c570bb",
   "lastOpenFiles": [
     "发言.md",
     "aboutGit/ssh 配置.md",
