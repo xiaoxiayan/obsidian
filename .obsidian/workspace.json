@@ -67,6 +67,20 @@
             }
           }
         ]
+      },
+      {
+        "id": "27f3485d68516343",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3839958a7c2e92eb",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          }
+        ]
       }
     ],
     "direction": "horizontal",
@@ -150,17 +164,9 @@
               "type": "todo",
               "state": {}
             }
-          },
-          {
-            "id": "3839958a7c2e92eb",
-            "type": "leaf",
-            "state": {
-              "type": "calendar",
-              "state": {}
-            }
           }
         ],
-        "currentTab": 5
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -175,10 +181,11 @@
       "templates:插入模板": false,
       "command-palette:打开命令面板": false,
       "markdown-importer:打开 Markdown 格式转换器": false,
-      "daily-notes:打开/创建今天的日记": false
+      "daily-notes:打开/创建今天的日记": false,
+      "templater-obsidian:Templater": false
     }
   },
-  "active": "8612a3928fa27a3c",
+  "active": "564cda50a5e77ffe",
   "lastOpenFiles": [
     "未命名.canvas",
     "study_every/2024-02-26.md",
