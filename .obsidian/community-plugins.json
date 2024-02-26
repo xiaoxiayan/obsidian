@@ -1,9 +1,6 @@
 [
-  "templater-obsidian",
-  "cm-editor-syntax-highlight-obsidian",
   "obsidian-checklist-plugin",
-  "obsidian-plugin-deploy-content-to-anywhere",
   "calendar",
-  "obsidian-git",
-  "dataview"
+  "dataview",
+  "obsidian-plugin-deploy-content-to-anywhere"
 ]
