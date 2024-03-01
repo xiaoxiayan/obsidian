@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "8c1973d5cbb107eb",
+        "id": "305111b97c75293d",
         "type": "tabs",
         "children": [
           {
-            "id": "81573d92063c31d3",
+            "id": "564cda50a5e77ffe",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "study_every/2024-02-29.md",
+                "file": "study_every/2024-03-01.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -69,11 +69,11 @@
         ]
       },
       {
-        "id": "fcdd7ff5aca6503a",
+        "id": "27f3485d68516343",
         "type": "tabs",
         "children": [
           {
-            "id": "1f3a2dbafe48187f",
+            "id": "3839958a7c2e92eb",
             "type": "leaf",
             "state": {
               "type": "calendar",
@@ -100,7 +100,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "study_every/2024-02-29.md",
+                "file": "study_every/2024-03-01.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,7 +117,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "study_every/2024-02-29.md",
+                "file": "study_every/2024-03-01.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -132,14 +132,6 @@
                 "sortOrder": "frequency",
                 "useHierarchy": true
               }
-            }
-          },
-          {
-            "id": "b0dc4d93b4a6689c",
-            "type": "leaf",
-            "state": {
-              "type": "todo",
-              "state": {}
             }
           },
           {
@@ -164,9 +156,17 @@
                 "searchQuery": ""
               }
             }
+          },
+          {
+            "id": "8612a3928fa27a3c",
+            "type": "leaf",
+            "state": {
+              "type": "todo",
+              "state": {}
+            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -178,31 +178,36 @@
       "canvas:新建白板": false,
       "switcher:打开快速切换": false,
       "graph:查看关系图谱": false,
-      "daily-notes:打开/创建今天的日记": false,
       "templates:插入模板": false,
       "command-palette:打开命令面板": false,
       "markdown-importer:打开 Markdown 格式转换器": false,
+      "daily-notes:打开/创建今天的日记": false,
       "templater-obsidian:Templater": false
     }
   },
-  "active": "81573d92063c31d3",
+  "active": "564cda50a5e77ffe",
   "lastOpenFiles": [
     "study_every/2024-02-29.md",
+    "study_every/2024-03-01.md",
+    "TDD/vitest-api.md",
     "study_every/2024-02-27.md",
     "study_every/2024-02-26.md",
+    "未命名.canvas",
+    "template/daily-plan.md",
+    "template/leetCode-template.md",
     "未命名 2.canvas",
+    "未命名 1.canvas",
+    "===.md",
     "study_every/2024-02-25.md",
     "study_every/2024-02-23.md",
     "study_every/2024-02-24.md",
     "study_every/2024-02-22.md",
     "study_every/2024-02-21.md",
-    "TDD/vitest-api.md",
     "study_every/2024-02-20.md",
     "study_every/2024-02-19.md",
     "study_every/2024-01-30.md",
     "study_every/2024-02-02.md",
     "study_every/2024-02-01.md",
-    "===.md",
     "study_every/2024-01-29.md",
     "study_every/2024-01-25.md",
     "study_every/2024-01-23.md",
@@ -213,11 +218,6 @@
     "aboutGit/ssh 配置.md",
     "study_every/2024-01-18.md",
     "aboutGit/本地项目推线上.md",
-    "study_every/2024-01-16.md",
-    "study_every/2024-01-17.md",
-    "study_every/2024-01-15.md",
-    "未命名 1.canvas",
-    "未命名.canvas",
     "TDD/Pasted image 20230919210540.png",
     "TDD/未命名.canvas",
     "TDD"
