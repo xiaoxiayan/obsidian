@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "study_every/2024-03-09.md",
+                "file": "study_every/2024-03-10.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -100,7 +100,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "study_every/2024-03-09.md",
+                "file": "study_every/2024-03-10.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,7 +117,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "study_every/2024-03-09.md",
+                "file": "study_every/2024-03-10.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -187,8 +187,9 @@
   },
   "active": "564cda50a5e77ffe",
   "lastOpenFiles": [
-    "study_every/2024-03-08.md",
     "study_every/2024-03-09.md",
+    "study_every/2024-03-10.md",
+    "study_every/2024-03-08.md",
     "study_every/2024-03-07.md",
     "study_every/2024-03-06.md",
     "study_every/2024-03-05.md",
@@ -215,7 +216,6 @@
     "study_every/2024-01-30.md",
     "study_every/2024-02-02.md",
     "study_every/2024-02-01.md",
-    "study_every/2024-01-29.md",
     "lxp.rsa.pub",
     "lxp.rsa",
     "TDD/Pasted image 20230919210540.png",
