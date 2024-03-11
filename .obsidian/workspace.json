@@ -19,8 +19,22 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "a47cd10d4d24d7b8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "study_every/2024-03-11.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -185,10 +199,14 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "564cda50a5e77ffe",
+  "active": "a47cd10d4d24d7b8",
   "lastOpenFiles": [
-    "study_every/2024-03-08.md",
+    "conflict-files-obsidian-git.md",
     "study_every/2024-03-11.md",
+    "study_every/2024-03-12.md",
+    "study_every/2024-03-10.md",
+    "study_every/2024-03-09.md",
+    "study_every/2024-03-08.md",
     "study_every/2024-03-07.md",
     "study_every/2024-03-06.md",
     "study_every/2024-03-05.md",
@@ -212,10 +230,6 @@
     "study_every/2024-02-21.md",
     "study_every/2024-02-20.md",
     "study_every/2024-02-19.md",
-    "study_every/2024-01-30.md",
-    "study_every/2024-02-02.md",
-    "study_every/2024-02-01.md",
-    "study_every/2024-01-29.md",
     "lxp.rsa.pub",
     "lxp.rsa",
     "TDD/Pasted image 20230919210540.png",
