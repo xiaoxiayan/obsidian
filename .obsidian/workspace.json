@@ -26,7 +26,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "study_every/2024-03-14.md",
+                "file": "study_every/2024-03-15.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -114,7 +114,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "study_every/2024-03-14.md",
+                "file": "study_every/2024-03-15.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -131,7 +131,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "study_every/2024-03-14.md",
+                "file": "study_every/2024-03-15.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -201,8 +201,9 @@
   },
   "active": "a47cd10d4d24d7b8",
   "lastOpenFiles": [
-    "study_every/2024-03-13.md",
     "study_every/2024-03-14.md",
+    "study_every/2024-03-15.md",
+    "study_every/2024-03-13.md",
     "study_every/2024-03-12.md",
     "study_every/2024-03-11.md",
     "conflict-files-obsidian-git.md",
@@ -229,7 +230,6 @@
     "study_every/2024-02-23.md",
     "study_every/2024-02-24.md",
     "study_every/2024-02-22.md",
-    "study_every/2024-02-21.md",
     "lxp.rsa.pub",
     "lxp.rsa",
     "TDD/Pasted image 20230919210540.png",
