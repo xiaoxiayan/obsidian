@@ -4,14 +4,14 @@
     "type": "split",
     "children": [
       {
-        "id": "305111b97c75293d",
+        "id": "5216ac8c7e167a1d",
         "type": "tabs",
         "children": [
           {
-            "id": "564cda50a5e77ffe",
+            "id": "1b4bc8b4389eb41f",
             "type": "leaf",
             "state": {
-              "type": "graph",
+              "type": "empty",
               "state": {}
             }
           }
@@ -178,7 +178,7 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "564cda50a5e77ffe",
+  "active": "1b4bc8b4389eb41f",
   "lastOpenFiles": [
     "study_every/00.index.md",
     "study_every/2024-03-11.md",
