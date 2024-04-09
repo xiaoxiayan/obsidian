@@ -26,7 +26,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "study_every/2024-04-09.md",
+                "file": "aboutGit/ssh 配置.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -114,7 +114,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "study_every/2024-04-09.md",
+                "file": "aboutGit/ssh 配置.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -131,7 +131,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "study_every/2024-04-09.md",
+                "file": "aboutGit/ssh 配置.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -201,8 +201,9 @@
   },
   "active": "4f1ec81a420007f7",
   "lastOpenFiles": [
-    "study_every/2024-04-08.md",
+    "aboutGit/index.md",
     "study_every/2024-04-09.md",
+    "study_every/2024-04-08.md",
     "study_every/2024-04-01.md",
     "study_every/2024-04-02.md",
     "study_every/2024-03-31.md",
@@ -226,7 +227,6 @@
     "study_every/2024-03-14.md",
     "study_every/2024-03-13.md",
     "study_every/2024-03-12.md",
-    "conflict-files-obsidian-git.md",
     "未命名.canvas",
     "未命名 2.canvas",
     "未命名 1.canvas",
