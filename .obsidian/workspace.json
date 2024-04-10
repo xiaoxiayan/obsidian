@@ -26,7 +26,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "aboutGit/ssh 配置.md",
+                "file": "study_every/2024-04-10.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -114,7 +114,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "aboutGit/ssh 配置.md",
+                "file": "study_every/2024-04-10.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -131,7 +131,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "aboutGit/ssh 配置.md",
+                "file": "study_every/2024-04-10.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -201,8 +201,10 @@
   },
   "active": "4f1ec81a420007f7",
   "lastOpenFiles": [
-    "aboutGit/index.md",
     "study_every/2024-04-09.md",
+    "study_every/2024-04-10.md",
+    "aboutGit/ssh 配置.md",
+    "aboutGit/index.md",
     "study_every/2024-04-08.md",
     "study_every/2024-04-01.md",
     "study_every/2024-04-02.md",
@@ -225,8 +227,6 @@
     "study_every/2024-03-16.md",
     "study_every/2024-03-15.md",
     "study_every/2024-03-14.md",
-    "study_every/2024-03-13.md",
-    "study_every/2024-03-12.md",
     "未命名.canvas",
     "未命名 2.canvas",
     "未命名 1.canvas",
