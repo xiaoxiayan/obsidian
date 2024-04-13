@@ -13,28 +13,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "study_every/2024-04-02.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "4f1ec81a420007f7",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "study_every/2024-04-13.md",
+                "file": "study_every/2024-04-12.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -114,7 +100,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "study_every/2024-04-13.md",
+                "file": "study_every/2024-04-12.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -131,7 +117,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "study_every/2024-04-13.md",
+                "file": "study_every/2024-04-12.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -199,20 +185,19 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "4f1ec81a420007f7",
+  "active": "1b4bc8b4389eb41f",
   "lastOpenFiles": [
     "study_every/2024-04-14.md",
     "study_every/2024-04-13.md",
-    "study_every/2024-04-12.md",
-    "conflict-files-obsidian-git.md",
     "study_every/2024-04-11.md",
+    "study_every/2024-04-12.md",
+    "study_every/2024-04-02.md",
     "study_every/2024-04-10.md",
     "study_every/2024-04-09.md",
     "aboutGit/ssh 配置.md",
     "aboutGit/index.md",
     "study_every/2024-04-08.md",
     "study_every/2024-04-01.md",
-    "study_every/2024-04-02.md",
     "study_every/2024-03-31.md",
     "study_every/2024-03-29.md",
     "study_every/2024-03-30.md",
@@ -227,6 +212,7 @@
     "study_every/2024-03-22.md",
     "study_every/2024-03-21.md",
     "study_every/2024-03-20.md",
+    "study_every/2024-03-19.md",
     "未命名.canvas",
     "未命名 2.canvas",
     "未命名 1.canvas",
