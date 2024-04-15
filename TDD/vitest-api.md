@@ -247,7 +247,35 @@ it('setEmail', () => {
 })
 
 ```
-3. spy 测试间谍。 收集调用方式和次数 
+3. spy 测试间谍。 收集调用方式和次数   ``
+  关于 spyon的一些 用法 
+  ```
+// 当测试需要测试一个函数集合文件的时候，为了不暴露这个函数的实现细节，也不影响 其他函数的使用。 可以用 sypon对这个函数进行mock, 而 vi.mock 这个文件是需要对每一个函数都重新书写的
+
+ 
+ // event.ts
+ export function getVal: boolean () {
+	 return computed(() => window.xx ==='1' ? true : false)
+ }
+// 第二个函数 在VI.MOCK 的时候是需要 赋值或者 重写，不合适
+export funciton getVal2() {
+	return 'xxx'
+}
+
+// spec.ts
+import * as FileName from './event.ts'
+
+
+test('ismac', () => {
+ vi.spyOn(FileName, 'getVal').mockReturnVal(computed(() => true))
+
+
+})
+
+
+
+```
+
 4. mock,  spy和 stub 的结合体 
 5. fake 伪造对象
    
