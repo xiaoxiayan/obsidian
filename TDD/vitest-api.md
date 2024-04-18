@@ -130,8 +130,10 @@ funciton getInnerHeight () {
 }
 
 function search (val) {
-	if () {
+	if (val == '') {
+		resetVal()
 	}
+	searchVal()
 
 }
 const val = ref()
@@ -148,16 +150,18 @@ return {
 beforeEach(() => {
 	getInnerHeight.mockClear()
 	resetVal()
-	resetVal
+	
 })
 
 it('fn', () => {
 	const r = getInnerHeight()
-	expect(getInnerHeight).toBeCalled()
 	expect(r).toBe(200)
 })
 it('when val is normal will resetSearch', () => {
-	
+	val = 'ss'
+	expect(searchVal).toBeCalled()
+	val = ''
+	expect(resetVal).toBeCalled()
 })
 
 ```
