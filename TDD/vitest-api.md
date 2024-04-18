@@ -129,16 +129,35 @@ funciton getInnerHeight () {
 	return window.innerHeight
 }
 
+function search (val) {
+	if () {
+	}
+
+}
+const val = ref()
+
 vi.mock('./path', () => {
 return {
 	getInnerHeight: () => 200
+	resetVal: () => val.value = ''
 }
 })
 
+// 当全局变量的值多次reset ,需要测试 函数调取次数时，在beforeEach中可以clear测试间谍
+
+beforeEach(() => {
+	getInnerHeight.mockClear()
+	resetVal()
+	resetVal
+})
 
 it('fn', () => {
 	const r = getInnerHeight()
+	expect(getInnerHeight).toBeCalled()
 	expect(r).toBe(200)
+})
+it('when val is normal will resetSearch', () => {
+	
 })
 
 ```

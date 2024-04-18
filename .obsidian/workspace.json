@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "study_every/2024-04-18.md",
+                "file": "TDD/vitest-api.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -100,7 +100,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "study_every/2024-04-18.md",
+                "file": "TDD/vitest-api.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,7 +117,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "study_every/2024-04-18.md",
+                "file": "TDD/vitest-api.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -187,8 +187,8 @@
   },
   "active": "1b4bc8b4389eb41f",
   "lastOpenFiles": [
-    "TDD/vitest-api.md",
     "study_every/2024-04-18.md",
+    "TDD/vitest-api.md",
     "study_every/2024-04-17.md",
     "study_every/2024-04-16.md",
     "study_every/2024-04-15.md",
