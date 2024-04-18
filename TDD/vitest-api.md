@@ -314,3 +314,19 @@ import {mount} from '@vue/test-utils'
 	})
 
 ```
+
+### 处理watch 
+
+```
+describe('search', () => {
+	test('isSearch', async () => {
+		vi.useFackTimes()
+		const {search, loading} = useSearch()
+		search.value = 'chifan'
+		await vi.advanceTimersToNextTimerAsync()
+		expect(loading.value).toBe(true)
+	})
+})
+
+
+```
