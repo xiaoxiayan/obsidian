@@ -19,8 +19,22 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "6385ddbacb688e74",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "conflict-files-obsidian-git.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -100,7 +114,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "study_every/2024-04-29.md",
+                "file": "conflict-files-obsidian-git.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,7 +131,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "study_every/2024-04-29.md",
+                "file": "conflict-files-obsidian-git.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -185,11 +199,12 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "1b4bc8b4389eb41f",
+  "active": "6385ddbacb688e74",
   "lastOpenFiles": [
+    "study_every/2024-04-29.md",
+    "conflict-files-obsidian-git.md",
     "study_every/2024-05-01.md",
     "study_every/2024-04-26.md",
-    "study_every/2024-04-29.md",
     "study_every/2024-04-25.md",
     "study_every/2024-04-24.md",
     "study_every/2024-04-23.md",
@@ -205,7 +220,6 @@
     "TDD/模拟浏览器环境配置.md",
     "TDD/知识地图.md",
     "study_every/2024-04-14.md",
-    "conflict-files-obsidian-git.md",
     "study_every/2024-04-13.md",
     "study_every/2024-04-12.md",
     "study_every/2024-04-11.md",
