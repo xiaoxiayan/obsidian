@@ -356,3 +356,18 @@ describe('search', () => {
 
 
 ```
+
+### 测试 pinia
+
+```
+import {createTestingPinia } from '@pinia/testing'
+import {vi} from 'vitest'
+describe('pinia test', () => {
+	createTestingPinia({
+		createSpy: vi.fn
+	})
+
+})
+
+
+```
