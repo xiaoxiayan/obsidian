@@ -338,7 +338,7 @@ import {mount} from '@vue/test-utils'
 
 ```
 
-### 处理watch 
+### 处理watch , setTimeout , promise ，
 
 ```
 describe('search', () => {
@@ -346,7 +346,10 @@ describe('search', () => {
 		vi.useFackTimes()
 		const {search, loading} = useSearch()
 		search.value = 'chifan'
+		// api 可等待setTimeOut, promise等任务执行完
 		await vi.advanceTimersToNextTimerAsync()
+		// 等待所有的 promise, setTimeout完成
+		await vi.runAllTimerAsync()
 		expect(loading.value).toBe(true)
 	})
 })
