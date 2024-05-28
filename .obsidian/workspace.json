@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "5216ac8c7e167a1d",
+        "id": "f19aa7f3e933b038",
         "type": "tabs",
         "children": [
           {
-            "id": "1b4bc8b4389eb41f",
+            "id": "cc83bbd5a984efee",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -185,7 +185,7 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "1b4bc8b4389eb41f",
+  "active": "cc83bbd5a984efee",
   "lastOpenFiles": [
     "study_every/2024-05-27.md",
     "study_every/2024-05-28.md",
