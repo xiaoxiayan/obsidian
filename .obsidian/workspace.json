@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "study_every/2024-05-29.md",
+                "file": "study_every/2024-06-01.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -100,7 +100,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "study_every/2024-05-29.md",
+                "file": "study_every/2024-06-01.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,7 +117,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "study_every/2024-05-29.md",
+                "file": "study_every/2024-06-01.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -188,8 +188,9 @@
   "active": "cc83bbd5a984efee",
   "lastOpenFiles": [
     "study_every/2024-05-31.md",
-    "study_every/2024-05-28.md",
+    "study_every/2024-06-01.md",
     "study_every/2024-05-29.md",
+    "study_every/2024-05-28.md",
     "study_every/2024-05-27.md",
     "study_every/2024-05-21.md",
     "TDD/vitest-api.md",
@@ -212,7 +213,6 @@
     "study_every/2024-05-03.md",
     "study_every/2024-05-02.md",
     "study_every/2024-05-01.md",
-    "study_every/2024-04-26.md",
     "未命名.canvas",
     "未命名 2.canvas",
     "未命名 1.canvas",
