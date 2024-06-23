@@ -21,6 +21,19 @@
             }
           },
           {
+            "id": "14ac0e3c4e6843ec",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "study_every/2024-06-23.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
             "id": "13854031d0830861",
             "type": "leaf",
             "state": {
@@ -33,7 +46,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -113,7 +127,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "study_every/2024-06-21.md",
+                "file": "study_every/2024-06-23.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -130,7 +144,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "study_every/2024-06-21.md",
+                "file": "study_every/2024-06-23.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -198,9 +212,10 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "cc83bbd5a984efee",
+  "active": "14ac0e3c4e6843ec",
   "lastOpenFiles": [
     "study_every/2024-06-22.md",
+    "study_every/2024-06-23.md",
     "study_every/2024-06-20.md",
     "study_every/2024-06-21.md",
     "study_every/2024-06-19.md",
@@ -225,7 +240,6 @@
     "conflict-files-obsidian-git.md",
     "study_every/2024-05-20.md",
     "study_every/2024-05-17.md",
-    "study_every/2024-05-19.md",
     "未命名.canvas",
     "未命名 2.canvas",
     "未命名 1.canvas",
