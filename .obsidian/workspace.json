@@ -21,6 +21,19 @@
             }
           },
           {
+            "id": "8705045197ab531d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "study_every/2024-07-02.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
             "id": "13854031d0830861",
             "type": "leaf",
             "state": {
@@ -33,7 +46,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -113,7 +127,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "study_every/2024-06-28.md",
+                "file": "study_every/2024-07-02.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -130,7 +144,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "study_every/2024-06-28.md",
+                "file": "study_every/2024-07-02.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -198,8 +212,10 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "cc83bbd5a984efee",
+  "active": "8705045197ab531d",
   "lastOpenFiles": [
+    "study_every/2024-07-01.md",
+    "study_every/2024-07-02.md",
     "study_every/2024-06-30.md",
     "study_every/2024-06-27.md",
     "study_every/2024-06-26.md",
@@ -224,8 +240,6 @@
     "study_every/2024-05-31.md",
     "study_every/2024-06-02.md",
     "study_every/2024-05-29.md",
-    "study_every/2024-06-01.md",
-    "study_every/2024-05-28.md",
     "未命名.canvas",
     "未命名 2.canvas",
     "未命名 1.canvas",
