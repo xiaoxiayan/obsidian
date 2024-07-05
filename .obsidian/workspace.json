@@ -21,19 +21,6 @@
             }
           },
           {
-            "id": "24fbccb9d3a02463",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "study_every/2024-07-05.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
             "id": "13854031d0830861",
             "type": "leaf",
             "state": {
@@ -46,8 +33,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -212,11 +198,11 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "24fbccb9d3a02463",
+  "active": "cc83bbd5a984efee",
   "lastOpenFiles": [
+    "study_every/2024-07-04.md",
     "study_every/2024-07-05.md",
     "conflict-files-obsidian-git.md",
-    "study_every/2024-07-04.md",
     "study_every/2024-07-03.md",
     "study_every/2024-07-02.md",
     "study_every/2024-07-01.md",
@@ -240,7 +226,6 @@
     "study_every/2024-06-06.md",
     "study_every/2024-06-05.md",
     "study_every/2024-06-04.md",
-    "study_every/2024-06-03.md",
     "未命名.canvas",
     "未命名 2.canvas",
     "未命名 1.canvas",
