@@ -26,7 +26,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "TDD/vitest-api.md",
+                "file": "study_every/2024-07-30.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -127,7 +127,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "TDD/vitest-api.md",
+                "file": "study_every/2024-07-30.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -144,7 +144,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "TDD/vitest-api.md",
+                "file": "study_every/2024-07-30.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -214,6 +214,7 @@
   },
   "active": "f664507ed22e4c5d",
   "lastOpenFiles": [
+    "TDD/vitest-api.md",
     "study_every/2024-07-30.md",
     "study_every/2024-07-29.md",
     "study_every/2024-07-27.md",
@@ -239,7 +240,6 @@
     "study_every/2024-07-04.md",
     "conflict-files-obsidian-git.md",
     "study_every/2024-07-03.md",
-    "study_every/2024-07-02.md",
     "未命名.canvas",
     "未命名 2.canvas",
     "未命名 1.canvas",
