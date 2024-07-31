@@ -34,6 +34,19 @@
             }
           },
           {
+            "id": "4783903b81a816ac",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "v3toRe/diffApi.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
             "id": "13854031d0830861",
             "type": "leaf",
             "state": {
@@ -47,7 +60,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -127,7 +140,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "TDD/vitest-api.md",
+                "file": "v3toRe/diffApi.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -144,7 +157,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "TDD/vitest-api.md",
+                "file": "v3toRe/diffApi.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -212,10 +225,12 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "3bab2fd01dcb7404",
+  "active": "4783903b81a816ac",
   "lastOpenFiles": [
-    "study_every/2024-07-30.md",
     "TDD/vitest-api.md",
+    "v3toRe/diffApi.md",
+    "v3toRe",
+    "study_every/2024-07-30.md",
     "study_every/2024-07-29.md",
     "study_every/2024-07-27.md",
     "study_every/2024-07-25.md",
@@ -239,7 +254,6 @@
     "study_every/2024-07-06.md",
     "study_every/2024-07-04.md",
     "conflict-files-obsidian-git.md",
-    "study_every/2024-07-03.md",
     "未命名.canvas",
     "未命名 2.canvas",
     "未命名 1.canvas",
