@@ -39,7 +39,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "v3toRe/diffApi.md",
+                "file": "study_every/2024-07-31.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -140,7 +140,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "v3toRe/diffApi.md",
+                "file": "study_every/2024-07-31.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -157,7 +157,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "v3toRe/diffApi.md",
+                "file": "study_every/2024-07-31.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -227,14 +227,15 @@
   },
   "active": "4783903b81a816ac",
   "lastOpenFiles": [
-    "TDD/vitest-api.md",
+    "study_every/2024-07-24.md",
+    "study_every/2024-07-31.md",
     "v3toRe/diffApi.md",
+    "TDD/vitest-api.md",
     "v3toRe",
     "study_every/2024-07-30.md",
     "study_every/2024-07-29.md",
     "study_every/2024-07-27.md",
     "study_every/2024-07-25.md",
-    "study_every/2024-07-24.md",
     "study_every/2024-07-23.md",
     "study_every/2024-07-22.md",
     "study_every/2024-07-19.md",
@@ -253,7 +254,6 @@
     "study_every/2024-07-05.md",
     "study_every/2024-07-06.md",
     "study_every/2024-07-04.md",
-    "conflict-files-obsidian-git.md",
     "未命名.canvas",
     "未命名 2.canvas",
     "未命名 1.canvas",
