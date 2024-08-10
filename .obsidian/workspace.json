@@ -52,7 +52,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "study_every/2024-08-09.md",
+                "file": "study_every/2024-08-10.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -137,7 +137,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 266.5
+    "width": 464.5
   },
   "right": {
     "id": "e20b32f680086d17",
@@ -153,7 +153,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "study_every/2024-08-09.md",
+                "file": "study_every/2024-08-10.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -170,7 +170,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "study_every/2024-08-09.md",
+                "file": "study_every/2024-08-10.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -238,11 +238,11 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "a84645aedf0e1d05",
+  "active": "3bab2fd01dcb7404",
   "lastOpenFiles": [
+    "study_every/2024-08-09.md",
     "study_every/2024-08-10.md",
     "study_every/2024-08-06.md",
-    "study_every/2024-08-09.md",
     "study_every/2024-08-05.md",
     "conflict-files-obsidian-git.md",
     "study_every/2024-08-04.md",
