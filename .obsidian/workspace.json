@@ -52,7 +52,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "mini-vue/01. reactive  && effect && 依赖收集 && 触发依赖.md",
+                "file": "mini-vue/99.VUE3  流程梳理笔记.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -153,7 +153,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "mini-vue/01. reactive  && effect && 依赖收集 && 触发依赖.md",
+                "file": "mini-vue/99.VUE3  流程梳理笔记.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -170,7 +170,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "mini-vue/01. reactive  && effect && 依赖收集 && 触发依赖.md",
+                "file": "mini-vue/99.VUE3  流程梳理笔记.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -240,6 +240,7 @@
   },
   "active": "a84645aedf0e1d05",
   "lastOpenFiles": [
+    "mini-vue/Pasted image 20220417170510.png",
     "mini-vue/reactivity 依赖收集.png",
     "mini-vue/01. reactive  && effect && 依赖收集 && 触发依赖.md",
     "mini-vue/00.mini-vue.md",
