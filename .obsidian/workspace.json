@@ -52,7 +52,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "study_every/2024-08-10.md",
+                "file": "mini-vue/01. reactive  && effect && 依赖收集 && 触发依赖.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -137,7 +137,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 464.5
+    "width": 347.5
   },
   "right": {
     "id": "e20b32f680086d17",
@@ -153,7 +153,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "study_every/2024-08-10.md",
+                "file": "mini-vue/01. reactive  && effect && 依赖收集 && 触发依赖.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -170,7 +170,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "study_every/2024-08-10.md",
+                "file": "mini-vue/01. reactive  && effect && 依赖收集 && 触发依赖.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -238,8 +238,13 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "3bab2fd01dcb7404",
+  "active": "a84645aedf0e1d05",
   "lastOpenFiles": [
+    "mini-vue/reactivity 依赖收集.png",
+    "mini-vue/01. reactive  && effect && 依赖收集 && 触发依赖.md",
+    "mini-vue/00.mini-vue.md",
+    "study_every/2024-08-11.md",
+    "study_every/2024-07-19.md",
     "study_every/2024-08-09.md",
     "study_every/2024-08-10.md",
     "study_every/2024-08-06.md",
@@ -259,14 +264,9 @@
     "study_every/2024-07-25.md",
     "study_every/2024-07-23.md",
     "study_every/2024-07-22.md",
-    "study_every/2024-07-19.md",
     "study_every/2024-07-18.md",
     "study_every/2024-07-17.md",
     "study_every/2024-07-16.md",
-    "study_every/2024-07-15.md",
-    "study_every/2024-07-14.md",
-    "study_every/2024-07-13.md",
-    "study_every/2024-07-12.md",
     "未命名.canvas",
     "未命名 2.canvas",
     "未命名 1.canvas",
