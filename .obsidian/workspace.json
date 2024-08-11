@@ -52,7 +52,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "mini-vue/99.VUE3  流程梳理笔记.md",
+                "file": "mini-vue/19. 实现computed 计算属性.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -153,7 +153,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "mini-vue/99.VUE3  流程梳理笔记.md",
+                "file": "mini-vue/19. 实现computed 计算属性.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -170,7 +170,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "mini-vue/99.VUE3  流程梳理笔记.md",
+                "file": "mini-vue/19. 实现computed 计算属性.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -240,9 +240,15 @@
   },
   "active": "a84645aedf0e1d05",
   "lastOpenFiles": [
+    "mini-vue/16. 实现ref功能.md",
+    "mini-vue/01. reactive  && effect && 依赖收集 && 触发依赖.md",
+    "mini-vue/49.element类型和 联合.md",
+    "mini-vue/50. 解析 template 导出到 运行时，runtime-core.md",
+    "mini-vue/99.最长递增子序列.md",
+    "mini-vue/99.vue-router原理.md",
+    "mini-vue/99.VUE3  流程梳理笔记.md",
     "mini-vue/Pasted image 20220417170510.png",
     "mini-vue/reactivity 依赖收集.png",
-    "mini-vue/01. reactive  && effect && 依赖收集 && 触发依赖.md",
     "mini-vue/00.mini-vue.md",
     "study_every/2024-08-11.md",
     "study_every/2024-07-19.md",
@@ -263,11 +269,6 @@
     "study_every/2024-07-29.md",
     "study_every/2024-07-27.md",
     "study_every/2024-07-25.md",
-    "study_every/2024-07-23.md",
-    "study_every/2024-07-22.md",
-    "study_every/2024-07-18.md",
-    "study_every/2024-07-17.md",
-    "study_every/2024-07-16.md",
     "未命名.canvas",
     "未命名 2.canvas",
     "未命名 1.canvas",
