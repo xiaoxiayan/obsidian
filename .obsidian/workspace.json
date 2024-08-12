@@ -52,7 +52,20 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "study_every/2024-08-09.md",
+                "file": "mini-vue/01. reactive  && effect && 依赖收集 && 触发依赖.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "1ac20d5ee149f037",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "mini-vue/46.实现 transform.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -73,7 +86,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -153,7 +166,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "study_every/2024-08-09.md",
+                "file": "mini-vue/46.实现 transform.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -170,7 +183,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "study_every/2024-08-09.md",
+                "file": "mini-vue/46.实现 transform.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -238,35 +251,37 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "a84645aedf0e1d05",
+  "active": "1ac20d5ee149f037",
   "lastOpenFiles": [
+    "conflict-files-obsidian-git.md",
+    "mini-vue/46.实现 transform.md",
+    "mini-vue/01. reactive  && effect && 依赖收集 && 触发依赖.md",
+    "mini-vue/reactivity 依赖收集.png",
+    "mini-vue/Pasted image 20220417170510.png",
+    "mini-vue/19. 实现computed 计算属性.md",
+    "mini-vue/32-实现自定义渲染器 custom renderer.md",
+    "mini-vue/33-更新element流程搭建.md",
+    "mini-vue/34.更新 props.md",
+    "mini-vue/35. 更新Element 的children.md",
+    "mini-vue/36. 更新 element 的 children 双端对比 diff.md",
+    "mini-vue/37.diff ， 中间对比 移动， 新增， 删除逻辑.md",
+    "mini-vue/16. 实现ref功能.md",
+    "TDD/index.md",
+    "v3toRe/diffApi.md",
+    "study_every/2024-08-12.md",
     "study_every/2024-08-11.md",
     "study_every/2024-08-10.md",
-    "study_every/2024-08-06.md",
     "study_every/2024-08-09.md",
+    "study_every/2024-08-06.md",
     "study_every/2024-08-05.md",
-    "conflict-files-obsidian-git.md",
     "study_every/2024-08-04.md",
     "study_every/2024-08-02.md",
     "study_every/2024-08-01.md",
     "study_every/2024-07-31.md",
     "study_every/2024-07-24.md",
-    "v3toRe/diffApi.md",
     "TDD/vitest-api.md",
     "v3toRe",
     "study_every/2024-07-30.md",
-    "study_every/2024-07-29.md",
-    "study_every/2024-07-27.md",
-    "study_every/2024-07-25.md",
-    "study_every/2024-07-23.md",
-    "study_every/2024-07-22.md",
-    "study_every/2024-07-19.md",
-    "study_every/2024-07-18.md",
-    "study_every/2024-07-17.md",
-    "study_every/2024-07-16.md",
-    "study_every/2024-07-15.md",
-    "study_every/2024-07-14.md",
-    "study_every/2024-07-13.md",
     "未命名.canvas",
     "未命名 2.canvas",
     "未命名 1.canvas",
