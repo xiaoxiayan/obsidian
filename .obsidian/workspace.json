@@ -8,45 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "cc83bbd5a984efee",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "study_every/2024-07-19.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "f664507ed22e4c5d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "TDD/vitest-api.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "4783903b81a816ac",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "study_every/2024-08-05.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
             "id": "a84645aedf0e1d05",
             "type": "leaf",
             "state": {
@@ -65,7 +26,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "mini-vue/46.实现 transform.md",
+                "file": "study_every/2024-08-12.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -86,7 +47,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -166,7 +127,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "mini-vue/46.实现 transform.md",
+                "file": "study_every/2024-08-12.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -183,7 +144,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "mini-vue/46.实现 transform.md",
+                "file": "study_every/2024-08-12.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -253,8 +214,8 @@
   },
   "active": "1ac20d5ee149f037",
   "lastOpenFiles": [
-    "conflict-files-obsidian-git.md",
     "mini-vue/46.实现 transform.md",
+    "conflict-files-obsidian-git.md",
     "mini-vue/01. reactive  && effect && 依赖收集 && 触发依赖.md",
     "mini-vue/reactivity 依赖收集.png",
     "mini-vue/Pasted image 20220417170510.png",
