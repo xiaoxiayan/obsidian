@@ -26,7 +26,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "study_every/2024-08-12.md",
+                "file": "study_every/2024-08-13.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -127,7 +127,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "study_every/2024-08-12.md",
+                "file": "study_every/2024-08-13.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -144,7 +144,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "study_every/2024-08-12.md",
+                "file": "study_every/2024-08-13.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -214,6 +214,8 @@
   },
   "active": "1ac20d5ee149f037",
   "lastOpenFiles": [
+    "study_every/2024-08-12.md",
+    "study_every/2024-08-13.md",
     "mini-vue/46.实现 transform.md",
     "conflict-files-obsidian-git.md",
     "mini-vue/01. reactive  && effect && 依赖收集 && 触发依赖.md",
@@ -229,7 +231,6 @@
     "mini-vue/16. 实现ref功能.md",
     "TDD/index.md",
     "v3toRe/diffApi.md",
-    "study_every/2024-08-12.md",
     "study_every/2024-08-11.md",
     "study_every/2024-08-10.md",
     "study_every/2024-08-09.md",
@@ -242,7 +243,6 @@
     "study_every/2024-07-24.md",
     "TDD/vitest-api.md",
     "v3toRe",
-    "study_every/2024-07-30.md",
     "未命名.canvas",
     "未命名 2.canvas",
     "未命名 1.canvas",
