@@ -359,6 +359,22 @@ describe('search', () => {
 
 ### 测试 pinia
 
+Pinia -- 注意事项
+书写 需要使用最新的书写方式，传统的 state， action, 是无法 spy的
+```
+const piniaStore = defineStore('name', () = {
+ const data = ref()
+ function getData () {
+	 return data.value
+ }
+ return {
+	data,
+	getData
+ }
+})
+
+```
+
 ```
 import {createTestingPinia } from '@pinia/testing'
 import {vi} from 'vitest'
