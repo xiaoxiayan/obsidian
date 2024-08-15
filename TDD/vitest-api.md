@@ -360,7 +360,8 @@ describe('search', () => {
 ### 测试 pinia
 
 Pinia -- 注意事项
-书写 需要使用最新的书写方式，传统的 state， action, 是无法 spy的
+代码中使用 Pinia 注意书写，写在使用的函数内，如果直接写在 .ts 的文件中，会报错
+
 ```
 const piniaStore = defineStore('name', () = {
  const data = ref()
