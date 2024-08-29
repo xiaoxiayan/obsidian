@@ -26,7 +26,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "TDD/vitest-api.md",
+                "file": "study_every/2024-08-29.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -127,7 +127,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "TDD/vitest-api.md",
+                "file": "study_every/2024-08-29.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -144,7 +144,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "TDD/vitest-api.md",
+                "file": "study_every/2024-08-29.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -215,9 +215,10 @@
   "active": "1ac20d5ee149f037",
   "lastOpenFiles": [
     "study_every/2024-08-28.md",
+    "study_every/2024-08-29.md",
+    "TDD/vitest-api.md",
     "mini-vue/99.vue-router原理.md",
     "study_every/2024-08-26.md",
-    "TDD/vitest-api.md",
     "study_every/2024-08-19.md",
     "study_every/2024-08-17.md",
     "study_every/2024-08-15.md",
@@ -241,7 +242,6 @@
     "v3toRe/diffApi.md",
     "study_every/2024-08-11.md",
     "study_every/2024-08-10.md",
-    "study_every/2024-08-09.md",
     "v3toRe",
     "未命名.canvas",
     "未命名 2.canvas",
