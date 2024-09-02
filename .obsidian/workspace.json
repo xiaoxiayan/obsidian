@@ -26,7 +26,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "study_every/2024-08-30.md",
+                "file": "study_every/2024-09-02.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -127,7 +127,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "study_every/2024-08-30.md",
+                "file": "study_every/2024-09-02.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -144,7 +144,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "study_every/2024-08-30.md",
+                "file": "study_every/2024-09-02.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -215,8 +215,10 @@
   "active": "1ac20d5ee149f037",
   "lastOpenFiles": [
     "study_every/2024-09-01.md",
-    "study_every/2024-08-29.md",
+    "study_every/2024-09-02.md",
     "study_every/2024-08-30.md",
+    "conflict-files-obsidian-git.md",
+    "study_every/2024-08-29.md",
     "study_every/2024-08-28.md",
     "TDD/vitest-api.md",
     "mini-vue/99.vue-router原理.md",
@@ -228,7 +230,6 @@
     "study_every/2024-08-13.md",
     "study_every/2024-08-12.md",
     "mini-vue/46.实现 transform.md",
-    "conflict-files-obsidian-git.md",
     "mini-vue/01. reactive  && effect && 依赖收集 && 触发依赖.md",
     "mini-vue/reactivity 依赖收集.png",
     "mini-vue/Pasted image 20220417170510.png",
@@ -241,7 +242,6 @@
     "mini-vue/37.diff ， 中间对比 移动， 新增， 删除逻辑.md",
     "mini-vue/16. 实现ref功能.md",
     "TDD/index.md",
-    "v3toRe/diffApi.md",
     "v3toRe",
     "未命名.canvas",
     "未命名 2.canvas",
