@@ -4,50 +4,23 @@
     "type": "split",
     "children": [
       {
-        "id": "f19aa7f3e933b038",
+        "id": "6aab4b07351e57f7",
         "type": "tabs",
         "children": [
           {
-            "id": "a84645aedf0e1d05",
+            "id": "a603e30b72021769",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "mini-vue/01. reactive  && effect && 依赖收集 && 触发依赖.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "1ac20d5ee149f037",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "TDD/vitest-api.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "13854031d0830861",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "study_every/2024-06-14.md",
+                "file": "study_every/2024-09-04.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -127,7 +100,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "TDD/vitest-api.md",
+                "file": "study_every/2024-09-04.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -144,7 +117,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "TDD/vitest-api.md",
+                "file": "study_every/2024-09-04.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -212,15 +185,18 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "1ac20d5ee149f037",
+  "active": "a603e30b72021769",
   "lastOpenFiles": [
     "study_every/2024-09-02.md",
-    "conflict-files-obsidian-git.md",
+    "study_every/2024-09-04.md",
     "study_every/2024-09-01.md",
     "study_every/2024-08-30.md",
+    "study_every/2024-06-14.md",
+    "mini-vue/01. reactive  && effect && 依赖收集 && 触发依赖.md",
+    "TDD/vitest-api.md",
+    "conflict-files-obsidian-git.md",
     "study_every/2024-08-29.md",
     "study_every/2024-08-28.md",
-    "TDD/vitest-api.md",
     "mini-vue/99.vue-router原理.md",
     "study_every/2024-08-26.md",
     "study_every/2024-08-19.md",
@@ -230,7 +206,6 @@
     "study_every/2024-08-13.md",
     "study_every/2024-08-12.md",
     "mini-vue/46.实现 transform.md",
-    "mini-vue/01. reactive  && effect && 依赖收集 && 触发依赖.md",
     "mini-vue/reactivity 依赖收集.png",
     "mini-vue/Pasted image 20220417170510.png",
     "mini-vue/19. 实现computed 计算属性.md",
@@ -240,8 +215,6 @@
     "mini-vue/35. 更新Element 的children.md",
     "mini-vue/36. 更新 element 的 children 双端对比 diff.md",
     "mini-vue/37.diff ， 中间对比 移动， 新增， 删除逻辑.md",
-    "mini-vue/16. 实现ref功能.md",
-    "TDD/index.md",
     "v3toRe",
     "未命名.canvas",
     "未命名 2.canvas",
