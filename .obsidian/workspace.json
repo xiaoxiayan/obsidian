@@ -14,13 +14,41 @@
               "type": "markdown",
               "state": {
                 "file": "study_every/2024-09-04.md",
+                "file": "mini-vue/01. reactive  && effect && 依赖收集 && 触发依赖.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "1ac20d5ee149f037",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "study_every/2024-09-03.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "13854031d0830861",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "study_every/2024-06-14.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -117,7 +145,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "study_every/2024-09-04.md",
+                "file": "study_every/2024-09-03.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -185,16 +213,14 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "a603e30b72021769",
+  "active": "1ac20d5ee149f037",
   "lastOpenFiles": [
     "study_every/2024-09-02.md",
+    "study_every/2024-09-03.md",
+    "TDD/vitest-api.md",
     "study_every/2024-09-04.md",
     "study_every/2024-09-01.md",
     "study_every/2024-08-30.md",
-    "study_every/2024-06-14.md",
-    "mini-vue/01. reactive  && effect && 依赖收集 && 触发依赖.md",
-    "TDD/vitest-api.md",
-    "conflict-files-obsidian-git.md",
     "study_every/2024-08-29.md",
     "study_every/2024-08-28.md",
     "mini-vue/99.vue-router原理.md",
@@ -214,7 +240,6 @@
     "mini-vue/34.更新 props.md",
     "mini-vue/35. 更新Element 的children.md",
     "mini-vue/36. 更新 element 的 children 双端对比 diff.md",
-    "mini-vue/37.diff ， 中间对比 移动， 新增， 删除逻辑.md",
     "v3toRe",
     "未命名.canvas",
     "未命名 2.canvas",
