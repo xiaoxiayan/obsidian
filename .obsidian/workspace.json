@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "study_every/2024-09-05.md",
+                "file": "mini-vue/01. reactive  && effect && 依赖收集 && 触发依赖.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -100,7 +100,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "study_every/2024-09-05.md",
+                "file": "mini-vue/01. reactive  && effect && 依赖收集 && 触发依赖.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,7 +117,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "study_every/2024-09-05.md",
+                "file": "mini-vue/01. reactive  && effect && 依赖收集 && 触发依赖.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -187,15 +187,26 @@
   },
   "active": "a603e30b72021769",
   "lastOpenFiles": [
-    "study_every/2024-09-04.md",
+    "mini-vue/16. 实现ref功能.md",
+    "mini-vue/19. 实现computed 计算属性.md",
+    "mini-vue/32-实现自定义渲染器 custom renderer.md",
+    "mini-vue/33-更新element流程搭建.md",
+    "mini-vue/45.联合类型解析.md",
+    "mini-vue/43.解析 element 标签.md",
+    "mini-vue/42. 解析插值逻辑.md",
+    "mini-vue/41.nextTick.md",
+    "mini-vue/40. 组件更新.md",
+    "mini-vue/34.更新 props.md",
+    "mini-vue/01. reactive  && effect && 依赖收集 && 触发依赖.md",
+    "mini-vue/reactivity 依赖收集.png",
     "study_every/2024-09-05.md",
+    "study_every/2024-09-04.md",
     "conflict-files-obsidian-git.md",
     "study_every/2024-09-03.md",
     "study_every/2024-09-02.md",
     "study_every/2024-09-01.md",
     "study_every/2024-08-30.md",
     "study_every/2024-06-14.md",
-    "mini-vue/01. reactive  && effect && 依赖收集 && 触发依赖.md",
     "TDD/vitest-api.md",
     "study_every/2024-08-29.md",
     "study_every/2024-08-28.md",
@@ -203,18 +214,7 @@
     "study_every/2024-08-26.md",
     "study_every/2024-08-19.md",
     "study_every/2024-08-17.md",
-    "study_every/2024-08-15.md",
-    "study_every/2024-08-14.md",
-    "study_every/2024-08-13.md",
-    "study_every/2024-08-12.md",
-    "mini-vue/46.实现 transform.md",
-    "mini-vue/reactivity 依赖收集.png",
     "mini-vue/Pasted image 20220417170510.png",
-    "mini-vue/19. 实现computed 计算属性.md",
-    "mini-vue/32-实现自定义渲染器 custom renderer.md",
-    "mini-vue/33-更新element流程搭建.md",
-    "mini-vue/34.更新 props.md",
-    "mini-vue/35. 更新Element 的children.md",
     "v3toRe",
     "未命名.canvas",
     "未命名 2.canvas",
