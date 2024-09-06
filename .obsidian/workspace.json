@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "mini-vue/01. reactive  && effect && 依赖收集 && 触发依赖.md",
+                "file": "study_every/2024-09-06.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -100,7 +100,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "mini-vue/01. reactive  && effect && 依赖收集 && 触发依赖.md",
+                "file": "study_every/2024-09-06.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,7 +117,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "mini-vue/01. reactive  && effect && 依赖收集 && 触发依赖.md",
+                "file": "study_every/2024-09-06.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -187,6 +187,9 @@
   },
   "active": "a603e30b72021769",
   "lastOpenFiles": [
+    "study_every/2024-09-05.md",
+    "study_every/2024-09-06.md",
+    "mini-vue/01. reactive  && effect && 依赖收集 && 触发依赖.md",
     "mini-vue/16. 实现ref功能.md",
     "mini-vue/19. 实现computed 计算属性.md",
     "mini-vue/32-实现自定义渲染器 custom renderer.md",
@@ -197,9 +200,7 @@
     "mini-vue/41.nextTick.md",
     "mini-vue/40. 组件更新.md",
     "mini-vue/34.更新 props.md",
-    "mini-vue/01. reactive  && effect && 依赖收集 && 触发依赖.md",
     "mini-vue/reactivity 依赖收集.png",
-    "study_every/2024-09-05.md",
     "study_every/2024-09-04.md",
     "conflict-files-obsidian-git.md",
     "study_every/2024-09-03.md",
@@ -213,7 +214,6 @@
     "mini-vue/99.vue-router原理.md",
     "study_every/2024-08-26.md",
     "study_every/2024-08-19.md",
-    "study_every/2024-08-17.md",
     "mini-vue/Pasted image 20220417170510.png",
     "v3toRe",
     "未命名.canvas",
