@@ -41,3 +41,15 @@ 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
 
 
 1.  刷新本地 dns 缓存：cmd执行命令行`ipconfig /flushdns`
+
+
+### Permissions 0644
+
+It is required that your private key files are NOT accessible by others.
+This private key will be ignored.
+
+
+私钥权限需要降低
+
+chmod 0600 ~/.ssh/id_rsa
+
