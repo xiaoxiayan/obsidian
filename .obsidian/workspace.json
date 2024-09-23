@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "study_every/2024-09-19.md",
+                "file": "study_every/2024-09-23.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -100,7 +100,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "study_every/2024-09-19.md",
+                "file": "study_every/2024-09-23.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,7 +117,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "study_every/2024-09-19.md",
+                "file": "study_every/2024-09-23.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -187,10 +187,11 @@
   },
   "active": "a603e30b72021769",
   "lastOpenFiles": [
-    "study_every/2024-09-22.md",
     "study_every/2024-09-21.md",
-    "study_every/2024-09-18.md",
+    "study_every/2024-09-23.md",
+    "study_every/2024-09-22.md",
     "study_every/2024-09-19.md",
+    "study_every/2024-09-18.md",
     "study_every/2024-09-17.md",
     "study_every/2024-09-14.md",
     "study_every/2024-09-16.md",
@@ -212,7 +213,6 @@
     "mini-vue/33-更新element流程搭建.md",
     "mini-vue/45.联合类型解析.md",
     "mini-vue/43.解析 element 标签.md",
-    "mini-vue/42. 解析插值逻辑.md",
     "mini-vue/reactivity 依赖收集.png",
     "mini-vue/Pasted image 20220417170510.png",
     "v3toRe",
