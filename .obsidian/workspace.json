@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "study_every/2024-09-25.md",
+                "file": "study_every/2024-09-26.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -100,7 +100,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "study_every/2024-09-25.md",
+                "file": "study_every/2024-09-26.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,7 +117,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "study_every/2024-09-25.md",
+                "file": "study_every/2024-09-26.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -187,8 +187,9 @@
   },
   "active": "a603e30b72021769",
   "lastOpenFiles": [
-    "study_every/2024-09-24.md",
     "study_every/2024-09-25.md",
+    "study_every/2024-09-26.md",
+    "study_every/2024-09-24.md",
     "study_every/2024-09-23.md",
     "study_every/2024-09-21.md",
     "study_every/2024-09-22.md",
@@ -212,7 +213,6 @@
     "mini-vue/16. 实现ref功能.md",
     "mini-vue/19. 实现computed 计算属性.md",
     "mini-vue/32-实现自定义渲染器 custom renderer.md",
-    "mini-vue/33-更新element流程搭建.md",
     "mini-vue/reactivity 依赖收集.png",
     "mini-vue/Pasted image 20220417170510.png",
     "v3toRe",
