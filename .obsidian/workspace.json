@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "study_every/2024-10-02.md",
+                "file": "study_every/2024-10-05.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -100,7 +100,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "study_every/2024-10-02.md",
+                "file": "study_every/2024-10-05.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,7 +117,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "study_every/2024-10-02.md",
+                "file": "study_every/2024-10-05.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -187,8 +187,10 @@
   },
   "active": "a603e30b72021769",
   "lastOpenFiles": [
-    "study_every/2024-10-01.md",
+    "study_every/2024-10-04.md",
+    "study_every/2024-10-05.md",
     "study_every/2024-10-02.md",
+    "study_every/2024-10-01.md",
     "study_every/2024-09-30.md",
     "study_every/2024-09-26.md",
     "study_every/2024-09-28.md",
@@ -211,8 +213,6 @@
     "conflict-files-obsidian-git.md",
     "mini-vue/00.mini-vue.md",
     "study_every/2024-09-07.md",
-    "study_every/2024-09-06.md",
-    "study_every/2024-09-05.md",
     "mini-vue/reactivity 依赖收集.png",
     "mini-vue/Pasted image 20220417170510.png",
     "v3toRe",
