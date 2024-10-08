@@ -13,15 +13,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "study_every/2024-10-06.md",
+                "file": "study_every/2024-10-08.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -186,10 +185,10 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "c7c2d46c13adf352",
+  "active": "a603e30b72021769",
   "lastOpenFiles": [
-    "study_every/2024-10-05.md",
     "study_every/2024-10-06.md",
+    "study_every/2024-10-05.md",
     "study_every/2024-10-04.md",
     "study_every/2024-10-02.md",
     "study_every/2024-09-26.md",
