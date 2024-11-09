@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "面筋/基础.md",
+                "file": "mini-vue/01. reactive  && effect && 依赖收集 && 触发依赖.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "基础"
+              "title": "01. reactive  && effect && 依赖收集 && 触发依赖"
             }
           }
         ]
@@ -209,8 +209,11 @@
   },
   "active": "9a2120f374d5968f",
   "lastOpenFiles": [
-    "面筋/promise.md",
+    "mini-vue/reactivity 依赖收集.png",
+    "mini-vue/01. reactive  && effect && 依赖收集 && 触发依赖.md",
+    "mini-vue/19. 实现computed 计算属性.md",
     "面筋/基础.md",
+    "面筋/promise.md",
     "readRefactoring/提炼函数（106）.md",
     "study_every/2022-04-27.md",
     "面筋/跨域的cookie.md",
@@ -233,10 +236,6 @@
     "conflict-files-obsidian-git.md",
     "study_every/2024-10-31.md",
     "study_every/2024-10-30.md",
-    "study_every/2024-10-29.md",
-    "study_every/2024-10-28.md",
-    "study_every/2024-10-27.md",
-    "mini-vue/reactivity 依赖收集.png",
     "mini-vue/Pasted image 20220417170510.png",
     "v3toRe",
     "未命名.canvas",
