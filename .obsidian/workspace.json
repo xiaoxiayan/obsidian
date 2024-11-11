@@ -43,13 +43,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "study_every/2024-11-07.md",
+                "file": "study_every/2024-11-11.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2024-11-07"
+              "title": "2024-11-11"
             }
           }
         ],
@@ -141,7 +141,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "study_every/2024-11-07.md",
+                "file": "study_every/2024-11-11.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,7 +151,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for 2024-11-07"
+              "title": "Backlinks for 2024-11-11"
             }
           },
           {
@@ -160,12 +160,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "study_every/2024-11-07.md",
+                "file": "study_every/2024-11-11.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from 2024-11-07"
+              "title": "Outgoing links from 2024-11-11"
             }
           },
           {
@@ -238,15 +238,16 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "3839958a7c2e92eb",
+  "active": "9a2120f374d5968f",
   "lastOpenFiles": [
-    "面筋/review.md",
     "study_every/2024-11-10.md",
+    "study_every/2024-11-11.md",
+    "study_every/2024-11-07.md",
+    "面筋/review.md",
     "面筋/promise.md",
     "面筋/面筋！！！.md",
     "study_every/2024-11-09.md",
     "study_every/2024-11-08.md",
-    "study_every/2024-11-07.md",
     "study_every/2024-11-06.md",
     "study_every/2024-11-05.md",
     "study_every/2024-11-04.md",
@@ -265,7 +266,6 @@
     "study_every/2024-10-21.md",
     "study_every/2024-10-20.md",
     "study_every/2024-10-18.md",
-    "study_every/2024-10-17.md",
     "mini-vue/reactivity 依赖收集.png",
     "mini-vue/Pasted image 20220417170510.png",
     "v3toRe",
