@@ -43,13 +43,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "leetCode/算法.md",
+                "file": "study_every/2024-11-11.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "算法"
+              "title": "2024-11-11"
             }
           }
         ],
@@ -240,6 +240,7 @@
   },
   "active": "9a2120f374d5968f",
   "lastOpenFiles": [
+    "leetCode/算法.md",
     "leetCode/二叉树/二叉树的属性/1305/两棵二叉搜索树中的所有元素.md",
     "leetCode/二叉树/二叉树的属性/1305/例子.png",
     "leetCode/二叉树/二叉树的属性/257/例子.png",
@@ -268,7 +269,6 @@
     "study_every/2024-10-31.md",
     "study_every/2024-10-30.md",
     "study_every/2024-10-29.md",
-    "study_every/2024-10-28.md",
     "mini-vue/reactivity 依赖收集.png",
     "mini-vue/Pasted image 20220417170510.png",
     "v3toRe",
