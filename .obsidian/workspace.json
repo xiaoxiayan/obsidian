@@ -11,10 +11,15 @@
             "id": "6bd2c70405f3627b",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "study_every/2024-11-12.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "2024-11-12"
             }
           }
         ]
@@ -105,6 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "study_every/2024-11-12.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +120,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks"
+              "title": "Backlinks for 2024-11-12"
             }
           },
           {
@@ -123,11 +129,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "study_every/2024-11-12.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links"
+              "title": "Outgoing links from 2024-11-12"
             }
           },
           {
@@ -202,6 +209,7 @@
   },
   "active": "6bd2c70405f3627b",
   "lastOpenFiles": [
+    "study_every/2024-11-13.md",
     "面筋/review.md",
     "aboutGit/ssh 配置.md",
     "aboutGit/本地项目推线上.md",
@@ -227,7 +235,6 @@
     "mini-vue/00.mini-vue.md",
     "readRefactoring/重构的条件.md",
     "readRefactoring/提炼函数（106）.md",
-    "TDD/vitest-api.md",
     "mini-vue/reactivity 依赖收集.png",
     "mini-vue/Pasted image 20220417170510.png",
     "v3toRe",
