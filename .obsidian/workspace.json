@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "study_every/2024-11-14.md",
+                "file": "study_every/2024-11-16.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2024-11-14"
+              "title": "2024-11-16"
             }
           }
         ]
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "study_every/2024-11-14.md",
+                "file": "study_every/2024-11-16.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -120,7 +120,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for 2024-11-14"
+              "title": "Backlinks for 2024-11-16"
             }
           },
           {
@@ -129,12 +129,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "study_every/2024-11-14.md",
+                "file": "study_every/2024-11-16.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from 2024-11-14"
+              "title": "Outgoing links from 2024-11-16"
             }
           },
           {
@@ -209,8 +209,9 @@
   },
   "active": "6bd2c70405f3627b",
   "lastOpenFiles": [
-    "study_every/2024-11-13.md",
     "study_every/2024-11-14.md",
+    "study_every/2024-11-16.md",
+    "study_every/2024-11-13.md",
     "study_every/2024-11-12.md",
     "面筋/review.md",
     "aboutGit/ssh 配置.md",
@@ -234,7 +235,6 @@
     "mini-vue/19. 实现computed 计算属性.md",
     "mini-vue/01. reactive  && effect && 依赖收集 && 触发依赖.md",
     "mini-vue/00.mini-vue.md",
-    "readRefactoring/重构的条件.md",
     "mini-vue/reactivity 依赖收集.png",
     "mini-vue/Pasted image 20220417170510.png",
     "v3toRe",
