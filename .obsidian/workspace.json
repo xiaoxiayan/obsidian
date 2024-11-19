@@ -28,13 +28,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "study_every/2024-11-17.md",
+                "file": "study_every/2024-11-19.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2024-11-17"
+              "title": "2024-11-19"
             }
           }
         ],
@@ -225,8 +225,9 @@
   },
   "active": "9ce50554f6d430e8",
   "lastOpenFiles": [
-    "study_every/2024-11-16.md",
     "study_every/2024-11-17.md",
+    "study_every/2024-11-19.md",
+    "study_every/2024-11-16.md",
     "study_every/2024-11-14.md",
     "study_every/2024-11-13.md",
     "study_every/2024-11-12.md",
@@ -250,7 +251,6 @@
     "mini-vue/36. 更新 element 的 children 双端对比 diff.md",
     "mini-vue/35. 更新Element 的children.md",
     "mini-vue/19. 实现computed 计算属性.md",
-    "mini-vue/01. reactive  && effect && 依赖收集 && 触发依赖.md",
     "mini-vue/reactivity 依赖收集.png",
     "mini-vue/Pasted image 20220417170510.png",
     "v3toRe",
