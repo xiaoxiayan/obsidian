@@ -43,13 +43,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "study_every/2024-11-20.md",
+                "file": "study_every/2024-11-28.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2024-11-20"
+              "title": "2024-11-28"
             }
           }
         ],
@@ -240,8 +240,10 @@
   },
   "active": "5e72a9cbe6f80790",
   "lastOpenFiles": [
-    "study_every/2024-11-19.md",
+    "study_every/2024-11-27.md",
+    "study_every/2024-11-28.md",
     "study_every/2024-11-20.md",
+    "study_every/2024-11-19.md",
     "study_every/2024-11-17.md",
     "study_every/2024-11-16.md",
     "study_every/2024-11-14.md",
@@ -264,8 +266,6 @@
     "mini-vue/32-实现自定义渲染器 custom renderer.md",
     "mini-vue/33-更新element流程搭建.md",
     "mini-vue/34.更新 props.md",
-    "mini-vue/36. 更新 element 的 children 双端对比 diff.md",
-    "mini-vue/35. 更新Element 的children.md",
     "mini-vue/reactivity 依赖收集.png",
     "mini-vue/Pasted image 20220417170510.png",
     "v3toRe",
