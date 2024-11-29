@@ -43,13 +43,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "study_every/2024-11-28.md",
+                "file": "aboutGit/本地项目推线上.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2024-11-28"
+              "title": "本地项目推线上"
             }
           }
         ],
@@ -240,8 +240,9 @@
   },
   "active": "5e72a9cbe6f80790",
   "lastOpenFiles": [
-    "study_every/2024-11-27.md",
+    "study_every/2024-11-29.md",
     "study_every/2024-11-28.md",
+    "study_every/2024-11-27.md",
     "study_every/2024-11-20.md",
     "study_every/2024-11-19.md",
     "study_every/2024-11-17.md",
@@ -265,7 +266,6 @@
     "面筋/v8引擎.md",
     "mini-vue/32-实现自定义渲染器 custom renderer.md",
     "mini-vue/33-更新element流程搭建.md",
-    "mini-vue/34.更新 props.md",
     "mini-vue/reactivity 依赖收集.png",
     "mini-vue/Pasted image 20220417170510.png",
     "v3toRe",
