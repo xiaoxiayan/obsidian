@@ -43,25 +43,28 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "study_every/2024-12-19.md",
+                "file": "study_every/2024-12-12.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2024-12-19"
+              "title": "2024-12-12"
             }
           },
           {
             "id": "9282debf704c7d99",
             "type": "leaf",
             "state": {
-              "type": "release-notes",
+              "type": "markdown",
               "state": {
-                "currentVersion": "1.7.7"
+                "file": "study_every/2024-12-21.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
               },
               "icon": "lucide-file",
-              "title": "Release Notes 1.7.7"
+              "title": "2024-12-21"
             }
           }
         ],
@@ -87,7 +90,7 @@
                 "sortOrder": "alphabetical"
               },
               "icon": "lucide-folder-closed",
-              "title": "Files"
+              "title": "文件列表"
             }
           },
           {
@@ -240,25 +243,22 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "switcher:Open quick switcher": false,
-      "graph:Open graph view": false,
-      "canvas:Create new canvas": false,
-      "daily-notes:Open today's daily note": false,
-      "templates:Insert template": false,
-      "command-palette:Open command palette": false,
-      "markdown-importer:Open format converter": false,
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false,
+      "markdown-importer:打开 Markdown 格式转换器": false,
       "templater-obsidian:Templater": false
     }
   },
   "active": "9282debf704c7d99",
   "lastOpenFiles": [
-    "mini-vue/01. reactive  && effect && 依赖收集 && 触发依赖.md",
     "study_every/2024-12-19.md",
-    "conflict-files-obsidian-git.md",
-    "mini-vue/reactivity 依赖收集.png",
-    "mini-vue/00.mini-vue.md",
-    "study_every/2024-12-12.md",
+    "study_every/2024-12-21.md",
     "study_every/2024-12-16.md",
+    "study_every/2024-12-12.md",
     "study_every/2024-12-11.md",
     "study_every/2024-12-02.md",
     "study_every/2024-11-29.md",
@@ -279,6 +279,9 @@
     "面筋/跨域的cookie.md",
     "面筋/less的继承.md",
     "面筋/面筋！！！.md",
+    "面筋/vue2 -- vue3.md",
+    "面筋/promise.md",
+    "mini-vue/reactivity 依赖收集.png",
     "mini-vue/Pasted image 20220417170510.png",
     "v3toRe",
     "未命名.canvas",
