@@ -51,9 +51,21 @@
               "icon": "lucide-file",
               "title": "2024-12-12"
             }
+          },
+          {
+            "id": "9282debf704c7d99",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.7.7"
+              },
+              "icon": "lucide-file",
+              "title": "Release Notes 1.7.7"
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -238,7 +250,7 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "5e72a9cbe6f80790",
+  "active": "9282debf704c7d99",
   "lastOpenFiles": [
     "study_every/2024-12-16.md",
     "study_every/2024-12-12.md",
