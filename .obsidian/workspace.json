@@ -58,13 +58,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "study_every/2025-02-03.md",
+                "file": "study_every/2025-02-04.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2025-02-03"
+              "title": "2025-02-04"
             }
           }
         ],
@@ -255,8 +255,9 @@
   },
   "active": "9282debf704c7d99",
   "lastOpenFiles": [
-    "study_every/2025-01-19.md",
     "study_every/2025-02-03.md",
+    "study_every/2025-02-04.md",
+    "study_every/2025-01-19.md",
     "study_every/2025-01-18.md",
     "study_every/2025-01-16.md",
     "study_every/2025-01-14.md",
@@ -280,7 +281,6 @@
     "aboutGit/本地项目推线上.md",
     "study_every/2024-11-28.md",
     "study_every/2024-11-27.md",
-    "study_every/2024-11-20.md",
     "mini-vue/reactivity 依赖收集.png",
     "mini-vue/Pasted image 20220417170510.png",
     "v3toRe",
