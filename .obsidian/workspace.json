@@ -58,13 +58,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "study_every/2025-02-04.md",
+                "file": "study_every/2025-02-10.md",
                 "mode": "source",
-                "backlinks": false,
-                "source": false
+                "source": false,
+                "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "2025-02-04"
+              "title": "2025-02-10"
             }
           }
         ],
@@ -87,7 +87,8 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "alphabetical"
+                "sortOrder": "alphabetical",
+                "autoReveal": false
               },
               "icon": "lucide-folder-closed",
               "title": "文件列表"
@@ -205,8 +206,8 @@
                 "file": ".obsidian/workspace",
                 "staged": false
               },
-              "icon": "git-pull-request",
-              "title": "Diff View"
+              "icon": "lucide-file",
+              "title": "插件不再活动"
             }
           },
           {
@@ -229,12 +230,22 @@
             "state": {
               "type": "todo",
               "state": {},
+              "icon": "lucide-file",
+              "title": "插件不再活动"
+            }
+          },
+          {
+            "id": "244d5981311015b5",
+            "type": "leaf",
+            "state": {
+              "type": "todo",
+              "state": {},
               "icon": "checkmark",
               "title": "Todo List"
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 6
       }
     ],
     "direction": "horizontal",
@@ -253,10 +264,11 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "9282debf704c7d99",
+  "active": "244d5981311015b5",
   "lastOpenFiles": [
-    "study_every/2025-02-03.md",
     "study_every/2025-02-04.md",
+    "study_every/2025-02-10.md",
+    "study_every/2025-02-03.md",
     "study_every/2025-01-19.md",
     "study_every/2025-01-18.md",
     "study_every/2025-01-16.md",
@@ -280,7 +292,6 @@
     "study_every/2024-11-29.md",
     "aboutGit/本地项目推线上.md",
     "study_every/2024-11-28.md",
-    "study_every/2024-11-27.md",
     "mini-vue/reactivity 依赖收集.png",
     "mini-vue/Pasted image 20220417170510.png",
     "v3toRe",
