@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "study_every/2024-11-17.md",
+                "file": "study_every/2025-02-20.md",
                 "mode": "source",
-                "backlinks": false,
-                "source": false
+                "source": false,
+                "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "2024-11-17"
+              "title": "2025-02-20"
             }
           },
           {
@@ -58,17 +58,16 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "study_every/2025-02-19.md",
+                "file": "study_every/2025-02-20.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "2025-02-19"
+              "title": "2025-02-20"
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -264,10 +263,12 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "9282debf704c7d99",
+  "active": "6bd2c70405f3627b",
   "lastOpenFiles": [
-    "study_every/2025-02-17.md",
+    "study_every/2024-11-17.md",
+    "study_every/2025-02-20.md",
     "study_every/2025-02-19.md",
+    "study_every/2025-02-17.md",
     "study_every/2025-02-14.md",
     "study_every/2025-02-13.md",
     "study_every/2025-02-12.md",
@@ -290,8 +291,6 @@
     "study_every/2024-12-25.md",
     "study_every/2024-12-23.md",
     "study_every/2024-12-21.md",
-    "study_every/2024-12-19.md",
-    "study_every/2024-12-16.md",
     "mini-vue/reactivity 依赖收集.png",
     "mini-vue/Pasted image 20220417170510.png",
     "v3toRe",
