@@ -28,13 +28,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "study_every/2025-05-15.md",
+                "file": "study_every/2025-05-16.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "2025-05-15"
+              "title": "2025-05-16"
             }
           }
         ],
@@ -236,8 +236,10 @@
   },
   "active": "fdd53cf3b6a99983",
   "lastOpenFiles": [
-    "study_every/2025-05-14.md",
+    "study_every/2025-05-17.md",
+    "study_every/2025-05-16.md",
     "study_every/2025-05-15.md",
+    "study_every/2025-05-14.md",
     "study_every/2025-05-13.md",
     "study_every/2025-05-12.md",
     "study_every/2025-05-07.md",
@@ -260,8 +262,6 @@
     "study_every/2025-03-21.md",
     "study_every/2025-03-20.md",
     "study_every/2025-03-19.md",
-    "study_every/2025-03-18.md",
-    "study_every/2025-03-17.md",
     "mini-vue/reactivity 依赖收集.png",
     "mini-vue/Pasted image 20220417170510.png",
     "v3toRe",
