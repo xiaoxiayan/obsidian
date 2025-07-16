@@ -52,8 +52,7 @@
               "title": "2025-07-16"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -249,10 +248,10 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "cd21551ae243d0b5",
+  "active": "103da4fa2cb21f1a",
   "lastOpenFiles": [
-    "study_every/2025-07-07.md",
     "study_every/2025-07-16.md",
+    "study_every/2025-07-07.md",
     "study_every/2025-07-04.md",
     "study_every/2025-07-02.md",
     "study_every/2025-07-01.md",
