@@ -38,6 +38,21 @@
             }
           },
           {
+            "id": "daa0743590bf8abd",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "study_every/2025-09-28.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "2025-09-28"
+            }
+          },
+          {
             "id": "fdd53cf3b6a99983",
             "type": "leaf",
             "state": {
@@ -68,7 +83,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -265,7 +280,7 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "753c57e1a3676fb5",
+  "active": "daa0743590bf8abd",
   "lastOpenFiles": [
     "study_every/2025-09-22.md",
     "study_every/2025-09-28.md",
