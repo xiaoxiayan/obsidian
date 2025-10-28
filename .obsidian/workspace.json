@@ -4,22 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "6b549adafaac3a02",
+        "id": "64a2ac45fdd40837",
         "type": "tabs",
         "children": [
           {
-            "id": "daa0743590bf8abd",
+            "id": "ab7f7a99e0dfafbe",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "study_every/2025-10-21.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "2025-10-21"
+              "title": "新标签页"
             }
           }
         ]
@@ -219,10 +214,22 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "daa0743590bf8abd",
+  "active": "ab7f7a99e0dfafbe",
   "lastOpenFiles": [
-    "study_every/2025-10-14.md",
+    "study_every/00.index.md",
+    "mini-vue/99.最长递增子序列.md",
+    "mini-vue/50. 解析 template 导出到 运行时，runtime-core.md",
+    "mini-vue/49.element类型和 联合.md",
+    "mini-vue/48. 实现代码生成 插值.md",
+    "mini-vue/47.实现代码生成string类型.md",
+    "mini-vue/46.实现 transform.md",
+    "mini-vue/45.联合类型解析.md",
+    "mini-vue/43.解析 element 标签.md",
+    "mini-vue/42. 解析插值逻辑.md",
+    "mini-vue/37.diff ， 中间对比 移动， 新增， 删除逻辑.md",
+    "mini-vue/40. 组件更新.md",
     "study_every/2025-10-21.md",
+    "study_every/2025-10-14.md",
     "study_every/2025-10-11.md",
     "study_every/2025-09-28.md",
     "study_every/2025-09-22.md",
@@ -235,18 +242,6 @@
     "study_every/2025-08-05.md",
     "study_every/2025-08-04.md",
     "study_every/2025-08-02.md",
-    "study_every/2025-07-31.md",
-    "study_every/2025-07-26.md",
-    "study_every/2025-07-23.md",
-    "study_every/2025-07-21.md",
-    "study_every/2025-03-12.md",
-    "study_every/2025-07-16.md",
-    "study_every/2025-07-07.md",
-    "study_every/2025-07-04.md",
-    "study_every/2025-07-02.md",
-    "study_every/2025-07-01.md",
-    "study_every/2025-06-30.md",
-    "study_every/2025-06-09.md",
     "mini-vue/reactivity 依赖收集.png",
     "mini-vue/Pasted image 20220417170510.png",
     "v3toRe",
