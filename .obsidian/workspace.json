@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "study_every/2026-03-20.md",
+                "file": "study_every/2026-03-23.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "2026-03-20"
+              "title": "2026-03-23"
             }
           }
         ]
@@ -221,8 +221,9 @@
   },
   "active": "ab7f7a99e0dfafbe",
   "lastOpenFiles": [
-    "study_every/2026-03-19.md",
     "study_every/2026-03-20.md",
+    "study_every/2026-03-23.md",
+    "study_every/2026-03-19.md",
     "study_every/2026-03-18.md",
     "study_every/2026-03-17.md",
     "study_every/2022-01-13.md",
@@ -246,7 +247,6 @@
     "mini-vue/40. 组件更新.md",
     "study_every/2025-10-21.md",
     "study_every/2025-10-14.md",
-    "study_every/2025-10-11.md",
     "mini-vue/reactivity 依赖收集.png",
     "mini-vue/Pasted image 20220417170510.png",
     "v3toRe",
