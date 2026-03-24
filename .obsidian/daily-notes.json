@@ -1,6 +1,5 @@
 {
   "folder": "study_every",
   "template": "template/daily-plan",
-  "autorun": true,
   "format": "YYYY-MM-DD"
 }
