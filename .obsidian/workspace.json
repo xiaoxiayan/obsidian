@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "study_every/2026-03-25.md",
+                "file": "study_every/2026-03-26.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "2026-03-25"
+              "title": "2026-03-26"
             }
           }
         ]
@@ -221,8 +221,9 @@
   },
   "active": "ab7f7a99e0dfafbe",
   "lastOpenFiles": [
-    "study_every/2026-03-24.md",
     "study_every/2026-03-25.md",
+    "study_every/2026-03-26.md",
+    "study_every/2026-03-24.md",
     "study_every/2026-03-23.md",
     "study_every/2026-03-20.md",
     "study_every/2026-03-19.md",
@@ -246,7 +247,6 @@
     "mini-vue/43.解析 element 标签.md",
     "mini-vue/42. 解析插值逻辑.md",
     "mini-vue/37.diff ， 中间对比 移动， 新增， 删除逻辑.md",
-    "mini-vue/40. 组件更新.md",
     "mini-vue/reactivity 依赖收集.png",
     "mini-vue/Pasted image 20220417170510.png",
     "v3toRe",
