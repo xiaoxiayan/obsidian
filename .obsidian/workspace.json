@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "study_every/2026-04-07.md",
+                "file": "study_every/2026-04-09.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "2026-04-07"
+              "title": "2026-04-09"
             }
           }
         ]
@@ -221,8 +221,9 @@
   },
   "active": "ab7f7a99e0dfafbe",
   "lastOpenFiles": [
-    "study_every/2026-04-03.md",
     "study_every/2026-04-07.md",
+    "study_every/2026-04-09.md",
+    "study_every/2026-04-03.md",
     "study_every/2026-04-01.md",
     "study_every/2026-04-02.md",
     "study_every/2026-03-31.md",
@@ -246,7 +247,6 @@
     "mini-vue/99.最长递增子序列.md",
     "mini-vue/50. 解析 template 导出到 运行时，runtime-core.md",
     "mini-vue/49.element类型和 联合.md",
-    "mini-vue/48. 实现代码生成 插值.md",
     "mini-vue/reactivity 依赖收集.png",
     "mini-vue/Pasted image 20220417170510.png",
     "v3toRe",
